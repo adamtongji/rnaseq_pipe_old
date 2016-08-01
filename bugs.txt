@@ -1,0 +1,2 @@
+1. pathview下载图片时可能出现libpng error: read error。 下载到本地，用Rstudio手动跑。
+2. STAR不出现final.out，只有STARtmp。 STAR崩溃因资源不足，请重跑。
