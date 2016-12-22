@@ -1,0 +1,2367 @@
+gene	logFC	outdegree	indegree	outdegree_genes	indegree_genes
+Entpd1	-0.58185001502242	100	120	Ntpcr,Ak2,Polr3a,Pde2a,Cant1,Polr2e,Nt5m,Rrm2b,Ak6,Polr2a,Guk1,Cmpk1,Dck,Nt5c2,Polr3h,Polr1d,Tk1,Ak4,Entpd5,Uprt,Adcy4,Impdh1,Polr2l,Nme7,Entpd1,Ak1,Pde3b,Polr3f,Polr2h,Nme3,Hprt,Ak5,Polr3b,Polr2d,Pklr,Twistnb,Nt5c1a,Pde1c,Uckl1,Rrm2,Adcy10,Polr1a,Ak8,Nt5c,Adsl,Nudt16,Polr1e,Tk2,Itpa,Adcy9,Impdh2,Entpd4,Aprt,Polr3k,Adcy5,Nme4,Pde3a,Polr3g,Polr2g,Pde10a,Pnpt1,Polr3c,Adk,Polr2c,Uck1,Rrm1,Pde1b,Polr1b,Polr3gl,Adcy6,Adcy7,Polr3d,Adcy2,Polr2j,Nme5,Entpd3,Nt5c3b,Polr2f,Nme1,Ak7,Pde11a,1700080E11Rik,Polr2b,Pde1a,Uck2,Polr1c,Nt5c3,Dtymk,Nt5e,Nme6,Entpd6,Pkm,Umps,Polr3e,Adcy3,Nudt2,Polr2i,Nme2,Entpd2,Znrd1	Nme4,Nme7,Polr3d,Prim2,Nme2,Gucy2e,Pde10a,Pold1,Entpd6,Polr3b,Pole4,Nme6,Pold4,Cmpk1,Ampd2,Pola1,Ctps,Gucy2f,Polr3a,Adcy2,Polr1a,Polr3k,Pde1c,Ak7,Polr2e,Entpd1,Adcy4,Pde1a,Polr2j,Ak2,Polr2a,Polr2f,Ctps2,Pde5a,Pde6d,Gmpr2,Itpa,Pole3,Pde8b,Polr2i,Adcy6,Pold2,Twistnb,Polr2g,Entpd5,Pde7a,Adcy9,Adssl1,Pde1b,Npr1,Gmpr,Polr3gl,Polr1b,Rrm2,Polr3e,Pole,Gucy2c,Nme1,Polr3h,Ak3,Pole2,Pde9a,Pde3a,Guk1,Polr1c,Adcy5,Pde6h,Polr2b,Ak5,Polr2d,Adcy3,Rrm2b,Polr2c,Pde8a,Pde3b,Prim1,Entpd4,Polr1e,Polr2h,Polr2l,Adss,Pde2a,Pde4c,Pde4a,Rrm1,Pde4b,Adcy7,Npr2,Ak8,Pde6a,Pnpt1,Pde6b,Pde11a,Gmps,Tyms,Polr3f,Gucy1b3,Znrd1,Atic,Hddc3,Polr3g,Nme5,Pold3,Polr1d,Pola2,Nme3,Cant1,Polr3c,Ak4,Ampd3,Ak6,Gucy1a3,Ak1,Adcy10,Ampd1,Entpd3,Gucy1b2,Pde6g,Pde7b,Pde4d
+Pik3cb	0.66866175515786	65	143	Pld1,Pten,Fxyd2,Inpp5e,Atp1a3,Itk,Atp1a2,Prkcd,Pip5k1b,Pip4k2a,Mtor,Ilk,Tmem55a,Rac1,Prex1,Kras,Pld2,Slc2a4,Inpp5d,Atp1b3,Rcan2,Plcg1,Pip5k1a,Hif1a,Casp9,Tmem55b,Akt1,Prkcz,Synj2,Pip4k2b,Rac2,Vav1,Inppl1,Pdpk1,Txk,Gsk3b,Pip5kl1,Synj1,Egfr,Nras,Rac3,Lcp2,Akt2,Atp1b1,Pip4k2c,Thra,Inpp5b,Dnm2,Prkci,Cdc42,Chkb,Pip5k1c,Atp1a1,Ocrl,Akt3,Chka,Ptk2,Vav3,Atp1a4,Hras,Bin1,Vav2,Plcg2,Btk,Atp1b2	Rras2,Traf3,Homer2,Il2rg,Fgfr1,Gng11,Jak1,Jak2,Plce1,Met,Nras,Fcer1g,Plcd4,Csf1r,Flt1,Itgb2,Plcg1,Ptk2,Icos,Gm5741,Raf1,Itga2,Gng4,Traf5,Gng3,Lifr,Plcd1,Gnb1,Gnai3,Gab2,Flt4,Gng10,Gnb2,Erbb3,Alk,Vav3,Thrb,Homer1,Tiam1,Gab1,Gng5,Itgam,Csf2rb2,Hck,Tyk2,Ins1,Il6st,Fgfr3,Gng7,Lyn,Gng8,Jak3,Gnai2,Il2rb,Gnb5,Gnb3,Ptpn11,Insr,Vav1,Rac1,Pip4k2b,Pdgfrb,Fyn,Gng13,Flt3,Agap2,Rap1b,Erbb2,Fgfr4,Src,Rras,Lck,Gnai1,Irs3,Cd3d,Eml4,Cblc,Gng12,Plch2,Inpp5b,Il2ra,Mras,Egfr,Pdgfra,Kras,Tlr3,Fgfr2,Rap1a,Ogt,Traf1,Gp9,Vav2,Plcb1,Inpp5e,Irs2,Kdr,Lat,Hcst,Gp5,Zap70,Traf2,Igf1r,Cbl,Gp1ba,Plcb4,Cd3g,Csf2rb,Cblb,Ntrk1,Gng2,Crk,Pik3ap1,Plcd3,Pip4k2a,Igf1,Kit,Crkl,Gnb4,Irs1,Il3ra,Cd28,Vcam1,Synj2,Synj1,Hras,Fgr,Homer3,Erbb4,Ngfr,Plcb2,Plcb3,Gngt1,Itgb1,Cd3e,Pten,Gnao1,Cd19,Ocrl,Gp1bb,Plcg2,Gngt2,Syk,Pip4k2c
+Pik3cd	0.445079104578147	65	143	Atp1b1,Akt1,Slc2a4,Rac1,Pip5kl1,Casp9,Inpp5e,Pip4k2b,Ptk2,Egfr,Inppl1,Pip5k1b,Bin1,Pdpk1,Atp1b2,Vav2,Prkcd,Synj2,Akt2,Rac2,Prkcz,Pten,Atp1a4,Tmem55a,Pip4k2a,Rcan2,Vav3,Nras,Pip5k1a,Gsk3b,Inpp5b,Vav1,Plcg2,Thra,Atp1a3,Kras,Atp1b3,Ocrl,Synj1,Hras,Akt3,Atp1a1,Hif1a,Itk,Cdc42,Tmem55b,Plcg1,Dnm2,Fxyd2,Pld1,Rac3,Mtor,Prkci,Chkb,Btk,Txk,Atp1a2,Chka,Inpp5d,Pip4k2c,Ilk,Pld2,Pip5k1c,Lcp2,Prex1	Il6st,Fcer1g,Fgfr4,Src,Egfr,Kras,Inpp5b,Gnb1,Crk,Mras,Homer3,Cd28,Ocrl,Cblc,Cbl,Plch2,Eml4,Gnai1,Thrb,Inpp5e,Alk,Il2ra,Ptk2,Tlr3,Gp1ba,Plcb4,Zap70,Traf1,Plcb1,Igf1r,Vav3,Cd3g,Fgfr2,Irs2,Traf3,Lat,Hcst,Gp5,Pip4k2a,Csf2rb,Ntrk1,Il3ra,Plcd3,Fyn,Synj1,Irs1,Igf1,Kdr,Hras,Il2rb,Pik3ap1,Gnb3,Gnb4,Flt3,Ngfr,Flt4,Plcb2,Homer2,Crkl,Lyn,Gp9,Csf1r,Erbb4,Vav2,Gngt2,Ins1,Fgr,Pdgfra,Vcam1,Gngt1,Itgb1,Fgfr1,Nras,Syk,Pten,Kit,Rras2,Plcg2,Gng11,Jak1,Pip4k2c,Jak2,Gnao1,Plce1,Gng2,Raf1,Flt1,Cd19,Plcd4,Icos,Plcd1,Gng12,Itga2,Met,Gng4,Itgb2,Lifr,Gab2,Gm5741,Gng10,Gnb2,Synj2,Gnai3,Gab1,Gp1bb,Ogt,Itgam,Gng3,Traf5,Homer1,Cd3e,Tyk2,Gng5,Erbb3,Cblb,Csf2rb2,Plcb3,Tiam1,Plcg1,Irs3,Jak3,Rac1,Ptpn11,Pip4k2b,Insr,Hck,Fgfr3,Gnai2,Gng13,Gnb5,Gng7,Gng8,Vav1,Rap1a,Agap2,Traf2,Rap1b,Cd3d,Erbb2,Pdgfrb,Lck,Il2rg,Rras
+Plcb2	0.851957947233968	88	99	Ppp3cb,Plcb2,Inpp5e,Ppp3r1,Dgkg,Inpp5a,Pip5kl1,Synj2,Pik3cg,Camk2d,Plcg1,Mtmr4,Kcnk3,Camk2a,Itpr3,Pi4ka,Prkcb,Pi4k2b,Impad1,Egfr,Pik3r2,Minpp1,Inpp5j,Pip4k2b,Ppp3cc,Ipmk,Prkce,Dgkh,Dgkd,Plcb3,Plcd4,Prkca,Inpp5b,Pip5k1a,Calm1,Mtmr3,Synj1,Pik3cd,Mtmr7,Itpka,Pik3c3,Dgkq,Pik3c2g,Pip4k2c,Cdipt,Inpp5k,Plcb4,Plcd1,Prkcd,Ocrl,Dgke,Mtmr14,Dgka,Mtm1,Pip5k1b,Plce1,Calm2,Pikfyve,Pten,Mtmr2,Pik3r3,Mtmr6,Pik3ca,Impa1,Camk2b,Pik3c2b,Prkcg,Dgkz,Pik3r5,Plcb1,Impa2,Pip5k1c,Plcd3,Mtmr1,Calm3,Camk2g,Ppp3ca,Itpkc,Pik3cb,Itpr2,Itpr1,Pi4k2a,Pik3r1,Plcg2,Itpkb,Pik3c2a,Pi4kb,Pip4k2a	Gnai1,Plcb2,Plcb1,Gng12,Flt1,Kit,Pten,Fgfr1,Pip5k1c,Gnb4,Gngt1,Pik3r3,Pik3r5,Inpp5a,Kdr,Gng5,Gnb5,Igf1r,Pi4kb,Fzd7,Pi4k2b,Plcg2,Gnb2,Itgav,Pip5k1a,Fzd8,Fgfr3,Plcb4,Fgfr4,Gng4,Plcb3,Gm5741,Pik3r1,Dgkd,Tek,Dgkh,Gng13,Csf1r,Dgke,Pik3c2b,Gnb1,Synj2,Gng3,Itgb3,Dgkg,Gng10,Pdgfrb,Egfr,Prkg1,Dgka,Dgkz,Pik3c2a,Prkg2,Fzd1,Pik3r2,Gngt2,Fgfr2,Gnaq,Plcd4,Inpp5b,Inpp5k,Fzd2,Ocrl,Inpp5e,Inpp5j,Ngfr,Gng2,Dgkq,Flt4,Met,Gnao1,Plcd3,Fzd9,Inpp1,Plce1,Fzd4,Plcg1,Fzd6,Pi4ka,Gnb3,Insr,Gnai3,Pi4k2a,Gna14,Fzd3,Pik3c2g,Gna11,Gng8,Gng7,Ipmk,Pdgfra,Epha2,Plcd1,Pip5k1b,Fzd5,Gng11,Gna15,Synj1,Gnai2
+Plcb3	0.43942504129235	88	99	Mtmr4,Camk2a,Itpr1,Prkcd,Plce1,Pi4kb,Plcb3,Itpr3,Egfr,Pik3cg,Camk2b,Pik3r2,Plcg1,Plcb1,Prkcb,Dgka,Inpp5j,Impa1,Dgke,Pip4k2a,Pik3c2g,Kcnk3,Calm1,Mtm1,Mtmr1,Itpkc,Plcb2,Dgkq,Synj1,Inpp5a,Ppp3ca,Pip5k1a,Plcg2,Dgkh,Plcd4,Inpp5e,Pik3r3,Prkcg,Camk2d,Mtmr7,Dgkd,Pip4k2b,Mtmr6,Pik3c3,Pip5kl1,Pi4k2b,Minpp1,Mtmr2,Itpka,Pik3ca,Pip5k1b,Ppp3cc,Synj2,Impad1,Ocrl,Inpp5b,Itpr2,Plcd1,Ppp3r1,Plcd3,Dgkg,Pik3c2a,Camk2g,Calm3,Pip4k2c,Itpkb,Pi4k2a,Mtmr3,Pi4ka,Plcb4,Pip5k1c,Pik3cd,Pikfyve,Pik3r5,Prkca,Pik3r1,Mtmr14,Pik3cb,Inpp5k,Cdipt,Pik3c2b,Prkce,Impa2,Pten,Dgkz,Calm2,Ipmk,Ppp3cb	Gng11,Fgfr3,Kit,Pik3c2g,Plcb3,Insr,Ocrl,Inpp5e,Tek,Gng13,Pip5k1b,Gnb5,Dgke,Pik3c2b,Synj2,Gng8,Gna14,Gng3,Itgb3,Pip5k1a,Fzd2,Dgkq,Pdgfrb,Gnb3,Prkg2,Fzd1,Gnai2,Gnao1,Gm5741,Gna11,Plcb2,Gngt2,Pik3r2,Gng12,Gnaq,Itgav,Pik3c2a,Prkg1,Pik3r3,Pik3r5,Met,Kdr,Pip5k1c,Inpp1,Plcd3,Igf1r,Pi4k2b,Gnai3,Pi4k2a,Fzd3,Fzd8,Synj1,Plcb4,Fgfr4,Gng4,Pik3r1,Dgkd,Dgkh,Csf1r,Gnb1,Gng7,Gngt1,Ipmk,Fzd9,Epha2,Plcd1,Gng10,Fzd5,Gna15,Pi4ka,Egfr,Dgkz,Gnai1,Fzd7,Plcb1,Flt1,Dgkg,Pten,Fgfr2,Fgfr1,Gnb4,Plcd4,Inpp5b,Inpp5j,Gng2,Inpp5a,Flt4,Fzd6,Ngfr,Pdgfra,Gng5,Dgka,Inpp5k,Pi4kb,Plce1,Fzd4,Plcg2,Gnb2,Plcg1
+Plcg2	0.359987005047454	100	72	Itpr1,Pip5k1b,Pik3r5,Pip4k2a,Vav1,Pik3c2g,Plcd1,Pik3r1,Cdipt,Plcg2,Pik3c3,Pikfyve,Pten,Camk2b,Prkcb,Mtmr7,Dgkz,Pip5kl1,Dgka,Camk2g,Calm2,Mtmr3,Mtm1,Pik3ca,Plcb2,Ppp3cc,Pi4kb,Sh2d2a,Plce1,Pip4k2b,Plcd4,Inpp5k,Pi4k2b,Dgkq,Impad1,Dgke,Mtmr4,Vav2,Camk2a,Calm1,Itpr2,Mtmr14,Ipmk,Prkcg,Dgkd,Itpka,Plcb1,Ppp3cb,Pik3c2a,Pip4k2c,Dgkh,Pik3cd,Synj1,Ppp3r1,Pi4k2a,Pla2g4a,Plcd3,Ocrl,Inpp5j,Pik3r3,Pla2g4b,Blnk,Camk4,Pla2g4c,Camk2d,Pip5k1c,Itpr3,Egfr,Mtmr1,Pla2g4f,Itpkb,Pla2g4d,Plcb4,Dgkg,Pik3cg,Ppp3ca,Pik3c2b,Synj2,Pip5k1a,Nos3,Rasgrp3,Impa2,Impa1,Minpp1,Inpp5a,Plcg1,Mtmr6,Vav3,Calm3,Inpp5e,Prkca,Mtmr2,Prkcd,Pik3cb,Itpkc,Inpp5b,Plcb3,Pik3r2,Pi4ka,Prkce	Dgke,Inpp5a,Inpp5b,Fgfr1,Dgka,Plcb1,Pik3r5,Pip5k1c,Pip5k1a,Erbb4,Plcg2,Synj2,Synj1,Pi4ka,Btk,Plcd1,Kdr,Erbb3,Plcb4,Mir30d,Pik3r2,Egfr,Pik3c2b,Dgkz,Blnk,Plcb3,Pi4k2b,Erbb2,Pi4kb,Pdgfrb,Dgkg,Plce1,Pi4k2a,Pik3ca,Dgkh,Pik3r1,Dgkd,Pik3cd,Plcg1,Lyn,Pik3c2g,Itgav,Plcd3,Itgb3,Inpp5j,Hcst,Inpp5e,Sh3bp2,Pten,Lcp2,Pik3cg,Icam1,Mir101b,Pip5k1b,Ipmk,Pdgfra,Dgkq,Ntrk3,Igf1r,Pik3c2a,Gab2,Plcd4,Pik3r3,Inpp1,Plcb2,Lat,Inpp5k,Ntrk1,Pik3cb,Tec,Ocrl,Syk
+Adcy3	-0.470051170313609	62	98	Cngb1,Prkaca,Rapgef4,Pde1c,Polr2h,Polr2l,Polr3h,Entpd3,Polr2d,Nme1,Pde3a,Nme5,Polr3d,Cnga4,Pde6g,Polr1b,Pklr,Rapgef3,Prkacb,Polr2i,Polr3k,Polr2a,Polr3c,Polr2e,Pde5a,Polr3g,Polr1e,Pde3b,Nudt2,Polr3gl,Polr1a,Znrd1,Pde6b,Pde11a,Pde1a,Polr2j,Entpd1,Polr2b,Nme4,Polr3b,Polr2f,Polr1d,Nme7,Cnga3,Pde1b,Pde6a,Polr3a,Pde9a,Pkm,Polr2c,Pde10a,Polr2g,Nme2,Polr3e,Pde2a,Pde6h,Nme6,Nme3,Polr3f,Polr1c,Pde6d,Twistnb	Gnai2,Znrd1,Polr1a,Camk2a,Pde1b,Pde3a,Pde4a,Gng8,Pde4b,Polr2e,Entpd3,Polr2f,Polr2l,Pde1a,Gnb1,Polr3a,Pde8b,Prkacb,Gnas,Gm5741,Gngt1,Prkg1,Pde10a,Gng10,Entpd2,Polr2a,Polr3d,Pde3b,Polr3c,Gng13,Camk4,Gng2,Polr2h,Pde2a,Gngt2,Camk2b,Pde7b,Prkca,Pde4c,Pde11a,Gng4,Polr2d,Ntpcr,Polr2b,Gng3,Polr1d,Pde1c,Gnao1,Polr3f,Polr3g,Prkaca,Camk2d,Nme7,Gnal,Polr3h,Polr1e,Gng12,Gnb4,Nme5,Prkcg,Gnai3,Gng5,Twistnb,Polr2i,Polr3k,Prkcd,Gnb3,Camk2g,Polr1b,Nme2,Gnai1,Gng7,Polr2c,Pde8a,Pkm,Nme6,Calm2,Polr2j,Nme4,Nme3,Pde7a,Polr3gl,Calm1,Polr3e,Polr2g,Prkg2,Polr3b,Gnb2,Pklr,Prkcb,Nme1,Calm3,Itpa,Gnb5,Polr1c,Pde4d,Gng11,Entpd1
+Prkcb	0.565713641745469	111	40	Ncf1,Pla2g4b,Gng2,F11r,Map3k2,Gng13,Rras,Gnai3,Grin2b,Card11,Slc6a3,Adcy5,Pla2g4a,Adcy6,Jam2,Rhoa,Tjp1,Irs1,Adcy2,Atf6b,Sphk1,Braf,Gngt2,Creb5,Gng5,Prkd2,Gnao1,Ptk2b,Pax8,Creb1,Gnb4,Grin2d,Creb3l2,Fos,Creb3l3,Kras,Adcy9,Gnb2,Actg1,Rras2,Egln3,Pxn,Egln2,Gnb3,Bcar1,Ncf2,Ptk2,Trpv4,Grin1,Gja1,Gnb1,Pla2g4f,Slc9a1,Grin2c,Gnai2,Mras,Prkd1,Sphk2,Gng4,Atf4,Mapk1,Eef2k,Mapk7,Ezr,Gnb5,Actb,Map3k1,Pld1,Nras,Map3k4,Hras,Creb3l4,Mtor,Pla2g4c,Araf,Gng12,Adcy4,Src,Ttf1,Cd38,Gng11,Mmp14,Gnai1,Trpv5,Gng8,Gng7,Gm5741,Raf1,Pld2,Pla2g6,Creb3,Gng3,Map3k3,Ncf4,Insr,Prkaca,Cacna1a,Atf2,Igsf5,Ttf2,Creb3l1,Egln1,Adcy7,Jam3,Pla2g4d,Prkacb,Adcy3,Gng10,Prkd3,Mapk3,Gngt1	Ppp2ca,Plcb1,Plcb4,Plcb3,Plcg1,Plcb2,Plcg2,Atp6ap1,Pla2g4d,Fcgr3,Mir103-2,Mlst8,Rictor,Itpr1,Lyn,Pla2g4f,Itpr3,Ppp2r1b,Itgb7,Mir7-1,Ppp2cb,Itpr2,Pla2g4c,Fcgr4,Fcgr1,Plcd1,Itgb1,Pla2g4a,Pla2g4b,Itgb8,Mtor,Itgb3,Mir30d,Itgb4,Plcd4,Ppp2r1a,Itgb5,Plcd3,Plce1,Mir145a
+Mapk13	0.8945110432408	53	82	Nfkb1,Ppp2r2a,Max,Fosb,Bax,Nos2,Il12a,Jun,Cdc25b,Nfatc1,Mapk3,Fos,Cebpb,Akt1,Foxo4,Ppp2ca,Il12b,Mapkapk2,Akt3,Mapkapk3,Elk1,Il23a,Rps6ka4,Nfatc3,Junb,Trp53,Il18,Ppp2r2c,Foxo3,Atf2,Foxo1,Tnf,Mef2c,Elk4,Mapk1,Fosl1,Ppp2r1b,Il1b,Fosl2,Ppp2cb,Mapkapk5,Foxo6,Nefh,Ppp2r2d,Il6,Ddit3,Rela,Rps6ka5,Ppp2r1a,Il1a,Nfatc2,Akt2,Jund	Dusp3,Map2k3,Eif2ak2,Gngt2,Gnb1,Dusp9,Fcgr3,Tab3,Rapgef4,Gng5,Cybb,Ptpn7,Dusp4,Dusp1,Nox1,Gng2,Rhog,Rapgef3,Gng13,Ptpn5,Gng12,Traf6,Gnb4,Gng7,Acvr1,Prkacb,Braf,Gng10,Dusp6,Tab1,Araf,Gng3,Map2k6,Gnb5,Ncf4,Fcgr1,Dusp2,Prkg2,Bmpr1a,Kras,Gm5741,Mapk9,Eif2ak1,Dusp5,Gngt1,Ptk2,Hras,Gng8,Prkaca,Dusp10,Rac1,Cdc42,Nras,Dusp8,Gng11,Ripk2,Zap70,Bmpr2,Dusp16,Gnai1,Raf1,Eif2ak4,Gnao1,Map3k1,Cyba,Gnai2,Map3k5,Tab2,Map3k7,Eif2ak3,Gnb2,Gng4,Gnai3,Dusp7,Ptprr,Gnb3,Card9,Mapk8,Prkg1,Ncf1,Fcgr4,Ncf2
+Actb	0.393508655323777	48	82	Hcls1,Arpc4,Arpc5l,Tjp1,Pfn4,Actn2,Arpc3,Myh7b,Myl6b,Cfl2,Cttn,Arpc1b,Tjp2,Actn1,Pfn1,Actn4,Myh7,Myh14,Myl10,Vcl,Myh10,Epb4.1l2,Epb4.1l3,Ctnna1,Mllt4,Arpc2,Tjp3,Mylpf,Pfn2,Myh3,Epb4.1,Itga2b,Myh11,Cfl1,Ctnna2,Arpc5,Itgb3,Myl12b,Stk3,Actn3,Myl12a,Myl9,Arpc1a,Tmsb4x,Myl2,Myh9,Epb4.1l1,Myl6	Pfn4,Wasf2,Prkca,Pip5k1c,Itga8,Thra,Flnb,Myh14,Arpc5l,Dmd,Rac1,Prkcq,Itgb8,Itgb7,Myl10,Vasp,Iqgap1,Itga9,Shroom1,Parva,Rdx,Itgb3,Rac2,Shroom2,Itga11,Wasf1,Itga5,Baiap2,Mllt4,Prkcd,Myl12b,Rhoa,Arpc2,Zyx,Tjp1,Itga6,Rac3,Mylpf,Arpc5,Arpc1a,Prkcb,Itga2b,Itga7,Myh10,Ctnna2,Pxn,Arhgap10,Flnc,Itga1,Shroom3,Shroom4,Itgb4,Itga10,Itga3,Arpc4,Ctnna1,Myl9,Wasl,Pfn1,Itga4,Parvb,Itgb1,Pfn2,Itgb5,Myl2,Was,Myh9,Diap1,Cdc42,Arpc3,Prkce,Ezr,Msn,Parvg,Myl12a,Itgav,Prkcg,Arpc1b,Flna,Prkch,Vcl,Itga2
+Pld1	0.501568470151622	42	67	Ppap2c,Pla2g4a,Cds2,Agpat1,Agpat5,Pld2,Lpcat4,Pla2g3,Agpat3,Pla2g4b,Cept1,Pla2g16,Pla2g2e,Cds1,Pla2g2a,Ept1,Lpcat3,Pisd,Mboat1,Pld1,Ppap2a,Lclat1,Pla2g4c,Pla2g6,Pla2g2f,Sphk1,Lcat,Pla2g12a,Mboat2,Agpat2,Ppap2b,Pla2g4d,Pld4,Pla2g5,Pla2g4f,Pla2g10,Pla2g2d,Sphk2,Agpat4,Pemt,Pld3,Plb1	Sp1,Pik3cb,Pla2g2a,Pla2g16,Lpcat2,Rras,Pik3r5,Cept1,Pla2g2d,Raf1,Ralgds,Pik3r3,Pla2g3,Ptdss2,Rala,Dgke,Pla2g2e,Pla2g4f,Pla2g4c,Kras,Nras,Arf6,Ept1,Pla2g6,Lpin2,Prkcd,Ppap2a,Pla2g5,Prkca,Lpcat1,Pemt,Pld1,Pld2,Dgkg,Prkcb,Hras,Ppap2c,Dgkz,Syk,Dgkq,Dgkh,Lpin1,Pla2g12a,Pik3ca,Pld4,Pla2g4b,Dgka,Pla2g2f,Pik3cd,Prkcg,Pla2g10,Lpcat3,Pld3,Rras2,Ralb,Pik3cg,Pik3r1,Chpt1,Ppap2b,Ptdss1,Pla2g4d,Pik3r2,Lpin3,Lpcat4,Pla2g4a,Plb1,Dgkd
+Creb1	0.580573605132069	48	44	H2-Oa,Creb1,H2-Aa,Pck1,H2-DMa,Cpt1a,Fos,Star,Creb5,Crtc1,Per1,Creb3l2,Pck2,Mitf,Cd74,Ins1,Per2,Atf2,G6pc3,Ppargc1a,Mcl1,Sik1,Crebbp,Creb3,Jun,Atf4,Per3,Cpt1b,Creb3l3,H2-DMb2,Crtc3,H2-Ea-ps,H2-Ob,Crtc2,Npy,Ep300,Tg,Bcl2,Creb3l1,Creb3l4,Fosb,H2-Ab1,G6pc,Cpt1c,H2-DMb1,H2-Eb1,Arc,Pcna	Prkd1,Prkca,Prkaca,Camk1g,Creb1,Prkg1,Akt1,Mapk1,Creb3l2,Prkacb,Atf4,Atf2,Camk2b,Prkd3,Prkcb,Creb3,Crem,Rps6ka4,Ppp1cc,Prkcg,Creb3l4,Ppp1cb,Camk1,Ppp1ca,Gsk3b,Akt2,Rps6ka5,Ctss,Ciita,Mapk3,Crebbp,Akt3,Camk2g,Camk2d,Prkd2,Ep300,Camk2a,Prkg2,Creb3l3,Camk1d,Camk4,Crtc2,Creb5,Creb3l1
+Nt5c3b	-0.605373247650607	25	63	Dctpp1,Ada,Adk,Naprt,Impdh2,Pnp2,Nmnat3,Nampt,Qprt,Hprt,Umps,Enpp1,Upp1,Impdh1,Dctd,Nmnat2,Tymp,Gmps,Itpa,Upp2,Nudt12,Pnp,Nmnat1,Enpp3,Dut	Cmpk1,Pde4d,Pde4a,Gmps,Pde6b,Ampd3,Itpa,Adss,Pde6h,Gmpr,Dctpp1,Aprt,Pde1a,Ak1,Ak4,Atic,Pde1b,Pde5a,Tyms,Ak5,Pnp2,Cant1,Pde3b,Impdh1,Pde8b,Pde6a,Ak6,Pde9a,Ak3,Impdh2,Pde2a,Entpd3,Ak7,Dtymk,Pde7b,Guk1,Uprt,Ampd2,Pde3a,Pde6g,Entpd4,Ak8,Gmpr2,1700080E11Rik,Pde4c,Pde8a,Nudt16,Entpd1,Hprt,Pde4b,Dck,Ampd1,Pde11a,Pnp,Ak2,Pde7a,Entpd5,Pde1c,Adsl,Adssl1,Entpd6,Pde6d,Pde10a
+Csf1r	-0.65603276879273	20	61	Crk,Plcb1,Shc4,Pik3cb,Shc1,Plcb2,Grb2,Pik3cg,Pik3cd,Pik3r2,Shc2,Plcb3,Plcb4,Crkl,Irs1,Pik3r1,Shc3,Pik3r5,Pik3ca,Pik3r3	Rnf41,Klk1b4,Epn1,Vegfa,Vegfc,Sh3gl1,Vegfb,Igf1,Ins1,Itch,Fgf18,Smurf2,Sh3gl2,Cbl,Kitl,Fgf2,Fgf3,Fgf13,Sh3kbp1,Efna2,Efna1,Fgf11,Efna5,Runx1t1,Traf6,Egf,Fgf23,Epn3,Pdgfc,Sh3glb1,Eps15l1,Efna4,Spi1,Ngf,Pgf,Csf1,Cblb,Smurf1,Angpt2,Wwp1,Angpt1,Pdgfd,Angpt4,Cblc,Nedd4,Runx1,Sh3gl3,Pdgfa,Fgf17,Pdgfb,Fgf7,Mdm2,Fgf22,Efna3,Nedd4l,Epn2,Fgf20,Eps15,Hgf,Sh3glb2,Fgf14
+Pld3	-0.571113442360953	37	43	Mboat1,Cept1,Pld2,Lpcat4,Cds1,Pla2g4f,Agpat2,Pla2g4b,Mboat2,Lpcat3,Pla2g3,Pla2g2d,Pla2g16,Ept1,Plb1,Agpat3,Pla2g4c,Pla2g2e,Pla2g6,Pla2g2a,Pld4,Pisd,Pla2g4d,Pemt,Pla2g12a,Agpat4,Pld1,Lclat1,Pla2g10,Lcat,Pla2g2f,Pld3,Pla2g5,Cds2,Agpat1,Pla2g4a,Agpat5	Dgkg,Dgkh,Pla2g12a,Ppap2c,Pla2g4b,Dgkq,Lpin1,Pld4,Dgka,Pla2g2f,Lpcat3,Pla2g10,Ppap2b,Ptdss1,Chpt1,Lpin3,Lpcat4,Pla2g4a,Pla2g4d,Plb1,Dgkd,Pla2g3,Pla2g16,Pla2g2a,Pla2g2d,Lpcat2,Cept1,Ptdss2,Dgkz,Pla2g4f,Dgke,Pla2g2e,Pla2g4c,Ept1,Pld3,Pla2g6,Ppap2a,Lpin2,Pla2g5,Lpcat1,Pemt,Pld1,Pld2
+Itgb7	-1.05050519682077	12	64	Ptk2,Cav1,Actb,Crk,Prkca,Cav2,Prkcg,Crkl,Prkcb,Src,Bcar1,Actg1	Col4a1,Col5a2,Col4a2,Col5a1,Parva,Col1a1,Tnn,Tnc,Spp1,Thbs1,Col6a2,Col4a4,Thbs3,Lamb2,Tln1,Lama4,Col1a2,Actn1,Lamc2,Col6a3,Fn1,Col6a6,Thbs2,Lama1,Lamb3,Lamc3,Lamc1,Ibsp,Chad,Actn4,Parvb,Reln,Col24a1,Actn2,Flna,Lama5,Col6a4,Tln2,Col6a1,Thbs4,Vcam1,Vasp,Comp,Col2a1,Tnxb,Actn3,Parvg,Flnc,Pxn,Lama3,Vtn,Col4a5,Col27a1,Tnr,Col5a3,Flnb,Col11a2,Lamb1,Col3a1,Vwf,Col11a1,Col6a5,Col4a3,Lama2
+Gstm7	-0.628720323593925	40	35	Gstp1,Gstt2,Aldh3b2,Ggt1,Gsta3,Ggt5,Gstm7,Gstm3,Gsto1,Txndc12,Gstp2,Aldh3a1,Gpx7,Gstt3,Gpx3,Mgst3,Adh7,Cyp1b1,Gstm6,Gstk1,Gstm2,Gpx4,Aldh3b1,Mgst2,Adh4,Gpx8,Ggt7,Gstm5,Gstm1,Gpx1,Gstt1,Aldh1a3,Mgst1,Adh5,Ggt6,Gsta4,Adh1,Gstm4,Gsto2,Ephx1	Gstt2,Gsto1,Mgst3,Gstm5,Gstm7,Cyp2f2,Cyp2b9,Cyp2b13,Ggt6,Ephx1,Cyp2b10,Mgst2,Gstt3,Gsta3,Gstk1,Ggt7,Gss,Gstm4,Gstm6,Gstm2,Gstt1,Gstp2,Ggt1,Cyp2s1,Gstm3,Gsta4,Gsto2,Cyp2c44,Cyp1b1,Mgst1,Ggt5,Gstp1,Gsr,Gstm1,Cyp2c55
+Mgst3	-0.493942348892467	40	35	Gstm5,Gstm7,Aldh3a1,Adh7,Mgst1,Ephx1,Gpx8,Gstt2,Gstm4,Aldh3b2,Gpx7,Gsto2,Adh4,Gpx3,Gstp1,Txndc12,Ggt7,Gstm3,Adh5,Gsto1,Adh1,Gstm6,Gstp2,Gstk1,Gpx4,Gsta4,Ggt6,Gstt1,Gstm2,Aldh3b1,Gstt3,Mgst3,Gpx1,Cyp1b1,Ggt1,Mgst2,Gstm1,Ggt5,Gsta3,Aldh1a3	Gss,Ephx1,Gsta4,Cyp2b13,Gstm3,Cyp1b1,Gstm1,Gstp1,Gsr,Gsto1,Gstm4,Mgst2,Cyp2f2,Gstm7,Cyp2b9,Gsta3,Ggt5,Cyp2b10,Ggt7,Ggt1,Gsto2,Gstt3,Mgst1,Cyp2c55,Gstm2,Gstm5,Gstm6,Gstt1,Gstp2,Cyp2c44,Mgst3,Gstt2,Cyp2s1,Ggt6,Gstk1
+Pde3b	0.55068132701382	31	39	Ampd2,Entpd3,Itpa,Aprt,Adcy10,Adcy3,Nt5c,Adcy7,Ampd3,Nt5c2,Nt5c1a,Entpd4,Guk1,Nt5c3b,Cant1,Adcy2,Adcy6,Dck,Nt5m,Entpd1,Nt5c3,Nt5e,Adk,Adcy5,Adcy9,Adsl,Ampd1,Hprt,Entpd6,Entpd5,Adcy4	Adcy10,Adcy2,Ak7,Gucy2f,Prkaca,Entpd1,Camk2b,Akt3,Gucy1a3,Prkacb,Adcy3,Gmps,Adcy4,Gmpr,Akt2,Gucy1b2,Npr1,Ak2,Adcy7,Gucy2e,Camk2a,Ak8,Ak4,Ak5,Adcy6,Adcy5,Ak6,Camk2g,Akt1,Gucy1b3,Npr2,Ak1,Camk4,Gmpr2,Camk2d,Adcy9,Entpd3,Ak3,Gucy2c
+Itga1	0.725303237087735	7	63	Src,Crk,Actb,Ptk2,Bcar1,Actg1,Crkl	Parva,Lamc3,Lama1,Col11a1,Lamb1,Col6a2,Tln1,Pxn,Flnc,Tnr,Thbs3,Tnxb,Col5a2,Col24a1,Lamb2,Thbs4,Col1a1,Col6a4,Flnb,Vwf,Col3a1,Col4a2,Parvb,Col5a1,Thbs2,Reln,Lama2,Col6a1,Lama3,Col1a2,Col6a3,Lama5,Flna,Actn2,Spp1,Col5a3,Lamc2,Col4a4,Lamc1,Col4a1,Col6a5,Tnn,Ibsp,Col2a1,Col6a6,Vasp,Comp,Actn4,Tnc,Col27a1,Vtn,Parvg,Actn1,Col4a3,Col4a5,Fn1,Thbs1,Tln2,Actn3,Lama4,Lamb3,Chad,Col11a2
+Crkl	0.333820673304395	15	54	Pik3ca,Rapgef1,Pxn,Pik3r2,Pik3cd,Pik3cg,Pik3r5,Dock1,Abl2,Dock2,Pik3cb,Abl1,Rhoq,Pik3r3,Pik3r1	Itgb5,Pdgfrb,Pdgfra,Itga10,Itgae,Itgax,Itga2b,Kidins220,Fgfr4,Kit,Fgfr2,Igf1r,Itgal,Fgfr3,Itga2,Ptk2b,Insr,Itga6,Itgb7,Egfr,Met,Itga4,Bcar1,Itgb3,Itgb1,Mapk9,Tek,Itga3,Itgb8,Csf1r,Mapk8,Abl1,Itga8,Gab1,Itgb4,Fgfr1,Itgav,Map2k4,Itga9,Itga11,Epha2,Itga7,Fcgr1,Frs2,Flt1,Itga5,Itgam,Itgad,Itgb2,Kdr,Itga1,Bcr,Flt4,Ngfr
+Tyk2	0.401882781550566	16	51	Pik3r5,Stat5a,Stat6,Stat2,Stat1,Pik3cb,Pik3r3,Pik3cg,Pik3ca,Stat5b,Stat4,Pik3r2,Pik3cd,Stat3,Ptpn11,Pik3r1	Stam2,Il10rb,Osmr,Ifnar2,Il22ra1,Il5ra,Il3ra,Socs1,Lepr,Epor,Ifnlr1,Csf3r,Csf2rb2,Stam,Socs2,Csf2ra,Il21r,Csf2rb,Lifr,Ifngr2,Ifnar1,Socs5,Prlr,Il2ra,Ptpn6,Socs4,Il4ra,Il15ra,Il11ra1,Il27ra,Il9r,Ifngr1,Il13ra1,Il22ra2,Ghr,Socs6,Mpl,Il6ra,Socs3,Il20ra,Crlf2,Il12rb1,Il7r,Il20rb,Il10ra,Il6st,Il2rb,Socs7,Il12rb2,Il2rg,Ptpn2
+Entpd5	0.582646435901262	31	36	Uck2,Nt5c1a,Rrm2,Nme1,Uck1,Hprt,Nme5,Entpd1,Nt5e,Uckl1,Rrm1,Nt5m,Rrm2b,Nme2,Umps,Nme6,Uprt,Nt5c3,Nme4,Impdh1,Pkm,Nme3,Nme7,Nt5c3b,Nt5c2,Impdh2,Entpd3,Pklr,Nt5c,Itpa,Aprt	Nme2,Pde10a,Ampd2,Nme6,Pde1c,Entpd1,Pde5a,Pde6d,Gmpr2,Pde1a,Itpa,Pde1b,Gmpr,Adssl1,Nme1,Pde9a,Pde3a,Pde6h,Pde6a,Adss,Pde6b,Pde2a,Atic,Pnpt1,Nme5,Pde11a,Gmps,Hddc3,Pde3b,Ampd3,Nme3,Nme4,Nme7,Ampd1,Entpd3,Pde6g
+Pdgfrb	-0.682951837765963	29	37	Src,Plcb4,Crkl,Pik3ca,Plcg1,Pik3r3,Plcb3,Pik3cg,Ptk2,Shc1,Irs1,Sos1,Grb2,Plcg2,Pik3cb,Plcb2,Shc4,Nras,Crk,Sos2,Pik3r5,Pik3r1,Plcb1,Shc3,Hras,Pik3r2,Kras,Pik3cd,Shc2	Efna2,Ins1,Klk1b4,Pdgfc,Fgf11,Egf,Fgf18,Angpt4,Efna3,Pdgfd,Angpt2,Angpt1,Vegfa,Ngf,Fgf23,Csf1,Vegfb,Pdgfa,Pgf,Efna4,Efna5,Fgf3,Fgf2,Pdgfb,Grb2,Kitl,Fgf22,Fgf14,Fgf7,Hgf,Vegfc,Igf1,Tgfa,Fgf17,Fgf20,Fgf13,Efna1
+Pikfyve	0.567434557704684	34	32	Mtmr2,Mtmr6,Actn2,Pik3c2b,Scin,Tmem55a,Mtmr7,Pik3c3,Tmem55b,Mtmr3,Pip4k2a,Actn3,Mtmr14,Pik3r3,Vcl,Pi4k2b,Pip4k2c,Pik3c2g,Actn4,Mtmr4,Pi4ka,Pi4kb,Inpp4a,Gsn,Pi4k2a,Mtm1,Mtmr1,Pik3c2a,Pip4k2b,Actn1,Inpp4b,Pik3r1,Pik3r2,Pik3r5	Pik3c2a,Plcb4,Inpp4b,Mtmr6,Plcg2,Plcg1,Plcd3,Inpp4a,Pik3c2g,Mtmr4,Mtmr3,Vcl,Mtmr2,Pik3r3,Cdipt,Plcd1,Mtm1,Plcb2,Pik3r5,Mtmr1,Pik3r2,Plcb1,Mtmr14,Pik3r1,Plce1,Plcb3,Plcd4,Rock1,Pten,Pik3c2b,Rock2,Mtmr7
+Pi4k2a	-0.493613351079232	31	34	Plcd3,Pik3c2g,Ocrl,Pik3r1,Pik3r5,Plcb4,Mtmr2,Mtmr6,Synj1,Pik3c3,Plcg2,Mtmr3,Mtmr14,Plcb3,Inpp5b,Mtmr7,Plcd1,Pik3r3,Mtm1,Pik3c2a,Synj2,Inpp5e,Plcg1,Plcb2,Mtmr4,Pik3c2b,Plcd4,Pik3r2,Plce1,Plcb1,Mtmr1	Plcb4,Mtmr3,Cdipt,Mtmr4,Inpp5b,Plcd3,Mtmr1,Plcd1,Synj1,Pten,Plcd4,Pip5k1b,Plce1,Mtmr7,Ocrl,Pip5k1c,Inpp5e,Mtmr2,Mtmr14,Plcb1,Pik3c2a,Plcg2,Pik3c2b,Pip5k1a,Mtmr6,Pik3c3,Mtm1,Pikfyve,Plcb3,Pik3c2g,Plcg1,Pip5kl1,Plcb2,Synj2
+Gng10	-0.376421497226409	40	24	Rasgrf1,Cacna1a,Pik3r3,Mapk12,Adcy3,Cacna1d,Mapk8,Pik3cb,Rasgrf2,Adcy10,Cacna1f,Mapk13,Cacna1b,Plcb2,Prex1,Pik3r2,Adcy4,Pik3r5,Pik3cg,Mapk9,Cacna1s,Mapk3,Adcy9,Mapk1,Kcnj6,Mapk14,Cacna1c,Plcb3,Pik3cd,Pik3r1,Adcy5,Adcy7,Plcb4,Kcnj9,Kcnj5,Adcy2,Pik3ca,Adcy6,Mapk11,Plcb1	Htr7,Gnai2,Cnr1,Gabbr2,Htr1f,Gnai1,Oprm1,Grm4,Prkcg,Gnas,Grm7,Chrm4,Gabbr1,Drd2,Prkacb,Prkaca,Htr5b,Adcyap1r1,Gnai3,Grm8,Htr1b,Prkcb,Rasd1,Prkca
+Pik3c2b	0.909285771597806	32	30	Plcg1,Plcb3,Mtmr7,Inpp4b,Inpp5e,Mtmr3,Synj1,Pi4kb,Plcg2,Inpp5d,Mtmr4,Plcb2,Pi4k2b,Plcd1,Synj2,Mtmr14,Plce1,Pi4k2a,Plcb1,Mtmr1,Inppl1,Plcd4,Mtm1,Inpp5b,Ocrl,Mtmr6,Inpp4a,Mtmr2,Plcb4,Plcd3,Pikfyve,Pi4ka	Pi4k2b,Plcb4,Plce1,Inpp5b,Pip5k1c,Pip5kl1,Pikfyve,Pi4kb,Synj1,Cdipt,Ocrl,Inpp5d,Inpp5e,Inppl1,Pten,Pip5k1b,Plcd4,Plcb1,Pi4ka,Plcb2,Plcg2,Pip5k1a,Plcd3,Inpp4b,Pi4k2a,Inpp4a,Plcd1,Synj2,Plcg1,Plcb3
+Ak4	-0.675257649767475	36	25	Pde1b,Aprt,Pde2a,Entpd2,Pkm,Nme3,Nme7,Dck,Pde1c,Nt5c2,Nt5c3b,Nt5m,Rrm2b,Nt5e,Entpd3,Pde3a,Nme2,Nme6,Nt5c3,Adk,Rrm1,Ntpcr,Nme1,Pde3b,Pde11a,Nme5,Pklr,Adsl,Pde1a,Rrm2,Pnpt1,Nt5c1a,Entpd1,Nt5c,Nme4,Pde10a	Nme7,Pde7a,Ampd1,Ampd2,Nme4,Entpd1,Pde4b,Entpd3,Pde8a,Pklr,Rrm2,Nme6,Pkm,Pde4d,Nme5,Nme1,Rrm1,Nme2,Pde4a,Pde8b,Rrm2b,Ampd3,Nme3,Pde4c,Pde7b
+Pde2a	0.439910000406386	31	29	Itpa,Nt5c3,Ampd3,Adcy7,Nt5c,Entpd3,Adcy3,Cant1,Adcy2,Adcy6,Adcy10,Entpd4,Adsl,Nt5c3b,Nt5m,Ampd1,Adcy5,Aprt,Dck,Nt5e,Adcy9,Hprt,Guk1,Entpd1,Entpd5,Nt5c2,Ampd2,Adcy4,Nt5c1a,Adk,Entpd6	Gucy2e,Adcy10,Entpd1,Adcy5,Ak7,Ak4,Gucy1b3,Adcy9,Npr2,Ak6,Gucy2c,Ak8,Adcy7,Gmpr,Adcy4,Ak1,Adcy6,Ak3,Gucy1b2,Gucy1a3,Ak5,Ak2,Gmpr2,Gmps,Gucy2f,Adcy2,Adcy3,Entpd3,Npr1
+Dgkz	0.451638761966019	26	32	Plcb4,Plcd1,Plce1,Cds1,Plcb1,Cept1,Agpat3,Pld4,Plcg2,Cds2,Plcd4,Plcb2,Agpat2,Plcd3,Plcg1,Pld1,Mboat2,Pld3,Ept1,Agpat5,Plcb3,Agpat1,Pld2,Mboat1,Lclat1,Agpat4	Dgat1,Dgat2,Plcd4,Mogat2,Mogat1,Agpat2,Agpat4,Plcg1,Plcg2,Lclat1,Lipg,Mboat2,Agpat5,Plce1,Lipc,Cel,Cds2,Pnpla3,Cept1,Lpl,Pnpla2,Chpt1,Plcd1,Plcd3,Plcb2,Plcb1,Plcb4,Cds1,Mboat1,Agpat3,Agpat1,Plcb3
+Dgkg	0.447041309536031	26	32	Pld3,Lclat1,Plcd1,Ept1,Plcg1,Agpat3,Pld2,Plcd4,Plcb1,Plcb2,Mboat1,Plcg2,Agpat4,Plce1,Cds2,Pld1,Plcd3,Plcb4,Mboat2,Agpat1,Agpat5,Cds1,Plcb3,Pld4,Cept1,Agpat2	Plcb2,Agpat2,Plcd4,Pnpla2,Agpat4,Plcg1,Lipg,Dgat1,Agpat5,Agpat1,Agpat3,Lpl,Plcd3,Mogat2,Cds2,Cds1,Chpt1,Dgat2,Lipc,Plcb1,Plcb3,Cept1,Plcg2,Plce1,Pnpla3,Plcb4,Mboat1,Mboat2,Mogat1,Plcd1,Lclat1,Cel
+Il12a	-0.776467962816658	40	17	Csf2rb2,Epor,Lifr,Il12rb2,Lepr,Osmr,Il2rg,Ifnar2,Il27ra,Il7r,Il13ra1,Il2ra,Csf2ra,Il22ra2,Il3ra,Ghr,Il20ra,Il11ra1,Il21r,Il12rb1,Ifngr1,Il2rb,Il6st,Prlr,Crlf2,Csf2rb,Il10ra,Il15ra,Ifnlr1,Il22ra1,Il5ra,Ifnar1,Csf3r,Ifngr2,Il10rb,Il6ra,Il20rb,Mpl,Il9r,Il4ra	Mapk11,Mapk9,Mapk8,Rela,Nfkb1,Mapk3,Mapk13,Mapk14,Irf1,Fos,Jun,Mapk12,Irf8,Irf5,Fcgr2b,Mapk1,Myd88
+Polr3h	-0.370234650362708	24	33	Adcy5,Entpd3,Nme4,Adcy10,Adcy9,Adcy6,Adcy2,Nme5,Nudt2,Ctps2,Ctps,Nme1,Adcy7,Entpd1,Pklr,Adcy3,Nme6,Nme2,Itpa,Pkm,Adcy4,Nme7,Nme3,Pnpt1	Adcy6,Ctps,Npr2,Adcy3,Nme6,Nme3,Gucy2f,Entpd2,Entpd1,Gucy1b3,Ctps2,Adcy4,Nme4,Adcy10,Adcy9,Pkm,Nme1,Npr1,Nme2,Adcy7,Nme7,Adcy2,Gucy1b2,Ntpcr,Pklr,Gucy2c,Adcy5,Gucy1a3,Nme5,Itpa,Pnpt1,Entpd3,Gucy2e
+Ugt1a7c	-0.545461429393446	11	46	Gusb,Cyp3a13,Hsd17b2,Hsd17b6,Adh7,Ugdh,Adh4,Adh1,Adh5,Kl,H2-Ke6	Hsd17b7,Blvrb,Ces2c,Hsd17b2,Cyp26c1,Ces2h,Ces2b,Cyp1b1,Cbr2,Uxs1,Blvra,Cyp3a13,Aox2,Aox3,Aldh1a1,Cyp2s1,Cyp2b10,Cyp2c44,Aldh1a2,Cyp2b9,Srd5a3,H2-Ke6,Cyp2a5,Aox1,Hsd17b12,Cyp4a14,Cyp26a1,Hsd11b1,Kl,Ces1d,Cyp4a12a,Ces2e,Comt,Ces2g,Cyp2a4,Miox,Ugdh,Cbr1,Srd5a1,Hsd17b1,Cyp26b1,Cyp2b13,Hsd17b6,Cbr3,Gusb,Cyp2c55
+Syk	0.385655667611122	29	23	Pik3r5,Lat,Pld2,Pik3r1,Btk,Pik3ap1,Vav2,Pik3r3,Plcg1,Lcp2,Vav1,Shc2,Blnk,Shc1,Pik3cd,Fcer1g,Pld1,Shc3,Gab2,Pik3cg,Shc4,Pik3ca,Pik3r2,Vav3,Arf6,Cd19,Card9,Pik3cb,Plcg2	Fcgr4,Fcgr3,Clec7a,Src,Pira6,Fcgr2b,LOC100038947,Lyn,Clec4e,Cd247,Fcer1g,Sirpa,Sirpb1b,Pirb,Trem2,Lilra5,Tyrobp,Ptpn6,Lilra6,Oscar,Fcgr1,Gm9733,Sirpb1a
+Ptgs1	0.537069672892408	14	35	Ptgds,Ptgis,Ptges,Tbxas1,Ptges3,Cyp2j6,Hpgds,Cyp4a14,Ptges2,Cyp2j9,Fam213b,Cyp4a12a,Cyp2j11,Adcy5	Cyp2j6,Pla2g4a,Cyp2b9,Pla2g10,Cyp4a12a,Pla2g5,Cyp2b13,Pla2g3,Cyp4f14,Cyp2j9,Pla2g4f,Pla2g2a,Cyp2c55,Pla2g12a,Plb1,Cyp2u1,Cyp2b10,Pla2g4b,Alox12e,Cyp4f13,Pla2g6,Cyp4f18,Pla2g4d,Alox12,Alox5,Pla2g4c,Pla2g2d,Alox8,Alox15,Cyp2c44,Pla2g2e,Pla2g16,Cyp2j11,Cyp4a14,Pla2g2f
+Lpcat4	0.550195971888419	14	33	Pla2g16,Pld2,Lypla1,Pemt,Pld3,Plb1,Chpt1,Pld4,Pnpla7,Cept1,Pla2g15,Pisd,Pld1,Pnpla6	Pld3,Pla2g4a,Pla2g2d,Tmem86b,Lpcat1,Lypla1,Pla2g10,Pla2g4b,Pla2g5,Pla2g16,Pla2g2a,Pld1,Pnpla6,Pla2g4c,Lpcat2,Pla2g4f,Chpt1,Enpp6,Pla2g6,Pnpla7,Pla2g2f,Plb1,Ptdss2,Pla2g3,Pla2g4d,Ptdss1,Pld4,Ept1,Enpp2,Pla2g2e,Pld2,Cept1,Pla2g12a
+Ephx1	-0.925541894367921	22	25	Gstm1,Cyp1b1,Gstm5,Mgst3,Gsto2,Dhdh,Gstp2,Gstp1,Gstm7,Gstm4,Mgst2,Gsta4,Gstk1,Gstt1,Gstm3,Mgst1,Gsto1,Gsta3,Gstt2,Gstm2,Gstm6,Gstt3	Mgst2,Gstp1,Gstm1,Gsto2,Mgst3,Gsta4,Gstk1,Gstm2,Gstm4,Gstt3,Gstm6,Cyp1b1,Cyp2s1,Gstt1,Cyp2c55,Gstm5,Gstm3,Gsto1,Gstt2,Gsta3,Gstp2,Cyp2f2,Gstm7,Cyp2c44,Mgst1
+Alox5	0.918416113099128	9	38	Ltc4s,Cyp2j9,Cyp2j11,Cyp2j6,Ptgs2,Cyp4a14,Ptgs1,Lta4h,Cyp4a12a	Pla2g12a,Alox15,Cyp2u1,Cyp4f14,Pla2g4f,Alox12e,Alox12,Cyp2j11,Pla2g4c,Cyp2j6,Pla2g4a,Gpx7,Gpx8,Cyp2c44,Pla2g2a,Alox8,Cyp4f18,Cyp2b10,Cyp2j9,Pla2g2e,Cyp4a12a,Pla2g16,Gpx1,Plb1,Gpx3,Pla2g4b,Pla2g4d,Pla2g3,Pla2g10,Pla2g5,Pla2g6,Cyp4f13,Cyp2c55,Cyp2b13,Cyp2b9,Cyp4a14,Pla2g2f,Pla2g2d
+Cyp26a1	0.721556916521748	31	15	Cyp2c55,Awat2,Ugt2b34,Cyp2c44,Adh4,Rdh12,Cyp2a5,Cyp2b10,Cyp2s1,Cyp4a14,Dhrs4,Ugt1a6a,Adh5,Ugt1a2,Adh1,Rdh11,Cyp2b13,Dhrs3,Dgat1,Ugt1a7c,Rdh9,Ugt1a6b,Ugt1a1,Ugt1a5,Rdh10,Cyp2b9,Adh7,Cyp3a13,Cyp4a12a,Dhrs9,Cyp2a4	Cyp3a13,Cyp2a4,Retsat,Aox1,Aldh1a1,Cyp2c55,Aldh1a2,Aox2,Cyp2b13,Cyp2c44,Cyp2s1,Cyp2b10,Cyp2a5,Cyp2b9,Aox3
+Maoa	-0.493376874974723	21	25	Comt,Aox3,Aldh1b1,Pnmt,Aldh3b2,Aldh9a1,Aldh3b1,Dbh,Aldh3a1,Hnmt,Aox1,Adh4,Aldh1a3,Adh7,Aldh2,Adh1,Aldh3a2,Aox2,Adh5,Ddc,Aldh7a1	Aanat,Nup62-il4i1,Comt,Aldh3a2,Aldh1b1,Aldh2,Aldh7a1,Sat2,Aldh3b2,Adh1,Il4i1,Aldh3b1,Adh5,Adh4,Aldh1a3,Aldh9a1,Ido2,Ddc,Ido1,Sat1,Lao1,Pnmt,Aldh3a1,Adh7,Dbh
+Mtmr4	0.44759300610923	17	28	Tmem55b,Pi4k2a,Pip4k2a,Tmem55a,Pikfyve,Pik3r5,Pip4k2b,Pik3r1,Inpp4a,Pi4ka,Pik3r2,Inpp4b,Pip4k2c,Pik3c3,Pi4kb,Pik3r3,Pi4k2b	Plcb3,Plcd1,Cdipt,Plcb1,Plcd3,Pip4k2b,Plcd4,Plcb2,Pik3c2g,Plcb4,Pip4k2c,Pik3r1,Pik3c2a,Pik3r3,Pik3c2b,Plcg2,Pik3r2,Pik3r5,Inpp4b,Pi4k2b,Pip4k2a,Plcg1,Plce1,Pi4ka,Pikfyve,Inpp4a,Pi4k2a,Pi4kb
+Prkce	-0.528053573546389	36	8	Slc25a5,Jam3,Ppp1cb,Mapk9,Marcks,Pla2g6,Vdac1,Prkd1,Raf1,Slc25a4,Ppp1ca,Actg1,Rhoa,F11r,Irs1,Prkd2,Igsf5,Trpa1,Tjp1,Vdac3,Trpv4,Irs2,Jam2,Prkd3,Kcnj8,Ppp1cc,Sphk1,Mapk8,Sphk2,Araf,Actb,Vdac2,Braf,Marcksl1,Irs3,Ppif	Plcb1,Plcb2,Plcg1,Plcb4,Prkg1,Plcb3,Plcg2,Prkg2
+H2-Q10	-0.591452869486483	23	18	H2-D1,LOC547349,Klra7,H2-K1,H2-T10,Klra1,Cd8b1,H2-T3,Cd8a,H2-M9,H2-T24,H2-Q10,H2-Q1,H2-Bl,Klrc3,Klrd1,H2-M2,H2-M10.2,H2-Q2,Klra9,H2-M3,H2-T23,Klrc1	H2-T3,H2-Bl,H2-T10,Cd8b1,H2-M3,H2-D1,H2-Q10,H2-T24,LOC547349,H2-K1,H2-M9,Cd8a,H2-M2,Tapbp,H2-M10.2,H2-Q1,H2-Q2,H2-T23
+H2-T23	-0.811463030418165	23	18	H2-Q1,H2-T10,LOC547349,Klra7,H2-T23,Klrd1,H2-M10.2,H2-M3,Klrc3,H2-T3,H2-D1,H2-Bl,H2-Q2,H2-T24,Cd8b1,Klra9,Klrc1,Klra1,Cd8a,H2-M2,H2-K1,H2-Q10,H2-M9	Cd8b1,Cd8a,H2-M10.2,H2-T3,H2-T23,H2-M3,H2-D1,Tapbp,LOC547349,H2-Bl,H2-Q2,H2-K1,H2-T24,H2-M2,H2-T10,H2-Q1,H2-M9,H2-Q10
+Aldh1b1	-0.41184718029913	21	20	Acyp1,Aldh6a1,Glyctk,Maob,Cndp1,Abat,Hibadh,Acyp2,Adh1,Maoa,Adh5,Cndp2,Cyp4a12a,Adh4,Carns1,Smox,Adh7,Cyp4a14,Akr1a1,Gatm,Upb1	Acss1,Ehhadh,Maoa,Aoc2,Cndp2,Akr1b7,Akr1b8,Adh5,Acss2,Carns1,Maob,Abat,Acsf3,Adh1,Aoc3,Cndp1,Adh7,Hadh,Adh4,Akr1b10
+H2-T10	-0.574243914524704	23	18	Klrc3,H2-M10.2,H2-Q10,H2-D1,H2-T3,H2-T24,H2-Bl,H2-Q2,H2-M3,Klrd1,H2-M2,Klra7,Cd8a,Klra9,H2-M9,H2-Q1,Klrc1,H2-K1,LOC547349,Cd8b1,Klra1,H2-T23,H2-T10	H2-K1,H2-Q1,H2-T23,H2-M3,H2-Q2,H2-Q10,H2-D1,H2-M2,H2-T3,H2-Bl,Tapbp,Cd8b1,Cd8a,H2-T24,H2-T10,H2-M9,LOC547349,H2-M10.2
+H2-M3	-0.741961773949932	23	18	H2-Bl,Klra7,Klrd1,Klrc3,H2-M10.2,Klra1,H2-T10,H2-T3,H2-Q2,Cd8b1,Klrc1,H2-M3,H2-K1,H2-Q10,H2-T23,H2-M2,H2-D1,H2-T24,H2-M9,H2-Q1,LOC547349,Klra9,Cd8a	H2-D1,H2-M2,H2-M3,H2-T24,H2-T10,LOC547349,H2-T3,H2-T23,H2-Q1,H2-M9,H2-Q2,H2-M10.2,Cd8b1,H2-Bl,H2-Q10,Cd8a,Tapbp,H2-K1
+Aldh2	0.490557724399249	21	20	Maob,Cndp1,Aldh6a1,Adh5,Cyp4a12a,Maoa,Glyctk,Cndp2,Adh1,Carns1,Acyp1,Cyp4a14,Adh4,Abat,Akr1a1,Hibadh,Acyp2,Smox,Upb1,Adh7,Gatm	Cndp2,Maob,Akr1b8,Acsf3,Aoc2,Adh5,Acss2,Hadh,Adh1,Akr1b10,Aoc3,Maoa,Ehhadh,Abat,Adh4,Acss1,Carns1,Adh7,Cndp1,Akr1b7
+Cdk2	0.37536115415035	29	11	Cdc26,Anapc7,Anapc10,Cdc27,Foxo1,Hcfc2,Csnk2b,Cdc6,Cdc23,Anapc2,Anapc13,E2f3,Csnk2a2,Cdkn1c,Foxo4,Rb1,Anapc5,Csnk2a1,Anapc1,E2f2,Cdkn1b,Foxo3,Cdc16,Anapc4,Cdc25c,Hcfc1,E2f1,Anapc11,Foxo6	Cdc25a,Cdkn1c,Cdkn1b,Spdya,Rbx1,Skp1a,Cul1,Ccnh,Cdkn1a,Skp2,Cdk7
+Cxcr2	1.14687091433213	5	35	Jak3,Gnai2,Gnai1,Jak2,Gnai3	Cx3cl1,Ccl1,Ppbp,Ccl5,Ccl19,Cxcl2,Ccl22,Ccl12,Ccl24,Ccl9,Grk5,Ccl25,Ccl17,Grk6,Ccl6,Ccl3,Cxcl12,Ccl7,Cxcl16,Adrbk2,Cxcl9,Ccl27a,Adrbk1,Cxcl11,Arrb1,Cxcl15,Grk1,Arrb2,Xcl1,Ccl4,Ccl2,Cxcl14,Grk4,Pf4,Ccl8
+Cx3cr1	-0.835394021155851	5	35	Gnai2,Gnai3,Jak2,Jak3,Gnai1	Ccl8,Ccl7,Grk5,Cxcl15,Grk6,Ccl22,Ccl5,Ccl24,Adrbk2,Cxcl12,Grk4,Xcl1,Ccl17,Ccl19,Ccl27a,Grk1,Ccl4,Cx3cl1,Ccl3,Cxcl9,Cxcl2,Adrbk1,Ccl12,Ccl6,Ccl9,Cxcl14,Arrb1,Ccl25,Cxcl16,Ccl1,Pf4,Ccl2,Arrb2,Cxcl11,Ppbp
+Pnpla2	-0.560197025679004	24	16	Pnpla3,Agk,Dgkg,Ppap2b,Lpin3,Mgll,Cel,Ppap2c,Lpin2,Abhd5,Lpl,Dgkz,Dgka,Mogat2,Dgke,Lpin1,Dgkq,Pnpla2,Mogat1,Dgkd,Lipc,Dgkh,Ppap2a,Lipg	Dgat1,Cel,Ppap2a,Mogat2,Ppap2c,Insr,Pnpla3,Lpin3,Lipc,Ppap2b,Pnpla2,Lpin1,Lpin2,Dgat2,Lipg,Mogat1
+Actn1	0.512276433197599	25	15	Itga2b,Itgb8,Itga6,Itgb4,Itga2,Itgb7,Itga7,Itgb3,Itga3,Ctnna2,Magi3,Ctnna1,Itga4,Itga10,Itgav,Itga8,Magi2,Itga9,Ssx2ip,Itgb5,Itga5,Itga11,Itgb1,Itga1,Lmo7	Pip4k2c,Tjp1,Actb,Vcl,Actg1,Pip5k1c,Pip5k1a,Pip4k2a,Magi1,Ctnna2,Pip5k1b,Pip4k2b,Zyx,Pikfyve,Ctnna1
+Hdac4	0.604170299282476	39	0	1700024P04Rik,H2afx,H2afy,Hist2h2ac,Hist1h2bk,H2afb3,Hist1h2bh,Hist1h2ai,Hist1h2bf,H2afv,Hist2h2aa2,Hist2h2be,Hist1h2bj,Hist1h2bc,Hist1h2bp,Hist3h2a,Hist1h2bb,Hist1h2an,Hist1h2bl,Hist2h2ab,Hist1h2ad,Hist1h2ah,Hist1h2ab,Hist1h2af,H2afz,Hist1h2bn,Hist3h2bb-ps,Hist1h2bg,Hist3h2ba,H2afj,Hist1h2ak,1700012L04Rik,Hist1h2be,Hist1h2ac,H2afy2,Hist2h2bb,Hist1h2bm,Hist1h2ae,Hist1h2ag	
+Hdac7	0.673315310962305	39	0	Hist1h2ae,1700012L04Rik,Hist1h2bj,Hist1h2ac,Hist1h2ad,H2afv,Hist3h2bb-ps,Hist1h2bf,Hist2h2be,H2afb3,H2afy,Hist1h2bb,Hist3h2a,Hist1h2bh,Hist1h2an,Hist1h2bn,Hist3h2ba,Hist1h2ah,Hist1h2bk,Hist1h2bg,Hist1h2ai,Hist1h2af,Hist1h2bc,Hist1h2ab,H2afz,1700024P04Rik,Hist1h2ak,Hist1h2bl,H2afx,H2afy2,H2afj,Hist2h2ab,Hist2h2aa2,Hist2h2bb,Hist1h2bp,Hist2h2ac,Hist1h2be,Hist1h2ag,Hist1h2bm	
+Ppp3ca	0.420830254648515	28	11	Anapc2,Cacna1c,Anapc13,Bad,Anapc7,Cacna1d,Nfatc3,Calm2,Cdc20,Cdc16,Anapc10,Anapc4,Nfatc2,Ppp1r1a,Cdc26,Anapc11,Anapc1,Anapc5,Nfatc1,Ppp1r1b,Crtc2,Cdc27,Cdc23,Calm1,Grm5,Nfatc4,Calm3,Grm1	Plcb3,Calm3,Sod1,Calr,Plcg2,Calm1,Calm2,Plcb4,Plcb2,Plcb1,Plcg1
+Cyp4f18	0.985666794843011	26	13	Pla2g4b,Cyp2j9,Pla2g3,Alox15,Pla2g12a,Alox12e,Pla2g4a,Pla2g16,Pla2g2d,Alox5,Ptgs2,Cyp2j11,Pla2g4d,Plb1,Alox8,Ptgs1,Pla2g2f,Pla2g10,Pla2g4c,Pla2g5,Pla2g6,Alox12,Cyp2j6,Pla2g2e,Pla2g4f,Pla2g2a	Cyp2c44,Cyp2u1,Cyp2j6,Cyp2j11,Cyp4a12a,Cyp2j9,Lta4h,Cyp4a14,Cyp2c55,Cyp2b10,Cyp2b9,Alox8,Cyp2b13
+Camk4	0.60834778123236	32	6	Pde4a,Atf1,Creb3l2,Atf2,Adcy3,Calm2,Pde3a,Adcy4,Creb3l3,Crebbp,Creb3l1,Pde4d,Creb3,Nos3,Calm1,Adcy2,Ep300,Adcy6,Pde4c,Adcy7,Creb3l4,Adcy9,Adcy5,Atf6b,Mapk1,Pde4b,Pde3b,Creb1,Atf4,Mapk3,Creb5,Calm3	Calm1,Camkk2,Camkk1,Plcg2,Calm2,Calm3
+Lipg	0.77109570810318	23	15	Lpin1,Lipc,Lipg,Mogat2,Dgkz,Ppap2c,Dgkg,Lpl,Mgll,Dgkd,Ppap2b,Lpin3,Dgkh,Agk,Lpin2,Pnpla3,Dgka,Ppap2a,Dgke,Cel,Dgkq,Mogat1,Pnpla2	Lpin3,Lipg,Mogat2,Dgat1,Ppap2b,Ppap2a,Mogat1,Lpin2,Lpin1,Cel,Pnpla3,Lipc,Dgat2,Ppap2c,Pnpla2
+Atic	-0.351478155740261	24	13	Gart,Entpd6,Nt5c2,Impdh1,Itpa,Nt5m,Nt5c3,Entpd3,Nt5c3b,Nt5e,Entpd4,Amt,Cant1,Shmt2,1700080E11Rik,Nt5c1a,Nudt16,Entpd5,Entpd1,Hprt,Nt5c,Mtr,Impdh2,Shmt1	Adsl,Gmpr,Ampd1,Aprt,Mthfd2,Dhfr,Ampd3,Adss,Gmpr2,Adssl1,Mthfd2l,Mthfd1,Ampd2
+Tnf	0.553824332054436	15	20	Psme2b,Psme3,Vcam1,Ikbkb,Mapk8,Psme2,Smad7,Mtor,Tnfrsf1b,Mapk9,Psme1,Smad6,Icam1,Sele,Tnfrsf1a	Tlr2,Fos,Nfatc4,Myd88,Rela,Tlr4,Mapk11,Mapk8,Nfatc2,Mapk1,Mapk13,Mapk14,Mapk12,Nfatc1,Nfkb1,Mapk9,Jun,Mapk3,Irf5,Nfatc3
+Ifngr1	-0.926515953383651	10	25	Jak1,Nos2,Jak3,Tyk2,Fas,Tnfsf10,Jak2,Rela,Nfkb1,Stat1	Epo,Ifng,Il23a,Lep,Il17d,Osm,Ifnab,Il4,Ctf1,Il21,Il12b,Il12a,Il7,Ifna6,Cntf,Ifna14,Il6,Gh,Il3,Tslp,Lif,Il11,Il19,Il15,Csf3
+Vegfa	0.450809935622426	19	15	Fgfr2,Csf1r,Flt1,Epha2,Ngfr,Fgfr3,Pdgfrb,Erbb2,Met,Fgfr4,Insr,Egfr,Kdr,Pdgfra,Kit,Fgfr1,Flt4,Igf1r,Tek	Hif1a,Ep300,Mmp2,Hspg2,Myc,Jun,Crebbp,Arnt,Stat3,Rela,Fos,Ctnnb1,Stat1,Epas1,Nfkb1
+Il12rb1	-0.573994867134478	8	25	Stat3,Jak1,Il18rap,Il18r1,Jak2,Jak3,Tyk2,Stat4	Il4,Lif,Lep,Ifng,Ifna14,Ifna6,Il6,Il11,Csf3,Il17d,Gh,Il12a,Il12b,Il19,Ctf1,Ifnab,Osm,Il3,Il23a,Il15,Cntf,Epo,Il21,Tslp,Il7
+Il12rb2	-0.69419057145103	7	26	Stat4,Jak1,Il18r1,Jak3,Il18rap,Jak2,Tyk2	Il15,Il17d,Cntf,Lep,Osm,Il4,Epo,Lif,Ifng,Il6,Il12a,Ctf1,Csf3,Tslp,Il23a,Ifna14,Il12b,Ifna6,Il21,Il11,Il7,Ifnab,Tbx21,Gh,Il3,Il19
+Itpr2	0.506575705077151	10	22	Camk2b,Camk2d,Calm3,Calm2,Prkcb,Prkcg,Camk2a,Prkca,Calm1,Camk2g	Homer1,Plcd3,Calm1,Plcd1,Homer3,Homer2,Ank1,Mrvi1,Ank2,Plcg2,Calm3,Ank3,Plcg1,Prkaca,Calm2,Plcb3,Plcb1,Plcb4,Plce1,Plcb2,Prkacb,Plcd4
+Ccnd3	0.715994645207949	4	28	Rbl1,Rbl2,Rb1,Cdkn1b	Tead3,Tcf7,Cdkn1c,Stat6,Jun,Elk1,Cdkn2c,Tead1,Stat2,Stat3,Cdkn2d,Cdkn1b,Ctnnb1,Tcf7l2,Pcna,Yap1,Tead2,Stat5b,Cdkn2b,Gsk3b,Stat5a,Tcf7l1,Cdkn2a,Tead4,Stat4,Lef1,Stat1,Cdkn1a
+Agpat3	-0.574122375136023	14	17	Agpat6,Cds1,Agk,Dgkg,Agpat9,Gpat2,Cds2,Gpam,Dgkh,Dgkd,Dgkq,Dgke,Dgka,Dgkz	Ppap2a,Lpin3,Ppap2b,Dgkg,Dgkz,Lpin2,Ppap2c,Pld1,Pld3,Dgke,Pld2,Dgkq,Dgkh,Lpin1,Dgkd,Dgka,Pld4
+Csf3r	0.57560939619907	4	27	Jak2,Tyk2,Jak3,Jak1	Il6,Gh,Cntf,Ctf1,Il17d,Ifng,Lep,Epo,Il4,Ifna14,Tslp,Lif,Cebpa,Spi1,Il21,Il23a,Il3,Il12b,Il12a,Il15,Csf3,Ifnab,Ifna6,Osm,Il7,Il19,Il11
+Thbs1	-0.728936007570906	26	5	Itga8,Ptk2,Itgb1,Itga4,Itgb7,Itga3,Itgb5,Cd47,Itga10,Itgav,Mmp2,Itgb3,Itgb4,Itga7,Itgb8,Sdc1,Itga6,Itga2,Itga11,Sdc4,Ltbp1,Itga5,Cd36,Itga9,Itga1,Itga2b	Trp53,Cbl,Id1,Cblb,Cblc
+Rasgrp2	0.482694548030119	13	18	Rap1a,Pla2g4a,Pla2g4d,Pla2g4c,Rras,Hras,Rap1b,Mras,Nras,Kras,Pla2g4b,Pla2g4f,Rras2	Cacna2d2,Cacna1b,Cacng8,Cacna2d1,Cacng7,Cacnb3,Cacna1g,Cacna2d4,Cacna1i,Cacna1c,Cacna1a,Cacna1h,Cacna1s,Cacnb4,Cacna1f,Cacnb1,Cacnb2,Cacna1d
+Notch1	0.42140324267306	6	24	Dtx1,Rbpj,Dtx3l,Dtx4,Dtx3,Dtx2	Aph1c,Thra,Dvl2,Dll1,Mfng,Dvl3,Numb,Numbl,Jag2,Psen2,Dvl1,Ncstn,Dll3,Lfng,Aph1b,Dll4,Mir34a,Aph1a,Adam17,Psen1,Psenen,Jag1,Rfng,Prnp
+Cd38	-0.563306758782287	12	18	Nnt,Ryr2,Cd38,Ryr1,Nadk2,Bst1,Pnp2,Nampt,Nadk,Ryr3,Nnmt,Pnp	Nadsyn1,Enpp1,Enpp3,Nmnat3,Prkca,Pnp,Cd38,Prkg1,Nmnat2,Nampt,Nnmt,Prkcb,Pnp2,Nudt12,Nmnat1,Bst1,Prkcg,Prkg2
+Mogat2	0.53483877114009	17	13	Pnpla2,Dgke,Dgka,Dgkz,Lipg,Lipc,Dgat2,Dgkg,Agk,Lpl,Dgat1,Dgkh,Pnpla3,Dgkd,Mgll,Dgkq,Cel	Lpin1,Lipg,Ppap2c,Pnpla3,Ppap2b,Dgat1,Dgat2,Pnpla2,Ppap2a,Lipc,Lpin2,Cel,Lpin3
+Il20rb	-0.68475277782295	4	25	Jak1,Jak3,Tyk2,Jak2	Il19,Lep,Il12b,Cntf,Il17d,Il21,Csf3,Ifna6,Tslp,Ctf1,Epo,Osm,Ifna14,Il4,Gh,Il6,Il15,Ifng,Il23a,Lif,Il12a,Ifnab,Il7,Il3,Il11
+Ifnlr1	0.654613792693138	4	25	Jak1,Tyk2,Jak2,Jak3	Epo,Ifna14,Il15,Ifng,Tslp,Ifnab,Il23a,Lep,Gh,Ifna6,Lif,Il11,Il3,Il4,Il7,Il21,Csf3,Il12a,Cntf,Il6,Il17d,Il12b,Il19,Ctf1,Osm
+Il15ra	-0.635341153018418	4	25	Jak3,Tyk2,Jak1,Jak2	Gh,Ctf1,Ifnab,Il7,Csf3,Ifna6,Il4,Lif,Osm,Epo,Il21,Tslp,Il11,Il12a,Il6,Il3,Il17d,Ifng,Il15,Ifna14,Il12b,Cntf,Lep,Il19,Il23a
+Vcl	0.811710041956032	16	12	Pip4k2b,Pip5k1a,Tln2,Actn2,Actg1,Actn1,Pip4k2a,Pikfyve,Pip5k1c,Sorbs1,Actn4,Pip4k2c,Pip5k1b,Actn3,Tln1,Actb	Actg1,Ctnna2,Pip4k2b,Pxn,Ctnna1,Pip4k2c,Actb,Pip5k1a,Pikfyve,Pip5k1c,Pip5k1b,Pip4k2a
+Fzd3	0.991525487954992	10	18	Dvl3,Gnao1,Plcb4,Ctnnb1,Dvl2,Plcb3,Dvl1,Plcb2,Gnaq,Plcb1	Sfrp2,Wnt10b,Wnt16,Bambi,Sfrp1,Wnt6,Wnt8a,Wnt2b,Wnt9a,Lrp6,Wnt5b,Wnt1,Sfrp5,Sfrp4,Lrp5,Wnt9b,Wnt11,Wnt4
+Gys1	0.437337209272461	6	22	Ogt,Pygb,Gbe1,Pygl,Agl,Pygm	Prkab2,Prkaca,Ugdh,Ppp1ca,Prkag1,Enpp3,Prkaa1,Prkaa2,Prkab1,Ppp1r3b,Ppp1cc,Enpp1,Ppp1r3e,Ppp1r3f,Ppp1cb,Ugp2,Prkag3,Prkacb,Prkag2,Ppp1r3c,Ppp1r3d,Gsk3b
+Pdpk1	0.366197090159529	16	12	Sgk3,Ikbkb,Akt3,Pkn3,Prkci,Akt2,Rps6kb1,Sgk2,Prkca,Akt1,Pkn1,Rps6kb2,Sgk1,Chuk,Pkn2,Prkcz	Pik3r1,Pik3cd,Pik3ca,Rxrb,Pik3cb,Ppard,Pik3r5,Pik3cg,Pik3r3,Ogt,Rxra,Pik3r2
+Gba2	0.417504543481465	6	21	Galc,Asah2,B4galt6,Acer1,Acer2,Asah1	Glb1,Cers6,Smpd1,Cers3,Sgpp1,Ppap2a,Cers2,Cers5,Sgms1,Degs2,Ugt8a,Sgpp2,Smpd2,Degs1,Smpd4,Cerk,Ppap2b,Smpd3,Ppap2c,Cers4,Sgms2
+Flna	0.490263995471755	21	6	Actg1,Itga11,Itga2b,Itga9,Itgb4,Itga5,Itga10,Itga3,Itgb8,Itgb3,Itga7,Itga8,Itga1,Itgb7,Itgav,Itgb1,Itgb5,Itga6,Itga4,Itga2,Actb	Camk2b,Map2k4,Camk2a,Camk2g,Pak1,Camk2d
+Vasp	0.606829823137537	21	6	Itga10,Itga2b,Itgb1,Itgav,Actb,Itga3,Itga7,Itga5,Itgb4,Itgb3,Itgb8,Itga11,Itgb7,Itga8,Itga9,Itga1,Actg1,Itga4,Itga6,Itga2,Itgb5	Prkacb,Apbb1ip,Cdc42,Prkg2,Prkaca,Prkg1
+Plcg1	0.357366658421399	15	12	Prkcb,Pik3cb,Dgkz,Pikfyve,Dgkg,Prkce,Itpr2,Plcg2,Mtmr4,Plcb2,Pik3cd,Pi4k2a,Pik3c2b,Plcb3,Ppp3ca	Pik3c2b,Plcb3,Plcb2,Pdgfrb,Dgkg,Syk,Pik3cb,Dgkz,Pik3cd,Inpp1,Pi4k2a,Plcg2
+Plcb1	0.0133556100076187	15	12	Plcb2,Prkcb,Plcg2,Mtmr4,Pik3cd,Prkce,Pi4k2a,Pik3cb,Dgkg,Pik3c2b,Pikfyve,Itpr2,Plcb3,Dgkz,Ppp3ca	Csf1r,Plcb3,Dgkz,Dgkg,Plcg2,Pik3c2b,Pdgfrb,Plcb2,Inpp1,Pi4k2a,Fzd3,Gng10
+Plcb4	0.468081334467731	15	12	Pikfyve,Pi4k2a,Pik3c2b,Prkcb,Pik3cd,Mtmr4,Plcg2,Plcb2,Prkce,Plcb3,Pik3cb,Ppp3ca,Dgkz,Dgkg,Itpr2	Dgkz,Pdgfrb,Inpp1,Pi4k2a,Fzd3,Plcb2,Dgkg,Csf1r,Plcg2,Plcb3,Gng10,Pik3c2b
+Echs1	-0.432419265254223	15	12	Hadha,Acox3,Acadsb,Acads,Hibch,Mecr,Acox1,Ivd,Hsd17b10,Ehhadh,Acadm,Hadh,Acadvl,Gcdh,Acadl	Acads,Hadh,Hadha,Acadm,Mecr,Ehhadh,Acadsb,Acadvl,Hibch,Mccc1,Acad8,Mccc2
+Ccne2	0.558855618765452	15	12	Rb1,Anapc2,Anapc10,Anapc1,Anapc5,Anapc13,Cdkn1c,Cdc27,Cdc23,Cdc16,Anapc4,Cdkn1b,Cdc26,Anapc11,Anapc7	E2f2,Cdkn1a,Tfdp2,Rbx1,E2f1,Tfdp1,Cul1,Skp2,Skp1a,Cdkn1b,Mir16-1,E2f3
+Tiam1	0.720597287441956	11	15	Pik3cg,Rac3,Pik3cb,Pik3r1,Rac2,Pik3ca,Pik3r2,Rac1,Pik3r5,Pik3cd,Pik3r3	Pak1,Nras,Rras2,Ank3,Rras,Cdc42,Cd44,Ank1,Mras,Rap1b,Rap1a,Rassf1,Ank2,Kras,Hras
+Pik3r5	0.188618316489702	9	17	Inppl1,Pld1,Plcg2,Plcb2,Bin1,Plcb3,Mtmr4,Pikfyve,Pdpk1	Syk,Tyk2,Plcg2,Pi4k2a,Mtmr4,Gng10,Crkl,Pik3ap1,Pdgfrb,Plcb2,Agap2,Tiam1,Csf1r,Plcb3,Vcam1,Pikfyve,Chrm1
+Lao1	0.580353625052924	11	15	Ido2,Maob,Tph2,Ido1,Tph1,Mat2a,Adi1,Ddc,Tdo2,Maoa,Mat2b	Bckdhb,Nat8l,Aspa,Mif,Tpo,Mtr,Cad,Adssl1,Bckdha,Ddc,Ass1,Nit2,Hpd,Asns,Adss
+Pygb	0.403645604284973	0	25		Phkb,Gbe1,Calm2,Phkg2,Amy1,Ppp1r3d,Gys1,Pgm2l1,Ppp1cb,Phka2,Enpp1,Ppp1ca,Ppp1r3c,Pgm2,Pgm1,Ugp2,Agl,Enpp3,Ppp1cc,Phkg1,Ppp1r3e,Calm3,Ppp1r3b,Calm1,Phka1
+Vcam1	0.477484287938187	19	6	Cybb,Ncf1,Itgb1,Pik3r2,Pik3cg,Ncf2,Pik3cd,Pik3r3,Itgb7,Pik3r1,Msn,Itga4,Pik3cb,Nox1,Ncf4,Pik3r5,Pik3ca,Cyba,Ezr	Tnf,Rela,Itgb1,Itga9,Nfkb1,Itga4
+Cldn15	0.698444136063284	15	10	Inadl,Cldn5,Cldn7,Mpdz,Cldn14,Cldn23,Cldn15,Tjp3,Cldn13,Esam,Cldn1,Tjp1,Cldn11,Cldn20,Tjp2	Cldn1,Cldn5,Cldn11,Cldn14,Cldn15,Cldn7,Cldn23,Cldn20,Esam,Cldn13
+Pik3r3	0.391778552195368	9	16	Plcb2,Pld1,Mtmr4,Plcb3,Pikfyve,Bin1,Pdpk1,Plcg2,Inppl1	Syk,Gng10,Pdgfrb,Agap2,Plcb3,Pikfyve,Tyk2,Pi4k2a,Plcg2,Vcam1,Plcb2,Mtmr4,Csf1r,Crkl,Tiam1,Pik3ap1
+Pik3r2	0.00849998482506135	9	16	Inppl1,Plcg2,Bin1,Plcb3,Mtmr4,Plcb2,Pikfyve,Pld1,Pdpk1	Plcb3,Plcb2,Crkl,Vcam1,Gng10,Csf1r,Agap2,Mtmr4,Tiam1,Tyk2,Syk,Pi4k2a,Pdgfrb,Pik3ap1,Pikfyve,Plcg2
+Pik3r1	0.138334503845577	9	16	Inppl1,Pdpk1,Mtmr4,Plcb2,Plcg2,Plcb3,Bin1,Pikfyve,Pld1	Syk,Plcg2,Pi4k2a,Pik3ap1,Mtmr4,Tiam1,Pdgfrb,Vcam1,Gng10,Agap2,Csf1r,Plcb3,Plcb2,Pikfyve,Crkl,Tyk2
+Acss1	-0.723096095253269	19	6	Aldh1b1,Acss2,Acyp1,Acaca,Aldh3b2,Dlat,Acss1,Acyp2,Acadm,Aldh9a1,Aldh3b1,Acat1,Acat2,Aldh1a3,Aldh2,Acacb,Aldh3a1,Aldh3a2,Aldh7a1	Pcca,Acss1,Echdc1,Aldh6a1,Pccb,Acss2
+Cldn23	-0.551539030840118	15	10	Cldn20,Cldn23,Mpdz,Tjp3,Cldn13,Cldn14,Tjp1,Cldn11,Cldn7,Esam,Tjp2,Cldn15,Inadl,Cldn1,Cldn5	Cldn23,Cldn20,Cldn1,Cldn13,Cldn15,Cldn11,Cldn14,Cldn5,Cldn7,Esam
+Cers2	-0.324206351409476	16	8	Ugcg,Ppap2c,Galc,Cerk,Gba2,Sgms2,Ppap2b,Gba,Sphk2,Degs1,Kdsr,Ppap2a,Sgms1,Sphk1,Degs2,Ugt8a	Degs2,Smpd2,Smpd4,Degs1,Sgpp2,Smpd3,Sgpp1,Smpd1
+Col6a6	0.598291621530507	24	0	Cd44,Itga9,Itga2b,Ptk2,Itga7,Itga11,Itgb7,Itgb3,Sdc1,Itga6,Itga2,Itgb4,Itga10,Itgb8,Gp6,Itga3,Sdc4,Itga5,Itga1,Itgb5,Itga8,Itgb1,Itgav,Itga4	
+Gabbr1	0.873177953270767	22	2	Gnb3,Gng12,Gnb4,Gng11,Gng2,Gnai3,Gnb5,Gnb1,Gng10,Gngt1,Gnb2,Gng5,Gnai2,Gng13,Gng7,Gm5741,Gngt2,Gng4,Gng3,Gnao1,Gnai1,Gng8	Npy,Ghrl
+Rasgrp4	0.824426509945021	6	18	Rras,Hras,Kras,Nras,Mras,Rras2	Cacna1c,Cacna1a,Cacna1g,Cacnb1,Cacnb4,Cacna1h,Cacna1f,Cacna1d,Cacna1s,Cacnb2,Cacna1b,Cacnb3,Cacna2d2,Cacna2d1,Cacng7,Cacng8,Cacna2d4,Cacna1i
+Inpp1	0.430536157469189	14	9	Itpk1,Plcd1,Plcb4,Plcd4,Plcb3,Plce1,Inpp5k,Plcd3,Plcb2,Plcg1,Inpp5j,Plcb1,Plcg2,Inpp5a	Inpp4b,Inpp5j,Impa2,Impad1,Impa1,Inpp5k,Inpp5a,Itpk1,Inpp4a
+Nfatc2	0.493652782121883	13	10	Ptgs2,Mef2a,Nppb,Mef2c,Tnf,Srf,Rcan1,Mef2d,Mef2b,Rgs2,Trpc6,Myh7,Gata4	Gsk3b,Mapk11,Ppp3ca,Mapk14,Ppp3cb,Ppp3r1,Mapk12,Ppp3cc,Vdac3,Mapk13
+Lamb1	0.644028419426327	23	0	Itga5,Itga1,Ptk2,Itga3,Itga6,Dag1,Cd44,Itga2b,Itgb5,Itga7,Itga2,Itgb4,Itga8,Itga10,Itgb8,Itgb1,Itga4,Itgav,Itgb3,Sv2a,Itgb7,Itga9,Itga11	
+Gcnt1	0.585405109500904	18	4	Galnt6,Galnt11,C1galt1,Wbscr17,Galnt15,St6galnac1,Galnt3,Galnt12,Galnt7,C1galt1c1,Galnt16,Galnt4,Galnt18,B4galt5,Galnt1,Galnt10,B3gnt6,Galnt2	St3gal1,C1galt1c1,St3gal2,C1galt1
+Pola1	0.639361067878089	12	10	Entpd1,Dctpp1,Nme1,Nme5,Nme2,Nme4,Nme6,Entpd3,Nme3,Pklr,Nme7,Pkm	Nme2,Nme6,Pklr,Nme1,Nme3,Nme4,Nme7,Pkm,Nme5,Itpa
+Adrbk1	0.374469029332959	22	0	Ccr3,Ccr8,Oprm1,Ccr4,Ccr1,Adrb1,Cxcr6,Ccr7,Ccr10,Cxcr3,Xcr1,Ccr6,Cxcr2,Ccr2,Cxcr4,Ccr9,F2r,Cx3cr1,Ccr5,Cxcr5,Adrb2,Cxcr1	
+Inppl1	0.501992281793549	7	15	Fcgr2b,Pik3c2g,Inpp4b,Pik3c2a,Inpp4a,Pik3c2b,Pten	Pik3cg,Pik3r5,Pik3r1,Pik3ca,Pik3r2,Pik3cd,Pik3c2a,Pik3cb,Pten,Pik3c2b,Inpp4a,Pik3c2g,Inpp4b,Fcgr2b,Pik3r3
+Irak4	0.410356239429681	9	12	Map3k14,Tab2,Traf6,Irak2,Ikbkb,Tab3,Tab1,Map3k7,Irak1	Myd88,Ppp2r2c,Tirap,Il1rap,Ngfr,Ppp2cb,Ppp2r1a,Ppp2r2d,Ppp2ca,Ppp2r1b,Il1r1,Ppp2r2a
+Plce1	-0.0732583314211563	13	8	Pik3c2b,Pik3cb,Pi4k2a,Dgkz,Plcg2,Pik3cd,Mtmr4,Plcb2,Dgkg,Pikfyve,Itpr2,Prkcb,Plcb3	Plcb3,Dgkz,Plcg2,Dgkg,Inpp1,Pik3c2b,Plcb2,Pi4k2a
+Plcd4	-0.179309830898087	13	8	Dgkz,Dgkg,Mtmr4,Pik3cb,Pi4k2a,Plcb2,Pik3cd,Pik3c2b,Prkcb,Plcb3,Plcg2,Pikfyve,Itpr2	Plcb2,Plcg2,Dgkg,Inpp1,Plcb3,Dgkz,Pik3c2b,Pi4k2a
+Plcd3	-0.0995436721441154	13	8	Mtmr4,Itpr2,Pi4k2a,Pikfyve,Pik3cd,Plcb3,Dgkg,Plcg2,Plcb2,Dgkz,Pik3c2b,Pik3cb,Prkcb	Pi4k2a,Dgkz,Dgkg,Plcg2,Inpp1,Plcb3,Plcb2,Pik3c2b
+Plcd1	-0.284628430052789	13	8	Mtmr4,Itpr2,Plcg2,Pi4k2a,Pik3cb,Pikfyve,Prkcb,Pik3cd,Dgkz,Plcb3,Pik3c2b,Dgkg,Plcb2	Dgkg,Dgkz,Plcg2,Inpp1,Pik3c2b,Plcb2,Pi4k2a,Plcb3
+Cxcl9	-0.555837045005101	18	2	Cxcr4,Ccr4,Cxcr3,Ccr8,Ccr1,Ccr5,Cxcr2,Cxcr6,Ccr10,Xcr1,Ccr2,Cx3cr1,Ccr6,Cxcr1,Cxcr5,Ccr7,Ccr9,Ccr3	Irf3,Stat1
+Fdps	0.390723461050184	15	5	Kras,Nras,Pdss1,Ggps1,Hras,Fntb,Pdss2,Nus1,Fnta,Rras,Idi1,Fdps,Rras2,Dhdds,Mras	Idi1,Rsad2,Ggps1,Mvd,Fdps
+C1galt1	0.742981919841062	2	18	Gcnt1,Gcnt4	Gcnt1,Galnt18,Galnt6,St3gal2,Galnt15,B3gnt6,St6galnac1,Galnt2,Galnt7,Galnt10,Galnt12,Galnt4,Galnt3,Galnt16,Galnt11,St3gal1,Galnt1,Wbscr17
+Gla	-0.519058591415059	13	7	Mgam,Glb1,Neu4,Gla,Gaa,Neu3,Ganc,B3galnt1,Galc,Ugt8a,Arsa,Lct,Neu1	Akr1b10,Akr1b7,Hexb,Gla,Galm,Hexa,Akr1b8
+Hgf	0.640023140192711	19	0	Epha2,Erbb2,Ngfr,Fgfr2,Kit,Tek,Flt4,Fgfr3,Insr,Flt1,Fgfr4,Igf1r,Met,Kdr,Pdgfrb,Pdgfra,Fgfr1,Egfr,Csf1r	
+Ppp1r3d	0.809222124482415	12	7	Pygb,Phkb,Calm3,Phka1,Phkg1,Calm2,Pygm,Phka2,Calm1,Phkg2,Pygl,Gys1	Akt3,Akt1,Rps6ka3,Rps6ka6,Akt2,Rps6ka2,Rps6ka1
+Nmnat3	-0.532550438831973	9	10	Nadsyn1,Cd38,Nampt,Bst1,Nmrk1,Nnt,Naprt,Nadk2,Nadk	Nt5c,Nt5m,Nt5c3b,Nt5c2,Qprt,Nt5c1a,Nt5e,Nmrk1,Nadsyn1,Nt5c3
+Socs4	0.495355857397494	12	7	Stat1,Stat3,Jak3,Irs2,Stat5b,Irs1,Tyk2,Jak1,Jak2,Insr,Stat5a,Irs3	Stat2,Stat1,Stat3,Stat6,Stat5b,Stat5a,Stat4
+Pik3cg	0.198507693660351	5	14	Inppl1,Bin1,Plcg2,Pdpk1,Pld1	Tiam1,Pik3ap1,Plcb3,Plcb2,Pdgfrb,Vcam1,Csf1r,Crkl,Gng10,Tyk2,Agap2,Chrm1,Syk,Plcg2
+Ccl6	-0.828004830263641	18	0	Ccr7,Ccr3,Cxcr6,Ccr8,Cxcr2,Ccr4,Ccr5,Ccr1,Ccr10,Cxcr5,Ccr9,Cxcr4,Cx3cr1,Ccr6,Ccr2,Cxcr3,Cxcr1,Xcr1	
+Ccl9	-0.990109223686254	18	0	Ccr8,Ccr1,Cxcr2,Cxcr6,Ccr10,Ccr3,Cxcr4,Ccr7,Cxcr3,Ccr2,Ccr6,Cx3cr1,Ccr9,Ccr5,Ccr4,Cxcr1,Xcr1,Cxcr5	
+Pik3ca	0.338137801322536	5	13	Inppl1,Pdpk1,Bin1,Plcg2,Pld1	Crkl,Pdgfrb,Agap2,Plcg2,Plcb3,Tiam1,Pik3ap1,Tyk2,Plcb2,Syk,Csf1r,Vcam1,Gng10
+Ppard	0.43808030701654	13	5	Cpt1b,Acox3,Fabp3,Cpt1a,Ubc,Ilk,Angptl4,Acox2,Acox1,Lpl,Acadl,Pdpk1,Cpt1c	Tcf7l2,Tcf7,Tcf7l1,Jup,Lef1
+Tgfbr2	-0.549357945931319	10	8	Smad2,Rhoa,Snai1,Ppp2ca,Daxx,Smad4,Ppp2r1a,Ppp2r1b,Ppp2cb,Smad3	Smad7,Tgfbr1,Tgfb2,Tgfb1,Smurf1,Tgfb3,Smurf2,Yap1
+Nras	0.0101147018964879	7	10	Tiam1,Pik3cb,Pld1,Rgl2,Pik3cd,Rapgef5,Mapk13	Rasa2,Fdps,Rasa4,Pik3cd,Pdgfrb,Prkcb,Rasgrp4,Pik3cb,Rasgrp2,Rasal3
+Gfpt1	0.43624523249702	9	8	Glul,Hk1,Hkdc1,Gls,Hk2,Gpi1,Hk3,Gls2,Mpi	Ppat,Hkdc1,Hk2,Hk1,Gnpnat1,Cad,Amdhd2,Hk3
+Kras	0.274298358460902	7	10	Pik3cd,Rgl2,Pld1,Mapk13,Pik3cb,Tiam1,Rapgef5	Fdps,Pik3cb,Rasa2,Rasal3,Prkcb,Rasa4,Rasgrp4,Pik3cd,Rasgrp2,Pdgfrb
+Prkd2	0.528115854479118	13	4	Atf1,Rap1a,Atf6b,Creb5,Creb3l4,Creb3l3,Atf4,Creb1,Atf2,Creb3l1,Creb3,Rap1b,Creb3l2	Prkcg,Prkcb,Prkce,Prkca
+Entpd3	-0.115017300884914	8	9	Adcy3,Ak4,Nt5c3b,Polr3h,Pde2a,Entpd1,Pde3b,Entpd5	Polr3h,Adcy3,Pde3b,Pde2a,Atic,Ak4,Pola1,Entpd1,Entpd5
+Hras	-0.00441341620362698	7	10	Rapgef5,Pik3cd,Rgl2,Mapk13,Pld1,Pik3cb,Tiam1	Rasa4,Fdps,Rasgrp4,Pik3cd,Prkcb,Rasgrp2,Pdgfrb,Rasal3,Rasa2,Pik3cb
+Fbp1	-0.724371483658438	2	15	Taldo1,Gpi1	Pfkfb1,Aldoa,Aldoart1,Pfkfb3,Foxo1,Pfkfb2,Aldoc,Hkdc1,Hk2,Hk1,Tkt,Hk3,Pfkfb4,Tktl1,Mpi
+C3	0.684464312359158	6	10	Cr2,C3ar1,Itgam,Itgax,Hc,Itgb2	Plg,C2,Cfh,Cr1l,Cd46,Cd55,Cfi,Cfd,F12,C4b
+Pten	0.410481643423936	9	7	Plcb2,Pi4k2a,Pik3cd,Pik3c2b,Inppl1,Plcg2,Plcb3,Pikfyve,Pik3cb	Pik3cb,Plcg2,Pik3cd,Magi3,Plcb2,Inppl1,Plcb3
+B4galt3	0.507513859562343	14	2	B3galt2,Fut4,Gcnt2,B4gat1,B3gnt4,Sec1,B3gnt5,St3gal6,Ggta1,St6gal1,Fut2,B3gnt2,Fut1,B3gnt3	Fut8,B3gnt3
+Camkmt	-0.0528922007326359	8	8	Ash1l,Kmt2d,Kmt2a,Setd1b,Whsc1,Kmt2c,Nsd1,Setd7	Nsd1,Kmt2c,Ash1l,Setd7,Whsc1,Setd1b,Kmt2a,Kmt2d
+Pfkfb4	0.544103044999109	5	11	Pfkl,Pfkp,Pfkm,Mpi,Fbp1	Prkag1,Hk2,Prkaa1,Prkab2,Hk1,Prkaa2,Hk3,Prkag2,Prkag3,Hkdc1,Prkab1
+Phkb	0.374164856277094	6	10	Pygb,Calm1,Pygm,Calm2,Pygl,Calm3	Ppp1r3d,Prkaca,Ppp1ca,Ppp1r3e,Ppp1cc,Ppp1r3c,Ppp1r3f,Prkacb,Ppp1r3b,Ppp1cb
+Ctnnd1	-0.388713535415989	5	11	Cdh1,Rac1,Cdc42,Rac2,Rac3	Mllt4,Ptpn6,Fyn,Yes1,Egfr,Ptprm,Cdh5,Erbb2,Fer,Ptprj,Met
+Smg1	0.629184110673951	16	0	Ppp2r5a,Ppp2r2d,Ppp2cb,Ppp2r5e,Ppp2r1b,Smg7,Ppp2r2c,Ppp2ca,Ppp2r5b,Ppp2r3a,Upf1,Ppp2r5c,Ppp2r2a,Ppp2r3c,Ppp2r5d,Ppp2r1a	
+Ldhb	-0.739689223621275	4	12	Pklr,Pkm,Pdhb,Pdha1	Got1,Ldhd,Pdhb,Got2,Pcx,Mpst,Tst,Me1,Pdha1,Pkm,Pklr,Me2
+Eps15	0.415554691287786	15	0	Fgfr4,Met,Igf1r,Fgfr3,Pdgfra,Ret,Erbb4,Ntrk1,Kit,Egfr,Csf1r,Erbb3,Kdr,Flt1,Fgfr2	
+Me1	0.927086289151056	8	7	Pdhb,Ldha,Mdh1,Ldhal6b,Ldhb,Pdha1,Ldhc,Mdh2	Rxrb,Fh1,Pklr,Ldhd,Pkm,Rxra,Pcx
+Chrm1	0.553805190710103	13	2	Gnas,Gm5741,Gnai3,Gna15,Gng12,Gnal,Gnaq,Gna14,Gnai1,Pik3cg,Gnai2,Gna11,Pik3r5	Npy,Ghrl
+Actg1	0.300775600576423	4	11	Vcl,Actn1,Pfn1,Myh9	Flna,Prkcb,Prkch,Vcl,Prkce,Diap1,Pfn1,Myh9,Vasp,Itga1,Itgb7
+Socs5	0.558948833336692	8	7	Stat1,Jak2,Tyk2,Jak3,Stat3,Stat5b,Stat5a,Jak1	Stat4,Stat2,Stat3,Stat1,Stat5b,Stat5a,Stat6
+Tg	1.03714296789894	0	15		Ttf1,Creb3l4,Creb3l1,Creb3l2,Ttf2,Creb5,Asgr2,Creb3l3,Atf4,Pax8,Creb1,Asgr1,Atf2,Atf6b,Creb3
+Egfr	-0.0262351990247895	7	8	Pik3cd,Plcg2,Crkl,Plcb2,Ctnnd1,Pik3cb,Plcb3	Plcb3,Plcb2,Pik3cd,Vegfa,Pik3cb,Plcg2,Eps15,Hgf
+Smad7	0.670233888413717	8	7	Smurf2,Tgfbr2,Smad3,Smad5,Smad2,Smad1,Smurf1,Tgfbr1	Wwtr1,Smad2,Tnf,Yap1,Ifng,Smad4,Smad3
+Smad1	-0.568413379636065	6	9	Id2,Smad4,Id1,Id4,Id3,Dusp9	Mapk1,Smad3,Smad2,Smad6,Bmpr2,Mapk3,Bmpr1a,Smad7,Acvr1
+Pip5k1c	0.0416520238635358	8	6	Actb,Plcg2,Plcb2,Pik3c2b,Pi4k2a,Plcb3,Actn1,Vcl	Vcl,Plcg2,Plcb3,Plcb2,Pik3cb,Pik3cd
+Calm2	-0.123316833922341	5	9	Pygb,Itpr2,Camk4,Ppp3ca,Adcy3	Plcg2,Camk4,Ppp3ca,Phkb,Itpr2,Ppp1r3d,Plcb2,Cnga4,Plcb3
+Calm3	0.140767944333506	5	9	Ppp3ca,Itpr2,Pygb,Camk4,Adcy3	Ppp1r3d,Itpr2,Plcb3,Phkb,Plcb2,Cnga4,Plcg2,Camk4,Ppp3ca
+Calm1	0.0884758203951186	5	9	Camk4,Itpr2,Ppp3ca,Adcy3,Pygb	Phkb,Plcb3,Plcb2,Plcg2,Camk4,Cnga4,Ppp1r3d,Itpr2,Ppp3ca
+Per3	0.488939371489536	3	11	Arntl,Clock,Npas2	Btrc,Arntl,Fbxw11,Cul1,Rbx1,Creb1,Csnk1d,Npas2,Skp1a,Csnk1e,Clock
+Per1	-0.844615915960005	3	11	Arntl,Clock,Npas2	Npas2,Arntl,Cul1,Csnk1d,Skp1a,Creb1,Clock,Csnk1e,Btrc,Fbxw11,Rbx1
+Ocrl	0.146025792522345	7	7	Plcb3,Pik3cd,Pi4k2a,Pik3c2b,Plcb2,Pik3cb,Plcg2	Pi4k2a,Plcb2,Pik3cd,Plcg2,Plcb3,Pik3c2b,Pik3cb
+Prkca	-0.074507458842495	8	6	Egln3,Actb,Creb1,Cd38,Adcy3,Pld1,Prkd2,Gng10	Itgb7,Plcb2,Pdpk1,Itpr2,Plcb3,Plcg2
+Synj1	0.184127373815727	7	7	Plcg2,Pik3c2b,Pi4k2a,Pik3cd,Plcb3,Pik3cb,Plcb2	Pik3c2b,Plcb3,Plcb2,Pi4k2a,Plcg2,Pik3cd,Pik3cb
+Synj2	0.185752494643956	7	7	Plcb3,Plcg2,Plcb2,Pik3cd,Pik3cb,Pik3c2b,Pi4k2a	Plcb2,Pik3cd,Pik3cb,Pik3c2b,Plcb3,Pi4k2a,Plcg2
+Inpp5b	0.17035938176051	7	7	Plcg2,Pik3cd,Pi4k2a,Pik3c2b,Pik3cb,Plcb2,Plcb3	Plcb2,Pik3cd,Pi4k2a,Plcb3,Pik3cb,Pik3c2b,Plcg2
+Inpp5e	0.237527492955506	7	7	Plcb3,Pik3cd,Pi4k2a,Pik3c2b,Plcb2,Pik3cb,Plcg2	Plcb2,Pik3cb,Pik3c2b,Pik3cd,Plcb3,Pi4k2a,Plcg2
+Itgb3	-0.00786772829121352	7	7	Plcb3,Actb,Plcb2,Crkl,Plcg2,Prkcb,Cav2	Actn1,Thbs1,Col6a6,Flna,Vasp,Actb,Lamb1
+Smox	-0.546735730970283	1	13	Srm	Aldh3a1,Sms,Aldh7a1,Aldh1a3,Aldh3a2,Aldh9a1,Aoc3,Aoc2,Aldh2,Aldh1b1,Srm,Aldh3b2,Aldh3b1
+Gnai2	0.143237526326346	7	7	Adcy3,Gng10,Plcb3,Pik3cb,Mapk13,Pik3cd,Plcb2	Cx3cr1,Cxcr2,Prkcb,Gpsm1,Gabbr1,S1pr4,Chrm1
+Gnai3	0.154203265728899	7	7	Pik3cb,Plcb3,Adcy3,Pik3cd,Plcb2,Gng10,Mapk13	Prkcb,Chrm1,Cx3cr1,Gpsm1,Gabbr1,S1pr4,Cxcr2
+Gnai1	-0.0440579003095387	7	7	Plcb2,Pik3cd,Gng10,Pik3cb,Adcy3,Mapk13,Plcb3	S1pr4,Cxcr2,Cx3cr1,Chrm1,Prkcb,Gpsm1,Gabbr1
+Akr1a1	-0.421263758771209	1	13	Cryl1	Aldh3a2,Gyk,Aldh3b2,Gusb,Aldh9a1,Aldh3a1,Aldh7a1,Aldh1a3,Aldh2,Mgll,Aldh3b1,Aldh1b1,Kl
+Itgb1	-0.0178762768981777	7	7	Vcam1,Pik3cd,Crkl,Prkcb,Actb,Pik3cb,Cav2	Thbs1,Vcam1,Vasp,Flna,Lamb1,Actn1,Col6a6
+Pip5k1b	0.175497015789447	7	6	Plcb3,Pi4k2a,Vcl,Pik3c2b,Actn1,Plcg2,Plcb2	Plcg2,Pik3cb,Pik3cd,Plcb3,Plcb2,Vcl
+Pip5k1a	0.0869725705547404	7	6	Plcg2,Plcb3,Plcb2,Vcl,Actn1,Pi4k2a,Pik3c2b	Vcl,Plcb2,Plcb3,Pik3cb,Pik3cd,Plcg2
+Itpa	-0.0806621236865129	6	7	Nt5c3b,Entpd1,Entpd5,Polr3h,Adcy3,Pola1	Pde2a,Pde3b,Atic,Entpd1,Polr3h,Nt5c3b,Entpd5
+Rras2	-0.177856976092255	6	7	Pik3cb,Tiam1,Rapgef5,Pik3cd,Pld1,Rgl2	Rasa4,Rasa2,Prkcb,Rasal3,Rasgrp4,Fdps,Rasgrp2
+Dgkq	0.283648838380074	6	7	Pld3,Plcb3,Pld1,Plcb2,Agpat3,Plcg2	Plcb3,Plcg2,Plcb2,Pnpla2,Agpat3,Lipg,Mogat2
+Dgkh	0.479688932924328	6	7	Pld3,Plcb2,Plcg2,Plcb3,Pld1,Agpat3	Plcb2,Plcb3,Plcg2,Lipg,Agpat3,Mogat2,Pnpla2
+Dgka	0.257564414694954	6	7	Plcg2,Pld3,Plcb2,Pld1,Agpat3,Plcb3	Mogat2,Plcb3,Plcg2,Plcb2,Pnpla2,Lipg,Agpat3
+Dgkd	0.256164794911523	6	7	Plcb2,Pld3,Plcg2,Plcb3,Agpat3,Pld1	Plcb2,Plcb3,Plcg2,Lipg,Agpat3,Mogat2,Pnpla2
+Dgke	-0.506263735806801	6	7	Plcg2,Plcb3,Pld1,Plcb2,Agpat3,Pld3	Mogat2,Plcb3,Plcg2,Plcb2,Pnpla2,Lipg,Agpat3
+Ppp1r12a	0.614964045671954	8	5	Myl9,Myl10,Myl12a,Mylpf,Myl6b,Myl2,Myl6,Myl12b	Ppp1r14a,Prkg2,Rock1,Prkg1,Rock2
+Pld2	-0.159554796356946	4	9	Pld1,Agpat3,Lpcat4,Pld3	Syk,Pld3,Lpcat4,Pik3cb,Pld1,Dgkg,Prkcb,Dgkz,Pik3cd
+Pip4k2a	-0.0568960460551149	5	8	Pik3cd,Actn1,Mtmr4,Vcl,Pik3cb	Plcg2,Mtmr4,Pik3cb,Plcb3,Vcl,Pikfyve,Pik3cd,Plcb2
+Pip4k2c	0.253192209089296	5	8	Actn1,Mtmr4,Vcl,Pik3cd,Pik3cb	Plcb2,Plcg2,Pikfyve,Mtmr4,Pik3cb,Plcb3,Vcl,Pik3cd
+Pip4k2b	0.290393926530261	5	8	Mtmr4,Vcl,Pik3cb,Actn1,Pik3cd	Vcl,Pik3cd,Plcb2,Plcg2,Mtmr4,Pik3cb,Plcb3,Pikfyve
+Rras	0.0415953215412538	6	7	Rgl2,Pld1,Tiam1,Pik3cb,Rapgef5,Pik3cd	Rasgrp4,Prkcb,Rasa4,Rasa2,Rasal3,Rasgrp2,Fdps
+Prkcg	-0.301750750180772	8	5	Egln3,Prkd2,Creb1,Gng10,Adcy3,Pld1,Actb,Cd38	Itgb7,Plcb3,Plcg2,Itpr2,Plcb2
+Jak2	0.41476560231641	2	11	Pik3cb,Pik3cd	Csf3r,Socs5,Cx3cr1,Ifnlr1,Il12rb1,Il15ra,Socs4,Ifngr1,Il20rb,Il12rb2,Cxcr2
+Jak3	0.28051397761494	2	11	Pik3cb,Pik3cd	Il15ra,Cxcr2,Socs4,Cx3cr1,Csf3r,Socs5,Ifngr1,Ifnlr1,Il20rb,Il12rb2,Il12rb1
+Tead4	0.686878228426314	13	0	Snai2,Axin1,Ctgf,Ccnd1,Sox2,Myc,Ccnd2,Birc5,Nkd1,Gli2,Birc2,Ccnd3,Axin2	
+Pklr	0.0571066238595019	6	7	Pola1,Ak4,Me1,Polr3h,Ldhb,Adcy3	Ldhb,Adcy3,Entpd1,Polr3h,Ak4,Pola1,Entpd5
+Pkm	0.117260515378669	6	7	Polr3h,Ak4,Ldhb,Adcy3,Me1,Pola1	Ak4,Ldhb,Polr3h,Entpd5,Adcy3,Pola1,Entpd1
+Prkacb	0.0642611421014204	11	2	Vasp,Adcy3,Creb1,Mapk13,Pde3b,Scn4b,Phkb,Gng10,Sik2,Gys1,Itpr2	Adcy3,Prkcb
+Sik1	-0.575540265324373	1	12	Crtc2	Atf4,Crtc2,Creb3l3,Creb1,Ep300,Creb3l2,Creb3l4,Creb5,Creb3l1,Crebbp,Atf2,Creb3
+Prkaca	0.0756902794529578	11	2	Creb1,Gys1,Scn4b,Phkb,Pde3b,Vasp,Sik2,Adcy3,Itpr2,Mapk13,Gng10	Adcy3,Prkcb
+Ptk2	-0.463462653018684	4	9	Pik3cd,Pik3cb,Mapk13,Capn2	Itgb7,Thbs1,Col6a6,Pik3cd,Lamb1,Pdgfrb,Prkcb,Itga1,Pik3cb
+Mapk3	0.197333876084121	7	6	Il12a,Plau,Ets2,Creb1,Smad1,Ets1,Tnf	Mapk13,Dapk2,Gng10,Dusp3,Camk4,Prkcb
+Mapk1	0.0521827131568662	7	6	Creb1,Smad1,Tnf,Ets2,Plau,Ets1,Il12a	Dusp3,Prkcb,Gng10,Mapk13,Dapk2,Camk4
+Pik3c2a	0.240297187336297	7	6	Pikfyve,Mtmr4,Inppl1,Plcb3,Plcb2,Pi4k2a,Plcg2	Inppl1,Plcg2,Pi4k2a,Plcb3,Pikfyve,Plcb2
+Pik3c2g	0.156194045009023	7	6	Plcb3,Mtmr4,Pikfyve,Plcg2,Plcb2,Pi4k2a,Inppl1	Pi4k2a,Plcg2,Inppl1,Plcb3,Plcb2,Pikfyve
+Fasn	0.475854628725153	4	9	Acaca,Acacb,Mcat,Oxsm	Acsl1,1700061G19Rik,Srebf1,Acsl3,Acsbg1,Acsbg2,Oxsm,Acsl4,Acsl5
+Fcgr1	-1.22504820191872	9	4	Mapk14,Mapk13,Mapk11,Mapk12,Prkcb,Crk,Crkl,Syk,Ptgs2	Lyn,Tnfrsf11a,Hck,Spi1
+Adcy5	-0.099906875856322	4	8	Pde2a,Entpd1,Pde3b,Polr3h	Polr3h,Prkcb,Entpd1,Pde2a,Camk4,Gng10,Pde3b,Ptgs1
+Mras	-0.297785487208871	5	7	Pik3cd,Rapgef5,Rgl2,Tiam1,Pik3cb	Rasa2,Rasa4,Prkcb,Rasgrp4,Rasgrp2,Rasal3,Fdps
+Nme4	-0.256547816837779	6	6	Entpd1,Ak4,Polr3h,Pola1,Adcy3,Entpd5	Polr3h,Entpd1,Pola1,Adcy3,Entpd5,Ak4
+Nme5	-0.06538673259303	6	6	Ak4,Adcy3,Entpd5,Entpd1,Polr3h,Pola1	Adcy3,Pola1,Polr3h,Entpd5,Ak4,Entpd1
+Nme6	0.0974212316515453	6	6	Polr3h,Pola1,Entpd1,Entpd5,Ak4,Adcy3	Ak4,Pola1,Polr3h,Entpd5,Adcy3,Entpd1
+Nme7	-0.215818836969954	6	6	Entpd1,Ak4,Adcy3,Polr3h,Pola1,Entpd5	Ak4,Entpd1,Adcy3,Pola1,Polr3h,Entpd5
+Nme1	-0.0113158103372866	6	6	Polr3h,Ak4,Entpd1,Entpd5,Pola1,Adcy3	Adcy3,Pola1,Entpd5,Polr3h,Ak4,Entpd1
+Nme2	-0.307750793547265	6	6	Entpd5,Pola1,Entpd1,Polr3h,Adcy3,Ak4	Ak4,Pola1,Entpd5,Polr3h,Adcy3,Entpd1
+Nme3	0.148778362929203	6	6	Polr3h,Pola1,Adcy3,Entpd1,Entpd5,Ak4	Ak4,Entpd1,Pola1,Entpd5,Polr3h,Adcy3
+Nfya	0.404648277595122	10	2	H2-DMa,H2-Oa,H2-DMb1,H2-DMb2,H2-Aa,H2-Ab1,H2-Ob,H2-Ea-ps,H2-Eb1,Cd74	Ciita,Ctss
+Myh9	0.608426338800545	9	3	Myl12b,Myl2,Myl9,Myl12a,Cgn,Myl10,Mylpf,Actg1,Actb	Rhoa,Actg1,Actb
+Prkch	-0.514755649110517	12	0	Jam3,Braf,Actg1,Trpv4,Tjp1,Araf,Igsf5,Jam2,Raf1,Rhoa,F11r,Actb	
+Prnp	-1.05722839082297	11	1	Map2k2,Map2k1,Stip1,Bax,Sod1,Lamc1,Prnp,Ncam1,Fyn,Notch1,Hspa5	Prnp
+Stat1	-0.0941191270620725	8	4	Cxcl9,Socs4,Socs5,Elf5,Irf9,Csn2,Vegfa,Ccnd3	Socs5,Socs4,Tyk2,Ifngr1
+Pla2g4c	0.349218925004778	6	6	Alox5,Pld1,Lpcat4,Prkcb,Pld3,Ptgs1	Pld3,Prkcb,Pld1,Plcg2,Rasgrp2,Cyp4f18
+Pla2g4b	-0.0542731384098508	6	6	Pld3,Lpcat4,Alox5,Ptgs1,Pld1,Prkcb	Prkcb,Cyp4f18,Pld3,Pld1,Plcg2,Rasgrp2
+Pla2g4a	0.216118212174305	6	6	Ptgs1,Lpcat4,Alox5,Pld3,Prkcb,Pld1	Pld1,Prkcb,Rasgrp2,Cyp4f18,Plcg2,Pld3
+Pla2g4f	0.0695428265167648	6	6	Alox5,Pld1,Ptgs1,Lpcat4,Prkcb,Pld3	Pld3,Prkcb,Plcg2,Pld1,Rasgrp2,Cyp4f18
+Pla2g4d	-0.017635746526995	6	6	Prkcb,Pld3,Alox5,Ptgs1,Lpcat4,Pld1	Rasgrp2,Cyp4f18,Pld3,Plcg2,Pld1,Prkcb
+Rac1	-0.100470930582296	7	5	Actb,Cyfip2,Cybb,Ncf4,Pik3cb,Mapk13,Pik3cd	Pik3cd,Pik3cb,Ctnnd1,Als2,Tiam1
+Adcy4	-0.380355331373759	4	7	Entpd1,Polr3h,Pde2a,Pde3b	Entpd1,Camk4,Gng10,Prkcb,Polr3h,Pde2a,Pde3b
+Adcy6	-0.234400342396742	4	7	Polr3h,Entpd1,Pde2a,Pde3b	Prkcb,Polr3h,Pde2a,Pde3b,Camk4,Entpd1,Gng10
+Adcy7	0.239835238488135	4	7	Pde2a,Polr3h,Pde3b,Entpd1	Pde2a,Pde3b,Polr3h,Camk4,Entpd1,Gng10,Prkcb
+Ppap2c	-0.327070539852548	7	4	Pld3,Pnpla2,Agpat3,Mogat2,Pld1,Gba2,Lipg	Pld1,Cers2,Lipg,Pnpla2
+Ppap2b	-0.369969959725834	7	4	Agpat3,Lipg,Pld3,Pnpla2,Mogat2,Gba2,Pld1	Pnpla2,Cers2,Lipg,Pld1
+Adcy2	-0.0544871737368392	4	7	Pde3b,Entpd1,Polr3h,Pde2a	Prkcb,Polr3h,Pde2a,Pde3b,Camk4,Entpd1,Gng10
+Adcy9	0.145766561111563	4	7	Pde2a,Polr3h,Entpd1,Pde3b	Polr3h,Prkcb,Entpd1,Pde2a,Gng10,Camk4,Pde3b
+Gng12	-0.241792354898315	8	3	Plcb2,Fgd3,Plcb3,Mapk13,Rasa2,Pik3cb,Adcy3,Pik3cd	Gabbr1,Chrm1,Prkcb
+Rap1b	-0.034920367172525	5	6	Sipa1,Pik3cb,Tiam1,Arap3,Pik3cd	Rapgef5,Sipa1,Rapgef6,Sipa1l2,Rasgrp2,Prkd2
+Rap1a	0.0842090451332381	5	6	Arap3,Sipa1,Pik3cb,Tiam1,Pik3cd	Rasgrp2,Prkd2,Sipa1l2,Rapgef6,Rapgef5,Sipa1
+Ppap2a	-0.0818221272140896	7	4	Pnpla2,Agpat3,Gba2,Lipg,Pld1,Mogat2,Pld3	Pld1,Cers2,Lipg,Pnpla2
+Itgav	0.139604688968547	5	6	Plcb2,Plcb3,Plcg2,Crkl,Actb	Vasp,Thbs1,Flna,Actn1,Lamb1,Col6a6
+Cbr2	-0.683490508998739	8	3	Ugt1a7c,Ugt1a2,Ugt1a6a,Ugt1a1,Ugt1a5,Fam213b,Ugt1a6b,Ugt2b34	Ptges3,Ptges2,Ptges
+Pi4k2b	-0.222462135438217	5	6	Pik3c2b,Plcb2,Plcg2,Mtmr4,Plcb3	Plcb2,Plcg2,Pik3c2b,Pikfyve,Plcb3,Mtmr4
+Xdh	-0.657052897611521	4	7	Uox,Xdh,Gda,Hprt	Hprt,Nat2,Xdh,Pnp2,Pnp,Nat1,Tpmt
+Gm5741	-0.188525589074394	8	3	Adcy3,Pik3cb,Plcb3,Plcb2,Fgd3,Mapk13,Rasa2,Pik3cd	Chrm1,Prkcb,Gabbr1
+Jak1	0.254922301737871	2	9	Pik3cb,Pik3cd	Ifngr1,Ifnlr1,Il20rb,Il12rb2,Il12rb1,Socs4,Il15ra,Csf3r,Socs5
+Fancm	0.486181342176983	4	7	Fanci,Apitd1,Stra13,Fancd2	Rmi2,Atrip,Rmi1,Atr,Top3b,Top3a,Blm
+Pvrl4	-0.801670706790659	6	5	Pvrl4,Pard3,Src,Pvrl1,Pvrl2,Pvrl3	Pvrl3,Pvrl4,Pvrl1,Mllt4,Pvrl2
+Stat3	0.00331804265600095	7	4	Irf9,Csn2,Socs5,Ccnd3,Elf5,Vegfa,Socs4	Il12rb1,Socs4,Socs5,Tyk2
+Pi4kb	0.0215962894892826	5	6	Pik3c2b,Plcb2,Plcg2,Mtmr4,Plcb3	Plcb3,Plcg2,Pik3c2b,Pikfyve,Mtmr4,Plcb2
+Pi4ka	0.199014850420484	5	6	Plcg2,Mtmr4,Plcb3,Pik3c2b,Plcb2	Plcb2,Mtmr4,Pikfyve,Plcb3,Plcg2,Pik3c2b
+Acadl	-0.31781589717034	5	6	Acaa1a,Cpt2,Acaa2,Acaa1b,Hadhb	Rxrb,Ehhadh,Hadha,Ppard,Rxra,Echs1
+Akt1	0.0377460077341928	4	6	Ppp1r3d,Creb1,Tbc1d4,Pde3b	Pik3cd,Hsp90b1,Mapk13,Hsp90aa1,Pik3cb,Pdpk1
+Akt2	0.0800354746146527	4	6	Tbc1d4,Pde3b,Creb1,Ppp1r3d	Pik3cd,Hsp90b1,Pdpk1,Hsp90aa1,Pik3cb,Mapk13
+Akt3	0.178740906016502	4	6	Ppp1r3d,Tbc1d4,Pde3b,Creb1	Pdpk1,Mapk13,Pik3cd,Hsp90b1,Hsp90aa1,Pik3cb
+Cyfip2	0.825907224967257	7	3	Fxr2,Eif4e,Fxr1,Fmr1,Brk1,Wasf1,Eif4e2	Rac3,Rac1,Rac2
+Mapk11	-0.0451067748851433	3	7	Il12a,Nfatc2,Tnf	Fcgr1,Dusp3,Fcgr3,Fcgr4,Ncf4,Gng10,Cybb
+Itga2	-0.0166129413282698	4	6	Pik3cb,Crkl,Pik3cd,Actb	Actn1,Col6a6,Lamb1,Thbs1,Flna,Vasp
+Itga4	-0.155361710431023	3	7	Crkl,Actb,Vcam1	Thbs1,Actn1,Flna,Vcam1,Lamb1,Vasp,Col6a6
+Cept1	0.132542044688448	5	5	Pld1,Dgkz,Pld3,Dgkg,Lpcat4	Pld3,Dgkz,Pld1,Lpcat4,Dgkg
+Prkg1	-0.293834511405899	10	0	Creb1,Adcy3,Cd38,Plcb3,Plcb2,Ppp1r12a,Prkce,Vasp,Gtf2i,Mapk13	
+Prkg2	0.0448293539563049	10	0	Plcb3,Vasp,Ppp1r12a,Mapk13,Plcb2,Creb1,Adcy3,Gtf2i,Cd38,Prkce	
+Insr	0.309071095015792	6	4	Plcb3,Pnpla2,Crkl,Pik3cb,Plcb2,Pik3cd	Hgf,Vegfa,Prkcb,Socs4
+Rela	-0.0181660999549401	6	4	Plau,Il12a,Vcam1,Tnf,Vegfa,Traf4	Il1r2,Nfkbiz,Ifngr1,Mapk13
+Ncf4	0.484800961837573	7	3	Mapk14,Nos2,Mapk13,Mmp2,Mapk12,Cyba,Mapk11	Rac1,Prkcb,Vcam1
+Adh1	-0.0406734237499918	3	7	Aldh2,Maoa,Aldh1b1	Aldh1b1,Aldh2,Cyp26a1,Mgst3,Ugt1a7c,Maoa,Gstm7
+Adh7	0.0234994932658906	3	7	Aldh2,Aldh1b1,Maoa	Mgst3,Ugt1a7c,Gstm7,Maoa,Aldh2,Aldh1b1,Cyp26a1
+Adh5	-0.251194350192069	3	7	Aldh2,Aldh1b1,Maoa	Aldh2,Aldh1b1,Cyp26a1,Mgst3,Maoa,Ugt1a7c,Gstm7
+Adh4	0.0448293539563049	3	7	Maoa,Aldh2,Aldh1b1	Cyp26a1,Mgst3,Aldh2,Ugt1a7c,Maoa,Gstm7,Aldh1b1
+Cnga4	0.937020739306854	9	1	Guca1b,Clca3a1,Clca1,Calm1,Calm2,Clca2,Clca4a,Guca1a,Calm3	Adcy3
+Nfkb1	0.128221462406256	6	4	Plau,Il12a,Vcam1,Traf4,Tnf,Vegfa	Mapk13,Nfkbiz,Il1r2,Ifngr1
+Itgb8	0.00136902827870897	4	6	Cav2,Actb,Crkl,Prkcb	Actn1,Flna,Thbs1,Vasp,Col6a6,Lamb1
+Rdh12	0.40113276075406	7	3	Aox2,Awat2,Aox3,Dgat1,Aldh1a1,Aldh1a2,Aox1	Retsat,Cyp26a1,Bco1
+Pla2g6	-0.124544786934624	5	5	Pld1,Lpcat4,Ptgs1,Alox5,Pld3	Prkce,Pld3,Pld1,Prkcb,Cyp4f18
+Mapk14	0.0658177458394999	3	7	Il12a,Nfatc2,Tnf	Fcgr1,Dusp3,Ncf4,Fcgr3,Gng10,Cybb,Fcgr4
+Rhoa	-0.087412118091008	3	7	Diap1,Actb,Myh9	Tgfbr2,Prkcb,Arhgap35,Cd209b,Prkce,Prkch,Arap3
+Mapk12	-0.0957053372405612	3	7	Il12a,Tnf,Nfatc2	Gng10,Fcgr4,Dusp3,Cybb,Fcgr1,Ncf4,Fcgr3
+Src	-0.401603416849678	5	5	Pik3cd,Cav2,Syk,Pik3cb,Arhgap35	Pdgfrb,Itga1,Pvrl4,Prkcb,Itgb7
+Itgb5	-0.182607954425077	4	6	Crkl,Cav2,Actb,Prkcb	Thbs1,Lamb1,Flna,Actn1,Col6a6,Vasp
+Itgb4	0.0819599048755957	4	6	Cav2,Actb,Crkl,Prkcb	Actn1,Flna,Thbs1,Vasp,Col6a6,Lamb1
+Fcgr4	-0.840799734100926	7	3	Syk,Ptgs2,Mapk12,Mapk11,Prkcb,Mapk14,Mapk13	Tnfrsf11a,Fcer1g,Cd247
+Rxra	-0.101972766925058	7	3	Pltp,Olr1,Acadl,Slc27a4,Dbi,Me1,Pdpk1	Med13l,Ncoa3,Ncor1
+Rxrb	0.141498318776699	7	3	Me1,Olr1,Acadl,Pdpk1,Slc27a4,Dbi,Pltp	Ncor1,Med13l,Ncoa3
+Itga9	-0.339305884306326	3	6	Actb,Vcam1,Crkl	Col6a6,Flna,Vasp,Actn1,Thbs1,Lamb1
+Pdgfra	-0.294928059909165	6	3	Crkl,Pik3cd,Pik3cb,Plcg2,Plcb2,Plcb3	Eps15,Vegfa,Hgf
+Camk2d	-0.0592069524332815	5	4	Scn4b,Adcy3,Creb1,Flna,Pde3b	Itpr2,Plcb2,Plcb3,Plcg2
+Camk2g	0.0611495391498433	5	4	Scn4b,Flna,Creb1,Adcy3,Pde3b	Plcg2,Plcb3,Plcb2,Itpr2
+Camk2a	-0.23976271338164	5	4	Adcy3,Flna,Scn4b,Pde3b,Creb1	Plcb3,Plcb2,Plcg2,Itpr2
+Camk2b	0.074967260576823	5	4	Flna,Creb1,Pde3b,Adcy3,Scn4b	Itpr2,Plcb3,Plcg2,Plcb2
+Cyp4a12a	-0.0440579003095387	4	5	Ptgs1,Cyp4f18,Alox5,Ugt1a7c	Aldh2,Aldh1b1,Ptgs1,Alox5,Cyp26a1
+Cyp4a14	-0.0544486158662848	4	5	Cyp4f18,Ugt1a7c,Ptgs1,Alox5	Cyp26a1,Aldh2,Alox5,Ptgs1,Aldh1b1
+Il12b	-0.0440579003095387	7	2	Il20rb,Ifngr1,Il12rb1,Il12rb2,Csf3r,Ifnlr1,Il15ra	Mapk13,Fcgr2b
+Aacs	0.384740575394842	7	2	Hmgcll1,Ehhadh,Acat1,Acat2,Hadh,Hmgcl,Hmgcs2	Bdh1,Bdh2
+Rasa2	0.791742666915382	6	3	Mras,Nras,Kras,Rras2,Rras,Hras	Gng12,Gm5741,Gna12
+Itga2b	-0.0415074424895036	2	7	Crkl,Actb	Actn1,Flna,Col6a6,Vasp,Lamb1,Actb,Thbs1
+Glul	-0.844571787104815	1	8	Glud1	Aldh4a1,Gfpt1,Ppat,Cad,Gls,Gls2,Glud1,Gfpt2
+Gnao1	0.0433369367290156	6	3	Plcb3,Adcy3,Pik3cd,Plcb2,Mapk13,Pik3cb	Fzd3,Prkcb,Gabbr1
+Pld4	0.0156433311790004	4	5	Pld3,Pld1,Lpcat4,Agpat3	Dgkz,Pld3,Lpcat4,Pld1,Dgkg
+Stat5b	-0.0534458334581184	6	3	Irf9,Elf5,Socs5,Ccnd3,Socs4,Csn2	Socs4,Tyk2,Socs5
+Cdc25a	0.557898668188898	4	5	Cdk2,Cdk1,Cdk4,Cdk6	Chek2,Chek1,Mirlet7i,Plk1,Mirlet7d
+Kdr	-0.200744900346431	6	3	Plcb2,Plcg2,Pik3cd,Plcb3,Pik3cb,Crkl	Vegfa,Hgf,Eps15
+Igf1r	0.314487252907155	6	3	Pik3cd,Plcb2,Crkl,Plcb3,Pik3cb,Plcg2	Eps15,Hgf,Vegfa
+Met	-0.469385292093432	6	3	Pik3cb,Plcb3,Crkl,Plcb2,Pik3cd,Ctnnd1	Eps15,Vegfa,Hgf
+Pgam1	-0.398430525148493	2	7	Minpp1,Pgk1	Glyctk,Eno1b,Eno1,Eno3,Phgdh,Bpgm,Eno2
+Prkcd	0.171240496178382	4	5	Pld1,Marcksl1,Actb,Adcy3	Plcb3,Pik3cb,Pik3cd,Plcb2,Plcg2
+Pik3ap1	0.391147658095343	8	1	Pik3cg,Pik3r1,Pik3cd,Pik3r5,Pik3ca,Pik3cb,Pik3r2,Pik3r3	Syk
+Adcy10	0.125390224885268	4	5	Pde2a,Pde3b,Polr3h,Entpd1	Polr3h,Pde3b,Gng10,Entpd1,Pde2a
+Pla2g16	-0.363077587604352	5	4	Pld1,Lpcat4,Alox5,Pld3,Ptgs1	Lpcat4,Cyp4f18,Pld3,Pld1
+Inpp4b	0.330150837745555	5	4	Pikfyve,Mtmr4,Inpp1,Pik3c2b,Inppl1	Pik3c2b,Inppl1,Mtmr4,Pikfyve
+Inpp4a	0.291143732719077	5	4	Pikfyve,Mtmr4,Pik3c2b,Inppl1,Inpp1	Mtmr4,Inppl1,Pikfyve,Pik3c2b
+S1pr4	0.391960887420365	5	4	Gnai1,Gna12,Gnai3,Gnai2,Gna13	Foxo1,Foxo4,Foxo3,Foxo6
+Plb1	-0.0575707987298406	5	4	Pld3,Ptgs1,Alox5,Lpcat4,Pld1	Pld3,Lpcat4,Cyp4f18,Pld1
+C4b	-1.13068978105723	2	7	Hc,C3	C1qb,C1qc,C1s2,C1qa,C1s1,Masp2,C1ra
+Tnfsf10	-0.558378720138533	1	8	Tnfrsf10b	Foxo4,Foxo6,Ifngr2,Foxo3,Ifnar2,Ifngr1,Foxo1,Ifnar1
+Cyp2c55	0.0234994932658906	8	1	Cyp26a1,Cyp4f18,Ptgs1,Ephx1,Mgst3,Alox5,Ugt1a7c,Gstm7	Cyp26a1
+Agap2	0.523804775010377	8	1	Pik3ca,Pik3r3,Pik3cb,Pik3r2,Pik3cg,Pik3r1,Pik3r5,Pik3cd	Grm1
+Cyp2c44	-0.047503544809907	8	1	Cyp4f18,Alox5,Ugt1a7c,Cyp26a1,Mgst3,Gstm7,Ptgs1,Ephx1	Cyp26a1
+Cav2	-0.570103481759946	2	7	Fyn,Cd63	Itgb8,Src,Itgb7,Itgb4,Itgb5,Itgb3,Itgb1
+Stat5a	-0.123631363957003	6	3	Csn2,Socs5,Ccnd3,Elf5,Socs4,Irf9	Tyk2,Socs4,Socs5
+Hprt	-0.0763874202745847	2	7	Xdh,Nt5c3b	Entpd1,Entpd5,Nt5c3b,Pde2a,Atic,Pde3b,Xdh
+Setd7	0.566838459357003	8	1	Plod2,Foxo4,Plod3,Camkmt,Foxo3,Foxo6,Plod1,Foxo1	Camkmt
+Ngfr	0.00263706875862009	6	2	Pik3cd,Irak4,Plcb2,Pik3cb,Plcb3,Crkl	Hgf,Vegfa
+H2-T3	0.0236775996871473	4	4	H2-Q10,H2-T23,H2-T10,H2-M3	H2-M3,H2-T10,H2-Q10,H2-T23
+Pde3a	-0.0587787714502167	4	4	Adcy3,Entpd1,Entpd5,Nt5c3b	Adcy3,Camk4,Ak4,Entpd1
+Gng11	-0.0764545436589179	6	2	Plcb3,Pik3cb,Pik3cd,Mapk13,Plcb2,Adcy3	Gabbr1,Prkcb
+Gng13	0.077485623696288	6	2	Plcb3,Adcy3,Plcb2,Mapk13,Pik3cb,Pik3cd	Prkcb,Gabbr1
+H2-M10.2	0.0448293539563049	4	4	H2-T23,H2-M3,H2-Q10,H2-T10	H2-T10,H2-M3,H2-T23,H2-Q10
+Cd8b1	-0.0411919528822179	4	4	H2-T23,H2-Q10,H2-T10,H2-M3	H2-M3,H2-Q10,H2-T23,H2-T10
+Foxo1	-0.0545991893512725	5	3	S1pr4,Bnip3,Fbxo32,Fbp1,Tnfsf10	Cdk2,Mapk13,Setd7
+Itga10	0.371377941729675	2	6	Crkl,Actb	Vasp,Thbs1,Flna,Col6a6,Actn1,Lamb1
+Itga11	-0.106575478373048	2	6	Actb,Crkl	Flna,Col6a6,Vasp,Thbs1,Actn1,Lamb1
+Irf9	-0.996712636058813	1	7	Fos	Stat3,Stat2,Stat5b,Stat1,Stat6,Stat5a,Stat4
+Cel	0.0810363502414778	5	3	Pnpla2,Dgkz,Lipg,Mogat2,Dgkg	Pnpla2,Lipg,Mogat2
+Cyp2b9	0.149617343228137	7	1	Ptgs1,Gstm7,Mgst3,Ugt1a7c,Cyp4f18,Cyp26a1,Alox5	Cyp26a1
+H2-D1	-0.396003132238419	4	4	H2-M3,H2-T10,H2-Q10,H2-T23	H2-Q10,H2-T10,H2-M3,H2-T23
+Dgat1	-0.104436725291665	5	3	Pnpla2,Dgkz,Lipg,Dgkg,Mogat2	Rdh12,Cyp26a1,Mogat2
+Gng7	-0.25958478492873	6	2	Pik3cb,Mapk13,Plcb3,Adcy3,Plcb2,Pik3cd	Prkcb,Gabbr1
+Gng4	-0.0180476000303977	6	2	Pik3cb,Plcb2,Adcy3,Plcb3,Pik3cd,Mapk13	Prkcb,Gabbr1
+Gng5	0.0374859039102717	6	2	Mapk13,Plcb2,Pik3cb,Adcy3,Pik3cd,Plcb3	Prkcb,Gabbr1
+Gng8	0.00331382688014608	6	2	Adcy3,Plcb3,Pik3cb,Mapk13,Plcb2,Pik3cd	Prkcb,Gabbr1
+Itga8	0.0753827056512909	2	6	Actb,Crkl	Thbs1,Flna,Vasp,Lamb1,Actn1,Col6a6
+Itga3	-0.224855421175099	2	6	Crkl,Actb	Thbs1,Lamb1,Vasp,Flna,Actn1,Col6a6
+Itga5	-0.0667571433605646	2	6	Actb,Crkl	Lamb1,Flna,Vasp,Col6a6,Actn1,Thbs1
+Itga6	0.157762401452445	2	6	Crkl,Actb	Actn1,Lamb1,Col6a6,Flna,Thbs1,Vasp
+Itga7	-0.0989421248703883	2	6	Actb,Crkl	Col6a6,Vasp,Actn1,Thbs1,Flna,Lamb1
+Gng3	0.210234765991137	6	2	Plcb3,Pik3cb,Plcb2,Adcy3,Mapk13,Pik3cd	Prkcb,Gabbr1
+H2-T24	-0.385667228869718	4	4	H2-M3,H2-Q10,H2-T23,H2-T10	H2-T10,H2-Q10,H2-T23,H2-M3
+Plod3	0.250341258036511	0	8		Whsc1,Nsd1,Kmt2a,Setd7,Ash1l,Kmt2c,Kmt2d,Setd1b
+Mtmr14	0.135974117384693	2	6	Pi4k2a,Pikfyve	Pikfyve,Plcg2,Pik3c2b,Pi4k2a,Plcb2,Plcb3
+Pgm2l1	0.560102269553511	6	2	Pygl,Ugp2,Pygb,Pgm2,Pygm,Pgm1	Enpp1,Enpp3
+Cyp2b10	-0.325871662802573	7	1	Gstm7,Alox5,Ugt1a7c,Mgst3,Ptgs1,Cyp4f18,Cyp26a1	Cyp26a1
+Cyp2b13	-0.0587368151442557	7	1	Mgst3,Gstm7,Ptgs1,Cyp26a1,Cyp4f18,Alox5,Ugt1a7c	Cyp26a1
+Gspt2	-0.612443957079982	4	4	Pabpc4,Pabpc4l,Pabpc1,Pabpc1l	Upf3b,Upf3a,Upf2,Upf1
+Pla2g12a	-0.176659584121082	5	3	Alox5,Pld3,Ptgs1,Pld1,Lpcat4	Cyp4f18,Pld3,Pld1
+H2-K1	-0.395138497358204	4	4	H2-T10,H2-Q10,H2-T23,H2-M3	H2-Q10,H2-M3,H2-T10,H2-T23
+Ptgds	-0.901075856235693	1	7	Fam213b	Ptgis,Ptgs1,Ptges,Tbxas1,Ptges3,Ptgs2,Ptges2
+Ces1d	0.843632774886489	8	0	Gusb,Ugt1a2,Ugt1a1,Ugt1a7c,Ugt1a5,Ugt1a6a,Ugt1a6b,Ugt2b34	
+Cdc42	0.0110969039620153	4	4	Vasp,Tiam1,Mapk13,Actb	Ctnnd1,Fgd3,Pik3cd,Pik3cb
+Cd209b	0.580064686235353	8	0	Tgfb1,Rhoa,Ksr1,Tgfb2,Plk3,Arhgef12,Tgfb3,Lsp1	
+H2-M9	0.00263706875862009	4	4	H2-M3,H2-Q10,H2-T23,H2-T10	H2-Q10,H2-T10,H2-M3,H2-T23
+H2-M2	-0.020390261788612	4	4	H2-M3,H2-T10,H2-Q10,H2-T23	H2-T10,H2-M3,H2-Q10,H2-T23
+LOC547349	-0.0722880802483763	4	4	H2-M3,H2-Q10,H2-T23,H2-T10	H2-Q10,H2-T23,H2-T10,H2-M3
+Fgfr4	-0.0513550819914516	5	3	Pik3cd,Crkl,Plcb2,Pik3cb,Plcb3	Eps15,Vegfa,Hgf
+Fgfr2	-0.276785674632756	5	3	Pik3cd,Crkl,Plcb2,Pik3cb,Plcb3	Vegfa,Hgf,Eps15
+Fgfr3	-0.0410440627159538	5	3	Plcb3,Plcb2,Crkl,Pik3cb,Pik3cd	Vegfa,Hgf,Eps15
+Fgfr1	-0.557919149345298	6	2	Plcg2,Pik3cb,Plcb2,Pik3cd,Crkl,Plcb3	Vegfa,Hgf
+Gnb4	-0.0565168473721372	6	2	Plcb2,Pik3cd,Mapk13,Adcy3,Pik3cb,Plcb3	Prkcb,Gabbr1
+Ccbl2	-0.521100652760966	4	4	Txnrd3,Txnrd2,Txnrd1,Cth	Cth,Kynu,Afmid,Kmo
+Ifng	-0.0721373563983947	8	0	Ifnlr1,Ifngr1,Il12rb2,Csf3r,Il12rb1,Smad7,Il20rb,Il15ra	
+Rgl2	0.442647328336047	2	6	Rala,Ralb	Rras,Mras,Kras,Hras,Nras,Rras2
+Atf2	0.296646248374445	3	5	Creb1,Sik1,Tg	Camk4,Creb1,Mapk13,Prkd2,Prkcb
+Inpp5a	0.0852529813397919	4	4	Plcg2,Plcb2,Inpp1,Plcb3	Plcb2,Plcb3,Plcg2,Inpp1
+Inpp5j	0.0612951965674344	4	4	Inpp1,Plcb2,Plcg2,Plcb3	Plcb3,Plcb2,Plcg2,Inpp1
+Inpp5k	-0.195640033933493	4	4	Plcb2,Inpp1,Plcb3,Plcg2	Plcg2,Plcb2,Inpp1,Plcb3
+Cdc6	0.367660939061606	6	2	Orc3,Orc4,Orc5,Orc1,Orc6,Orc2	Cdk2,Ccna2
+Pla2g10	0.000325833681781187	5	3	Lpcat4,Ptgs1,Pld3,Alox5,Pld1	Cyp4f18,Pld3,Pld1
+Ces2c	-0.701914039158828	8	0	Ugt1a7c,Gusb,Ugt2b34,Ugt1a6b,Ugt1a2,Ugt1a6a,Ugt1a5,Ugt1a1	
+Kit	0.134331137729062	5	3	Plcb3,Plcb2,Crkl,Pik3cd,Pik3cb	Hgf,Eps15,Vegfa
+Pnpla3	0.103471216686775	5	3	Mogat2,Pnpla2,Dgkz,Lipg,Dgkg	Pnpla2,Lipg,Mogat2
+Magi3	0.508979573415261	3	5	Rapgef2,Pten,Rapgef6	Ctnnb1,Actn4,Actn1,Actn2,Actn3
+Pank3	0.525844022456509	4	4	Ppcdc,Coasy,Ppcs,Vnn3	Ppcdc,Enpp1,Enpp3,Ppcs
+Lpin2	0.185966970311566	6	2	Agpat3,Pld1,Lipg,Mogat2,Pld3,Pnpla2	Pnpla2,Lipg
+Lpin3	-0.131144671260963	6	2	Lipg,Agpat3,Pld3,Pnpla2,Mogat2,Pld1	Pnpla2,Lipg
+H2-Q1	-0.39174411158116	4	4	H2-T10,H2-M3,H2-Q10,H2-T23	H2-T23,H2-Q10,H2-T10,H2-M3
+H2-Q2	0.00889531366448794	4	4	H2-T10,H2-M3,H2-T23,H2-Q10	H2-M3,H2-T10,H2-T23,H2-Q10
+Mtmr7	0.141355872141838	2	6	Pi4k2a,Pikfyve	Pik3c2b,Plcg2,Pikfyve,Plcb2,Plcb3,Pi4k2a
+Mtmr6	0.264593184945435	2	6	Pikfyve,Pi4k2a	Pikfyve,Pi4k2a,Plcb3,Plcb2,Pik3c2b,Plcg2
+Mtmr3	0.127296054244234	2	6	Pi4k2a,Pikfyve	Pik3c2b,Plcg2,Pikfyve,Plcb2,Pi4k2a,Plcb3
+Mtmr2	-0.291015217907111	2	6	Pi4k2a,Pikfyve	Pikfyve,Pi4k2a,Plcb3,Plcb2,Pik3c2b,Plcg2
+Pla2g2a	0.0300790531633919	5	3	Pld1,Lpcat4,Alox5,Ptgs1,Pld3	Pld1,Pld3,Cyp4f18
+Pla2g2e	-0.386903203290563	5	3	Pld1,Alox5,Pld3,Ptgs1,Lpcat4	Pld1,Pld3,Cyp4f18
+Pla2g2d	-0.181988991798417	5	3	Pld1,Lpcat4,Pld3,Ptgs1,Alox5	Pld3,Cyp4f18,Pld1
+Pla2g2f	-0.312938333503904	5	3	Pld3,Pld1,Lpcat4,Ptgs1,Alox5	Pld1,Cyp4f18,Pld3
+Flt1	0.224368733515911	5	3	Plcb2,Pik3cb,Pik3cd,Plcb3,Crkl	Vegfa,Hgf,Eps15
+Il6	0.0218856152440275	7	1	Csf3r,Il12rb2,Il12rb1,Il20rb,Il15ra,Ifngr1,Ifnlr1	Mapk13
+Il4	-0.0430915582217464	7	1	Il12rb2,Il12rb1,Csf3r,Il15ra,Ifngr1,Il20rb,Ifnlr1	Maf
+Raf1	0.0232282649184303	4	4	Pld1,Pik3cb,Pik3cd,Mapk13	Prkce,Prkch,Prkcb,Ksr1
+Mapk8	-0.0284151547557257	4	4	Il12a,Tnf,Crkl,Mapk13	Dusp3,Gng10,Tnf,Prkce
+Mapk9	-0.115609397296729	4	4	Il12a,Mapk13,Crkl,Tnf	Prkce,Dusp3,Gng10,Tnf
+Plod2	0.00605755072425681	0	8		Kmt2a,Setd7,Setd1b,Kmt2d,Whsc1,Kmt2c,Ash1l,Nsd1
+Plod1	-0.170360240347904	0	8		Kmt2c,Ash1l,Kmt2d,Setd1b,Whsc1,Nsd1,Kmt2a,Setd7
+Il23a	0.160869592695301	7	1	Ifnlr1,Ifngr1,Il12rb2,Csf3r,Il12rb1,Il20rb,Il15ra	Mapk13
+Rapgef5	0.556418571958464	2	6	Rap1b,Rap1a	Mras,Rras2,Hras,Nras,Rras,Kras
+Gngt2	-0.346689144377437	6	2	Mapk13,Adcy3,Plcb3,Pik3cd,Plcb2,Pik3cb	Prkcb,Gabbr1
+Gngt1	0.176231351832694	6	2	Plcb2,Adcy3,Pik3cd,Mapk13,Plcb3,Pik3cb	Gabbr1,Prkcb
+Arg1	-0.833826909240798	7	1	Gatm,Oat,Nos1,Azin2,Odc1,Nos3,Nos2	Acy1
+Arg2	0.69618702270477	7	1	Odc1,Oat,Nos1,Nos2,Gatm,Azin2,Nos3	Acy1
+Il1r2	-0.55280151303061	6	2	Nfkb1,Tab1,Casp3,Traf6,Rela,Map3k3	Il1a,Il1b
+Lipc	-0.145125952735786	5	3	Dgkz,Pnpla2,Lipg,Mogat2,Dgkg	Lipg,Mogat2,Pnpla2
+Tjp1	-0.187551346973841	2	6	Actn1,Actb	Actb,Prkcb,Cldn23,Prkch,Prkce,Cldn15
+Pla2g5	0.156688091987134	5	3	Ptgs1,Lpcat4,Pld1,Alox5,Pld3	Cyp4f18,Pld1,Pld3
+Pla2g3	0.0691496262964837	5	3	Pld1,Ptgs1,Pld3,Alox5,Lpcat4	Cyp4f18,Pld3,Pld1
+Bin1	-0.586917706906347	0	8		Pik3cg,Pik3r5,Pik3cd,Pik3r2,Pik3ca,Pik3r3,Pik3r1,Pik3cb
+Lpin1	-0.208746590551203	6	2	Mogat2,Pld3,Lipg,Pld1,Pnpla2,Agpat3	Lipg,Pnpla2
+Dusp3	-0.770540435313177	8	0	Mapk13,Mapk8,Mapk14,Mapk1,Mapk9,Mapk12,Mapk11,Mapk3	
+Gng2	-0.523004665629642	6	2	Adcy3,Mapk13,Pik3cd,Plcb2,Pik3cb,Plcb3	Prkcb,Gabbr1
+Mtm1	0.0860265158220597	2	6	Pikfyve,Pi4k2a	Plcg2,Plcb3,Plcb2,Pi4k2a,Pik3c2b,Pikfyve
+Gnb5	-0.0513417603051925	6	2	Plcb3,Plcb2,Pik3cb,Mapk13,Pik3cd,Adcy3	Prkcb,Gabbr1
+Gnb1	-0.070691193823573	6	2	Pik3cd,Mapk13,Adcy3,Pik3cb,Plcb2,Plcb3	Prkcb,Gabbr1
+Gnb3	0.00338711077879913	6	2	Plcb3,Pik3cd,Pik3cb,Adcy3,Plcb2,Mapk13	Gabbr1,Prkcb
+Gnb2	0.172006185769482	6	2	Plcb2,Pik3cb,Pik3cd,Mapk13,Adcy3,Plcb3	Prkcb,Gabbr1
+Runx1	0.465517188771275	8	0	Spi1,Cebpa,Hdac1,Ctbp2,Hdac2,Jup,Csf1r,Ctbp1	
+Cd8a	-0.105227556834805	4	4	H2-T23,H2-Q10,H2-T10,H2-M3	H2-T10,H2-Q10,H2-T23,H2-M3
+Mtmr1	0.181032883944387	2	6	Pi4k2a,Pikfyve	Plcb3,Pik3c2b,Plcg2,Plcb2,Pikfyve,Pi4k2a
+Fcgr3	-0.382847788008994	7	1	Mapk13,Syk,Ptgs2,Prkcb,Mapk14,Mapk11,Mapk12	Tnfrsf11a
+Fcgr2b	-0.38862674864666	5	3	Inpp5d,Syk,Il12b,Il12a,Inppl1	Inppl1,Tnfrsf11a,Inpp5d
+H2-Bl	-0.0131121113589638	4	4	H2-Q10,H2-T10,H2-T23,H2-M3	H2-M3,H2-T10,H2-Q10,H2-T23
+Gh	0.132931164065586	7	0	Csf3r,Il15ra,Ifnlr1,Il12rb1,Il20rb,Ifngr1,Il12rb2	
+Stx1a	-0.62171141379952	1	6	Vamp2	Vamp4,Slc6a3,Vamp1,Stxbp1,Vamp3,Vamp2
+Il17d	-0.00862097497868503	7	0	Il12rb2,Csf3r,Il20rb,Ifngr1,Il12rb1,Il15ra,Ifnlr1	
+Lif	0.0044765403867229	7	0	Il12rb2,Il12rb1,Il15ra,Csf3r,Ifnlr1,Ifngr1,Il20rb	
+Foxo3	0.278947584780852	4	3	Fbxo32,S1pr4,Tnfsf10,Bnip3	Mapk13,Cdk2,Setd7
+Foxo6	-0.0539271292415053	4	3	Tnfsf10,Fbxo32,S1pr4,Bnip3	Setd7,Mapk13,Cdk2
+Foxo4	0.16308323082584	4	3	S1pr4,Tnfsf10,Bnip3,Fbxo32	Setd7,Mapk13,Cdk2
+Pip5kl1	0.117245831366942	2	5	Pik3c2b,Pi4k2a	Plcb2,Pik3cd,Plcg2,Plcb3,Pik3cb
+Odc1	-0.307921523400171	4	3	Sat1,Agmat,Srm,Sat2	Arg2,Oat,Arg1
+Pde1c	-0.0160259207277699	4	3	Entpd5,Entpd1,Adcy3,Nt5c3b	Adcy3,Ak4,Entpd1
+Pde1b	0.123283257272769	4	3	Adcy3,Nt5c3b,Entpd5,Entpd1	Ak4,Entpd1,Adcy3
+Pde1a	-0.0433330894037472	4	3	Adcy3,Entpd1,Nt5c3b,Entpd5	Adcy3,Ak4,Entpd1
+Crk	0.0800757869713755	2	5	Pik3cd,Pik3cb	Csf1r,Itgb7,Itga1,Pdgfrb,Fcgr1
+Pde11a	0.00176008787962317	4	3	Adcy3,Entpd1,Nt5c3b,Entpd5	Adcy3,Ak4,Entpd1
+Lep	-0.0541075348558651	7	0	Il12rb2,Il20rb,Csf3r,Ifnlr1,Il12rb1,Ifngr1,Il15ra	
+Ksr1	0.481834534944272	1	6	Raf1	Cd209b,Cd209a,Cd209c,Cd209d,Cd209e,Brap
+Ampd3	0.377702216158807	5	2	Nt5c3b,Atic,Ak4,Entpd5,Entpd1	Pde2a,Pde3b
+Ampd2	0.190566954154457	5	2	Ak4,Entpd5,Entpd1,Nt5c3b,Atic	Pde3b,Pde2a
+Ampd1	0.0247517428869346	5	2	Ak4,Atic,Nt5c3b,Entpd1,Entpd5	Pde2a,Pde3b
+Cyp1b1	-0.259973788484269	4	3	Ugt1a7c,Mgst3,Ephx1,Gstm7	Ephx1,Gstm7,Mgst3
+Cntf	0.0804304877150547	7	0	Il12rb2,Csf3r,Il20rb,Ifngr1,Ifnlr1,Il12rb1,Il15ra	
+Ept1	0.20431100272781	3	4	Pld1,Pld3,Lpcat4	Dgkg,Pld3,Pld1,Dgkz
+Creb3l2	0.409390027342797	3	4	Creb1,Tg,Sik1	Camk4,Prkcb,Creb1,Prkd2
+E2f1	0.342880267794679	3	4	Rb1,Ccne1,Ccne2	Ccna2,Cebpa,Rb1,Cdk2
+Creb5	-0.0597081004875968	3	4	Tg,Sik1,Creb1	Creb1,Prkcb,Prkd2,Camk4
+Creb3	-0.164549148652194	3	4	Creb1,Sik1,Tg	Camk4,Creb1,Prkcb,Prkd2
+Ptgs2	0.357337109615929	1	6	Ptgds	Nfatc2,Fcgr3,Fcgr4,Cyp4f18,Alox5,Fcgr1
+Thra	-0.00664689785913332	2	5	Actb,Notch1	Med13l,Pik3cd,Ncor1,Pik3cb,Ncoa3
+Capn2	-0.715070687827621	4	3	Tln2,Casp12,Cdk5r1,Tln1	Ptk2,Bak1,Bax
+Rpe	0.447351573423819	4	3	Tkt,Xylb,Pgd,Tktl1	Tktl1,Rpia,Tkt
+Creb3l3	-0.388010936803673	3	4	Sik1,Tg,Creb1	Camk4,Prkcb,Prkd2,Creb1
+Creb3l1	-0.0605906790035832	3	4	Tg,Sik1,Creb1	Camk4,Prkd2,Prkcb,Creb1
+Creb3l4	-0.100568669145288	3	4	Tg,Creb1,Sik1	Prkd2,Prkcb,Camk4,Creb1
+Nt5m	-0.0541794562220472	1	6	Nmnat3	Entpd1,Atic,Ak4,Entpd5,Pde2a,Pde3b
+Nt5c	-0.050774461688922	1	6	Nmnat3	Pde2a,Pde3b,Entpd1,Atic,Ak4,Entpd5
+Nt5e	0.302475959187531	1	6	Nmnat3	Atic,Ak4,Entpd5,Pde2a,Pde3b,Entpd1
+Il19	0.0448293539563049	7	0	Il20rb,Il12rb1,Ifngr1,Il15ra,Il12rb2,Ifnlr1,Csf3r	
+Il11	0.0474970105024322	7	0	Il12rb1,Ifnlr1,Il15ra,Il12rb2,Ifngr1,Il20rb,Csf3r	
+Ifna14	0.0448293539563049	7	0	Ifnlr1,Csf3r,Il12rb1,Il20rb,Il12rb2,Ifngr1,Il15ra	
+Nt5c1a	-0.178765058511284	1	6	Nmnat3	Entpd5,Entpd1,Pde3b,Atic,Ak4,Pde2a
+Il15	-0.242722822967938	7	0	Il12rb2,Ifnlr1,Il20rb,Csf3r,Il12rb1,Il15ra,Ifngr1	
+Aprt	0.104288717796535	2	5	Nt5c3b,Atic	Ak4,Pde3b,Entpd1,Pde2a,Entpd5
+Atf4	0.0161170334816566	3	4	Sik1,Creb1,Tg	Prkcb,Creb1,Prkd2,Camk4
+Irs1	-0.0669932602620416	2	5	Pik3cd,Pik3cb	Prkcb,Pdgfrb,Prkce,Socs4,Csf1r
+Aldh3b2	0.245692884569581	3	4	Akr1a1,Maoa,Smox	Gstm7,Maoa,Acss1,Mgst3
+Aldh3b1	0.340446499020685	3	4	Maoa,Akr1a1,Smox	Maoa,Acss1,Gstm7,Mgst3
+Ctf1	0.364142516690193	7	0	Il15ra,Csf3r,Il12rb2,Ifngr1,Il20rb,Il12rb1,Ifnlr1	
+Alg5	-0.561655089541184	5	2	Dolk,Dpm3,Dpagt1,Dpm1,Dpm2	Dolpp1,Alg6
+Suox	0.507422830378519	3	4	Cycs,Ethe1,Cyct	Mpst,Tst,Papss1,Papss2
+Fos	0.163055134805648	3	4	Tnf,Il12a,Vegfa	Creb1,Prkcb,Mapk13,Irf9
+Ifnab	-0.0591286124971794	7	0	Il15ra,Ifnlr1,Ifngr1,Il12rb1,Il12rb2,Csf3r,Il20rb	
+Plau	1.00060143819443	2	5	Plaur,Plg	Nfkb1,Rela,Mapk3,Serpine1,Mapk1
+Flt4	0.434183574963776	5	2	Pik3cb,Pik3cd,Plcb2,Plcb3,Crkl	Hgf,Vegfa
+Cybb	0.630421546491529	5	2	Mapk13,Mmp2,Mapk12,Mapk14,Mapk11	Vcam1,Rac1
+Pik3c3	-0.105058521511944	1	6	Pi4k2a	Plcg2,Pikfyve,Pi4k2a,Plcb2,Plcb3,Mtmr4
+Il7	-0.0395869380291951	7	0	Il15ra,Ifngr1,Ifnlr1,Il12rb2,Il20rb,Csf3r,Il12rb1	
+Il3	0.103559604405728	7	0	Ifnlr1,Csf3r,Il15ra,Ifngr1,Il12rb1,Il20rb,Il12rb2	
+Ppip5k1	0.454583660084163	4	3	Ippk,Ip6k3,Ip6k1,Ip6k2	Ip6k3,Ip6k2,Ip6k1
+Psen2	-0.420427710761354	7	0	Notch2,Ern1,Notch1,Notch4,Eif2ak3,Atf6,Notch3	
+Il21	-0.0436861624610961	7	0	Il20rb,Ifngr1,Il15ra,Csf3r,Il12rb2,Ifnlr1,Il12rb1	
+Epo	0.0452659753814056	7	0	Ifnlr1,Ifngr1,Il12rb2,Csf3r,Il15ra,Il20rb,Il12rb1	
+Cds1	-0.274450443480708	2	5	Dgkg,Dgkz	Pld3,Dgkz,Agpat3,Pld1,Dgkg
+Cds2	0.334853964142055	2	5	Dgkz,Dgkg	Pld1,Dgkz,Dgkg,Agpat3,Pld3
+Osm	0.382316334216863	7	0	Il12rb2,Ifngr1,Il15ra,Il20rb,Il12rb1,Csf3r,Ifnlr1	
+Efnb3	0.637799968707846	2	5	Rgs3,Nck2	Ephb1,Ephb4,Ephb6,Ephb3,Ephb2
+Pde10a	0.0254297667236463	4	3	Entpd1,Entpd5,Adcy3,Nt5c3b	Entpd1,Adcy3,Ak4
+Pfn1	0.46158305255078	2	5	Actg1,Actb	Diap1,Apbb1ip,Actb,Diap2,Actg1
+Stat4	0.134626589487166	4	3	Socs5,Socs4,Ccnd3,Irf9	Il12rb2,Tyk2,Il12rb1
+Csf3	-6.53278254290719e-05	7	0	Il15ra,Il20rb,Il12rb2,Il12rb1,Ifnlr1,Csf3r,Ifngr1	
+Tslp	-0.321244195614686	7	0	Ifnlr1,Csf3r,Il20rb,Il12rb2,Il15ra,Ifngr1,Il12rb1	
+Aldh3a1	0.0205453829210707	3	4	Smox,Akr1a1,Maoa	Mgst3,Gstm7,Maoa,Acss1
+Txnrd3	-0.600374923938597	4	3	Sephs1,Sephs2,Scly,Cth	Cth,Ccbl2,Ccbl1
+Ifna6	-0.0436861624610961	7	0	Il15ra,Il12rb1,Il20rb,Ifnlr1,Ifngr1,Il12rb2,Csf3r	
+Cdipt	0.0519660464685956	4	3	Mtmr4,Pi4k2a,Pik3c2b,Pikfyve	Plcg2,Plcb2,Plcb3
+Nt5c3	0.224453164887108	1	6	Nmnat3	Pde2a,Atic,Ak4,Pde3b,Entpd5,Entpd1
+Nt5c2	-0.198008967305771	1	6	Nmnat3	Atic,Entpd1,Ak4,Pde3b,Pde2a,Entpd5
+Aldh1a3	-0.21043120137854	3	4	Smox,Akr1a1,Maoa	Maoa,Acss1,Gstm7,Mgst3
+Gstk1	-0.156899133025174	3	3	Ephx1,Gstm7,Mgst3	Gstm7,Ephx1,Mgst3
+Agpat5	-0.01308292178915	2	4	Dgkz,Dgkg	Pld1,Dgkg,Dgkz,Pld3
+Agpat4	-0.228577656656359	2	4	Dgkg,Dgkz	Dgkg,Pld3,Pld1,Dgkz
+Agpat2	0.0813045190929062	2	4	Dgkg,Dgkz	Pld3,Dgkz,Pld1,Dgkg
+Agpat1	0.326548213942527	2	4	Dgkg,Dgkz	Pld1,Dgkg,Dgkz,Pld3
+Gstp2	-0.0539271292415053	3	3	Gstm7,Mgst3,Ephx1	Ephx1,Gstm7,Mgst3
+Gstp1	-0.174467410634869	3	3	Ephx1,Mgst3,Gstm7	Gstm7,Ephx1,Mgst3
+Cyp2s1	0.0210035597279589	5	1	Ugt1a7c,Ephx1,Cyp26a1,Gstm7,Mgst3	Cyp26a1
+Gstm1	-0.156978271732346	3	3	Ephx1,Mgst3,Gstm7	Ephx1,Gstm7,Mgst3
+Gstm2	-0.198595779977994	3	3	Ephx1,Gstm7,Mgst3	Gstm7,Mgst3,Ephx1
+Gstm3	0.0219897354877665	3	3	Mgst3,Ephx1,Gstm7	Gstm7,Mgst3,Ephx1
+Gstm4	-0.0756907212288852	3	3	Mgst3,Ephx1,Gstm7	Mgst3,Ephx1,Gstm7
+Gstm5	-0.166212668720119	3	3	Gstm7,Ephx1,Mgst3	Mgst3,Ephx1,Gstm7
+Gstm6	0.0129126199339727	3	3	Ephx1,Gstm7,Mgst3	Gstm7,Mgst3,Ephx1
+Gmps	-0.167757948391607	5	1	Nt5c3b,Pde3b,Entpd1,Entpd5,Pde2a	Nt5c3b
+Nup37	-0.380372569542306	6	0	Nup133,Nup107,Nup160,Nup85,Nup43,Nup98	
+Nit2	-0.414644688294852	5	1	Got2,Lao1,Il4i1,Nup62-il4i1,Got1	Glud1
+Dgat2	0.224171879846071	5	1	Dgkz,Mogat2,Dgkg,Lipg,Pnpla2	Mogat2
+Gsk3b	0.301613647060983	4	2	Nfatc2,Creb1,Ccnd3,Gys1	Pik3cd,Pik3cb
+Gpd1	-0.623837498053801	1	5	Adprm	Gpam,Gnpat,Agpat9,Gpat2,Agpat6
+Cyp2j11	-0.0440579003095387	3	3	Alox5,Cyp4f18,Ptgs1	Alox5,Cyp4f18,Ptgs1
+Lyn	-0.0623019365215503	6	0	Fcgr1,Pik3cb,Syk,Pik3cd,Prkcb,Plcg2	
+Gusb	-0.0625149762212891	3	3	Akr1a1,Gns,Ugt1a7c	Ugt1a7c,Ces1d,Ces2c
+H6pd	0.636002690452697	1	5	Pgd	Pgls,Pgd,G6pd2,G6pdx,Gpi1
+Gsta4	-0.123453173546186	3	3	Mgst3,Ephx1,Gstm7	Ephx1,Mgst3,Gstm7
+Gsta3	-0.242214292854973	3	3	Mgst3,Gstm7,Ephx1	Gstm7,Ephx1,Mgst3
+Pxn	0.203112371254959	4	2	Itga1,Vcl,Actb,Itgb7	Crkl,Prkcb
+Entpd6	0.0872100820086929	2	4	Entpd1,Nt5c3b	Atic,Pde3b,Pde2a,Entpd1
+Entpd4	-0.01185736981728	2	4	Nt5c3b,Entpd1	Pde3b,Entpd1,Pde2a,Atic
+Gstt3	-0.095198960586647	3	3	Ephx1,Gstm7,Mgst3	Gstm7,Mgst3,Ephx1
+Gstt2	-0.19755244808275	3	3	Gstm7,Ephx1,Mgst3	Gstm7,Mgst3,Ephx1
+Gstt1	-0.0361173170400973	3	3	Ephx1,Gstm7,Mgst3	Ephx1,Mgst3,Gstm7
+Scn4b	-0.605206741774854	0	6		Prkaca,Camk2g,Camk2b,Camk2a,Camk2d,Prkacb
+Actn3	-0.0963467544549053	3	3	Itgb7,Magi3,Itga1	Pikfyve,Actb,Vcl
+Actn4	0.0796487201729949	3	3	Itgb7,Magi3,Itga1	Actb,Pikfyve,Vcl
+Mboat2	-0.0220192687221173	2	4	Dgkz,Dgkg	Pld3,Dgkz,Dgkg,Pld1
+Mboat1	0.0916364552848875	2	4	Dgkz,Dgkg	Pld3,Dgkg,Pld1,Dgkz
+Rasal3	0.592854145695142	6	0	Kras,Rras2,Rras,Hras,Mras,Nras	
+Gmpr2	-0.158106585908515	6	0	Entpd5,Entpd1,Atic,Nt5c3b,Pde2a,Pde3b	
+Fyn	-0.210482135856643	3	3	Pik3cd,Ctnnd1,Pik3cb	Cav2,Cd55,Prnp
+Nlrp3	-0.604703673723888	2	4	Pycard,Il1b	Hsp90b1,Sugt1,Hsp90aa1,Hsp90ab1
+Jun	-0.132103827472578	4	2	Vegfa,Ccnd3,Il12a,Tnf	Mapk13,Creb1
+Maob	-0.459638439961437	2	4	Aldh2,Aldh1b1	Aldh1b1,Aldh2,Sat1,Lao1
+Hsp90b1	0.378598140562803	5	1	Nlrp3,Akt1,Akt2,Akt3,Ar	Sugt1
+Diap1	0.327091013967186	5	1	Pfn4,Pfn1,Actg1,Pfn2,Actb	Rhoa
+Lpl	-0.0960312424312105	2	4	Dgkg,Dgkz	Lipg,Ppard,Pnpla2,Mogat2
+Mpp5	0.605736453579298	2	4	Crb3,Amot	Pard6g,Pard6b,Pard6a,Inadl
+Inpp5d	-0.126818634229632	2	4	Pik3c2b,Fcgr2b	Fcgr2b,Pik3cb,Pik3c2b,Pik3cd
+Rasa4	-0.965358739812179	6	0	Hras,Rras,Rras2,Mras,Nras,Kras	
+Pnpt1	0.0556353140988621	3	3	Entpd1,Entpd5,Polr3h	Entpd1,Ak4,Polr3h
+Gmpr	-0.0333574603027305	6	0	Atic,Nt5c3b,Pde2a,Entpd5,Pde3b,Entpd1	
+Lclat1	-0.0879733806520983	2	4	Dgkz,Dgkg	Dgkg,Pld1,Pld3,Dgkz
+Chek1	0.52159344546145	4	2	Cdc25a,Cdc25b,Trp53,Cdc25c	Atm,Atr
+Erbb2	-0.222933458060294	4	2	Plcg2,Pik3cb,Ctnnd1,Pik3cd	Hgf,Vegfa
+Crtc2	0.00932822347433547	2	4	Sik1,Creb1	Ppp3ca,Creb1,Sik1,Sik2
+Ipmk	0.198394879127215	3	3	Plcb3,Plcg2,Plcb2	Plcb2,Plcg2,Plcb3
+Vav1	0.252493891828622	2	4	Pik3cb,Pik3cd	Plcg2,Syk,Pik3cb,Pik3cd
+Vav3	0.0857552279476432	2	4	Pik3cd,Pik3cb	Pik3cd,Syk,Pik3cb,Plcg2
+Vav2	-0.167143333526353	2	4	Pik3cd,Pik3cb	Syk,Pik3cd,Plcg2,Pik3cb
+Cyp2j6	-0.0911613831614581	3	3	Ptgs1,Cyp4f18,Alox5	Alox5,Ptgs1,Cyp4f18
+Cyp2j9	0.00160280526787725	3	3	Cyp4f18,Ptgs1,Alox5	Cyp4f18,Alox5,Ptgs1
+Gnaq	0.258451371627439	3	3	Kcnj2,Plcb3,Plcb2	Chrm1,P2ry1,Fzd3
+Cdkn1b	-0.103848832559893	3	3	Cdk2,Ccnd3,Ccne2	Ccnd3,Cdk2,Ccne2
+Chpt1	-0.276203187567228	5	1	Pld3,Lpcat4,Dgkg,Dgkz,Pld1	Lpcat4
+Mogat1	-0.119348724805418	4	2	Dgkz,Lipg,Dgkg,Pnpla2	Pnpla2,Lipg
+Hsp90aa1	0.506735920058377	5	1	Akt1,Nlrp3,Ar,Akt2,Akt3	Sugt1
+Mgst2	-0.106876495932255	3	3	Ephx1,Mgst3,Gstm7	Ephx1,Gstm7,Mgst3
+Mgst1	-0.0351362747347702	3	3	Mgst3,Gstm7,Ephx1	Mgst3,Ephx1,Gstm7
+Enpp3	-0.0758883182059793	5	1	Cd38,Gys1,Pgm2l1,Pygb,Pank3	Nt5c3b
+Enpp1	-0.217484987065524	5	1	Cd38,Pgm2l1,Pygb,Gys1,Pank3	Nt5c3b
+Adsl	0.11458667720004	2	4	Atic,Nt5c3b	Entpd1,Pde2a,Ak4,Pde3b
+Ehhadh	-0.366486276231552	4	2	Aldh1b1,Acadl,Echs1,Aldh2	Aacs,Echs1
+Cant1	0.111105571562975	2	4	Nt5c3b,Entpd1	Entpd1,Pde2a,Pde3b,Atic
+Actn2	0.0448293539563049	3	3	Itgb7,Itga1,Magi3	Actb,Pikfyve,Vcl
+Rac2	0.263432666956523	2	4	Actb,Cyfip2	Pik3cd,Pik3cb,Tiam1,Ctnnd1
+Rac3	0.136052189217995	2	4	Cyfip2,Actb	Tiam1,Pik3cb,Pik3cd,Ctnnd1
+Trp53	-0.0223131151193253	3	3	Shisa5,Thbs1,Ccng1	Prkdc,Chek1,Mapk13
+Gsto2	-0.0650676509721074	3	3	Ephx1,Mgst3,Gstm7	Ephx1,Mgst3,Gstm7
+Gsto1	-0.354474959272687	3	3	Gstm7,Mgst3,Ephx1	Gstm7,Mgst3,Ephx1
+Aldh7a1	0.0228032135694133	3	3	Smox,Akr1a1,Maoa	Chdh,Maoa,Acss1
+Mllt4	-0.0719686646021491	4	1	Ctnnd1,Sipa1,Actb,Pvrl4	Actb
+Lta4h	0.438298379179251	4	1	Ltc4s,Cyp4f13,Cyp4f18,Cyp4f14	Alox5
+Adssl1	-0.13384189945394	5	0	Lao1,Entpd1,Entpd5,Atic,Nt5c3b	
+Ppp1cc	0.143921707466009	4	1	Creb1,Phkb,Gys1,Pygb	Prkce
+Mtor	0.210448569355135	1	4	Prkcb	Pik3cb,Tnf,Prkcb,Pik3cd
+Rrm1	-0.0173213350873121	2	3	Ak4,Entpd1	Entpd5,Entpd1,Ak4
+Ncor1	0.578431812786752	4	1	Rxrb,Rxra,Thra,Thrb	Sin3a
+Ep300	0.393936452514359	3	2	Vegfa,Sik1,Creb1	Camk4,Creb1
+Atf6b	0.288922946073227	1	4	Tg	Prkcb,Wfs1,Prkd2,Camk4
+Sat1	-0.389043829747651	3	2	Agmat,Maob,Maoa	Odc1,Srm
+Nsd1	0.459022123165774	4	1	Plod3,Camkmt,Plod1,Plod2	Camkmt
+St3gal4	0.416356735026837	4	1	Sec1,Fut1,Fut2,Ggta1	B3galt2
+Ins1	0.0448293539563049	4	1	Pdgfrb,Csf1r,Pik3cb,Pik3cd	Creb1
+Galnt6	-0.606568005132898	2	3	C1galt1,C1galt1c1	Gcnt1,B3gnt6,St6galnac1
+Galnt3	0.575156949539581	2	3	C1galt1,C1galt1c1	St6galnac1,Gcnt1,B3gnt6
+Kmt2d	0.908924315695371	4	1	Plod2,Plod1,Plod3,Camkmt	Camkmt
+Pnp2	0.289868548746075	3	2	Nt5c3b,Xdh,Cd38	Nt5c3b,Cd38
+Thrb	-0.139148212124196	2	3	Pik3cd,Pik3cb	Ncoa3,Med13l,Ncor1
+Rb1	0.314351414482146	1	4	E2f1	Ccne2,E2f1,Cdk2,Ccnd3
+Fcer1g	-0.162642107295056	4	1	Pik3cd,Pik3cb,Fcgr4,Syk	Syk
+Rrm2b	0.276293662068703	2	3	Entpd1,Ak4	Entpd1,Ak4,Entpd5
+Cndp1	0.0452659753814056	2	3	Aldh1b1,Aldh2	Aldh2,Aldh1b1,Hdc
+Cndp2	-0.252147416256713	3	2	Aldh2,Aldh1b1,Hdc	Aldh2,Aldh1b1
+Dck	0.337000568148573	1	4	Nt5c3b	Entpd1,Ak4,Pde3b,Pde2a
+Ppp2r1b	0.137605385923557	2	3	Prkcb,Irak4	Smg1,Tgfbr2,Mapk13
+Ntrk1	0.0452659753814056	4	1	Pik3cd,Pik3cb,Matk,Plcg2	Eps15
+Carns1	0.237122214614762	3	2	Aldh1b1,Hdc,Aldh2	Aldh2,Aldh1b1
+Adk	-0.0858658547413935	0	5		Nt5c3b,Entpd1,Ak4,Pde3b,Pde2a
+Nos2	0.0925250783618519	0	5		Mapk13,Ifngr1,Ncf4,Arg2,Arg1
+Rrm2	0.0262925404568618	2	3	Ak4,Entpd1	Entpd5,Entpd1,Ak4
+Pde4a	0.0774953316609176	4	1	Adcy3,Nt5c3b,Ak4,Entpd1	Camk4
+Pde4b	0.197012081293556	4	1	Adcy3,Ak4,Entpd1,Nt5c3b	Camk4
+Pde4c	-0.228309229216184	4	1	Adcy3,Nt5c3b,Entpd1,Ak4	Camk4
+Pde4d	-0.351711971266845	4	1	Nt5c3b,Ak4,Adcy3,Entpd1	Camk4
+Kmt2c	0.602428299670777	4	1	Plod1,Plod2,Camkmt,Plod3	Camkmt
+Kmt2a	0.850611687500943	4	1	Plod2,Plod3,Camkmt,Plod1	Camkmt
+Ak8	-0.35142477622638	4	1	Pde2a,Pde3b,Nt5c3b,Entpd1	Entpd1
+Ak2	-0.232926232548385	4	1	Entpd1,Pde3b,Nt5c3b,Pde2a	Entpd1
+Ak1	-0.0235196570504317	4	1	Nt5c3b,Pde2a,Pde3b,Entpd1	Entpd1
+Ak7	0.0354238377674681	4	1	Pde2a,Pde3b,Entpd1,Nt5c3b	Entpd1
+Ak6	0.0891251843255061	4	1	Pde2a,Nt5c3b,Pde3b,Entpd1	Entpd1
+Ak5	0.158666158764956	4	1	Nt5c3b,Entpd1,Pde2a,Pde3b	Entpd1
+Aldh9a1	-0.0642132427286827	3	2	Akr1a1,Smox,Maoa	Maoa,Acss1
+Traf6	-0.0974660252934378	2	3	Mapk13,Csf1r	Irak4,Il1r2,Ticam2
+Ash1l	0.605793267502016	4	1	Plod1,Camkmt,Plod2,Plod3	Camkmt
+Guk1	-0.069410989909265	2	3	Entpd1,Nt5c3b	Entpd1,Pde3b,Pde2a
+Whsc1	0.390559496302937	4	1	Plod3,Plod2,Plod1,Camkmt	Camkmt
+Ptpn6	0.128656991317125	5	0	Pdcd1,Ctnnd1,Tyk2,Syk,Cd22	
+Tapbp	-0.0929144878855219	5	0	H2-T10,H2-T23,Tap1,H2-Q10,H2-M3	
+Pemt	-0.325031324664086	2	3	Pld1,Pld3	Lpcat4,Pld3,Pld1
+Egln3	-0.415182932675043	2	3	Hif1a,Epas1	Prkcg,Prkca,Prkcb
+Rapgef6	0.609556471122899	2	3	Rap1b,Rap1a	Magi2,Magi3,Magi1
+Ppp2r1a	0.0219587127315664	2	3	Irak4,Prkcb	Tgfbr2,Smg1,Mapk13
+Stat6	0.14272614200608	4	1	Ccnd3,Irf9,Socs4,Socs5	Tyk2
+Stat2	-0.171666793829836	4	1	Socs4,Irf9,Socs5,Ccnd3	Tyk2
+Pnp	-0.0591471790536617	3	2	Cd38,Nt5c3b,Xdh	Nt5c3b,Cd38
+Setd1b	0.482010400937513	4	1	Plod2,Plod1,Camkmt,Plod3	Camkmt
+B3gnt5	-0.642905754670373	2	3	B3galt2,B4galt1	B4galt3,B4galt4,B4galt2
+Gpi1	-0.106646174837946	2	3	G6pdx,H6pd	Gfpt1,Fbp1,Adpgk
+Crebbp	0.284214263201865	3	2	Vegfa,Creb1,Sik1	Camk4,Creb1
+Aldh3a2	-0.0197412045696457	3	2	Akr1a1,Maoa,Smox	Maoa,Acss1
+Ppp1cb	0.247165222196898	4	1	Pygb,Creb1,Gys1,Phkb	Prkce
+Adss	-0.172674579661621	5	0	Nt5c3b,Atic,Entpd1,Entpd5,Lao1	
+Ppp1ca	0.129116170814875	4	1	Gys1,Phkb,Pygb,Creb1	Prkce
+Hdc	0.587842603155327	2	3	Cndp1,Hnmt	Cndp2,Carns1,Hal
+Ctnna1	0.102672947525159	3	2	Vcl,Actb,Actn1	Actb,Actn1
+Ctnna2	-0.0436861624610961	3	2	Vcl,Actb,Actn1	Actn1,Actb
+2210010C04Rik	-0.605385070454645	5	0	F2r,F2rl1,Pard3,F2rl3,F2rl2	
+Impdh1	-0.285243919754246	1	4	Nt5c3b	Atic,Entpd1,Nt5c3b,Entpd5
+Impdh2	0.0491960203512297	1	4	Nt5c3b	Nt5c3b,Entpd1,Atic,Entpd5
+Ephb6	-0.468502317224065	5	0	Abl1,Rasa1,Efnb1,Efnb2,Efnb3	
+Hadh	-0.261241697395011	3	2	Echs1,Aldh2,Aldh1b1	Aacs,Echs1
+Ppp2ca	-0.138988124145359	2	3	Prkcb,Irak4	Mapk13,Smg1,Tgfbr2
+Ppp2cb	-0.0953838068898397	2	3	Irak4,Prkcb	Smg1,Tgfbr2,Mapk13
+Sipa1	0.442674031877214	2	3	Rap1b,Rap1a	Rap1b,Mllt4,Rap1a
+Epha2	-0.204204346600202	3	2	Plcb3,Crkl,Plcb2	Hgf,Vegfa
+Tek	-0.358646736525887	3	2	Plcb3,Plcb2,Crkl	Hgf,Vegfa
+Dnmt1	0.286374165648328	0	5		Ahcyl2,Ahcy,Mat2a,Ahcyl1,Mat2b
+Nampt	-0.259230868205263	1	3	Cd38	Nmnat3,Nt5c3b,Cd38
+Rmi2	0.647255072798901	4	0	Fancm,Rpa2,Rpa1,Rpa3	
+Ugt1a6b	-0.119544088849684	0	4		Ces2c,Cbr2,Cyp26a1,Ces1d
+Ugt1a6a	-0.0699910706742788	0	4		Cbr2,Cyp26a1,Ces2c,Ces1d
+Yap1	0.0196916960940037	3	1	Smad7,Ccnd3,Tgfbr2	Scrib
+Btg2	0.487427115507812	0	4		Pabpc1l,Pabpc1,Pabpc4l,Pabpc4
+Btg1	-0.470887229355111	0	4		Pabpc4,Pabpc4l,Pabpc1l,Pabpc1
+Cbl	0.415284330569331	4	0	Pik3cd,Csf1r,Thbs1,Pik3cb	
+Cd55	0.580821324365802	4	0	Abl1,C3,Abl2,Fyn	
+Mgll	-0.0432806591340115	1	3	Akr1a1	Pnpla2,Lipg,Mogat2
+Znrd1	-0.191667260543689	2	2	Adcy3,Entpd1	Adcy3,Entpd1
+Adpgk	1.48831407762105	3	1	Pgm1,Pgm2,Gpi1	Galm
+Minpp1	-0.160057244117589	0	4		Pgam1,Plcb2,Plcb3,Plcg2
+Il3ra	-0.346306855605094	3	1	Tyk2,Pik3cd,Pik3cb	Il12a
+St6galnac1	0.312636345353147	3	1	Galnt3,C1galt1,Galnt6	Gcnt1
+Myl12b	0.185713756611987	1	3	Actb	Myh9,Actb,Ppp1r12a
+Myl12a	0.158971088310295	1	3	Actb	Myh9,Ppp1r12a,Actb
+Skp1a	-0.153435971956066	4	0	Per1,Cdk2,Ccne2,Per3	
+Ncoa3	0.388495199406709	4	0	Thrb,Rxra,Thra,Rxrb	
+Hkdc1	0.290033563703022	3	1	Gfpt1,Fbp1,Pfkfb4	Gfpt1
+Pygl	0.0867797547065685	0	4		Pgm2l1,Phkb,Gys1,Ppp1r3d
+Ppp3r1	0.177583573157311	1	3	Nfatc2	Plcb2,Plcg2,Plcb3
+Xcr1	-0.0755567007838271	0	4		Adrbk1,Cxcl9,Ccl9,Ccl6
+Cacna1a	-0.41057462859831	2	2	Rasgrp4,Rasgrp2	Gng10,Prkcb
+Cacna1c	-0.0587368151442557	2	2	Rasgrp4,Rasgrp2	Ppp3ca,Gng10
+Cacna1d	0.0661815635306334	2	2	Rasgrp4,Rasgrp2	Ppp3ca,Gng10
+Impad1	0.221864360880645	1	3	Inpp1	Plcb2,Plcg2,Plcb3
+Sphk2	0.0560415585165592	0	4		Prkcb,Cers2,Prkce,Pld1
+Sphk1	-0.292854874252423	0	4		Prkcb,Pld1,Cers2,Prkce
+Mylpf	-0.311939797891466	1	3	Actb	Actb,Myh9,Ppp1r12a
+Cxcr4	0.15918045984927	0	4		Cxcl9,Ccl9,Adrbk1,Ccl6
+Tmem55a	-0.0038924147338768	0	4		Pik3cb,Mtmr4,Pikfyve,Pik3cd
+Tmem55b	-0.112812619405522	0	4		Mtmr4,Pikfyve,Pik3cb,Pik3cd
+Ehd1	0.421598784376241	3	1	Rab11fip2,Rab11fip1,Rab11fip5	Rbsn
+Cxcr3	-0.0426916895025567	0	4		Cxcl9,Adrbk1,Ccl9,Ccl6
+Cxcr1	-0.181560309580388	0	4		Cxcl9,Adrbk1,Ccl6,Ccl9
+Cxcr6	0.0100763319433608	0	4		Adrbk1,Ccl6,Ccl9,Cxcl9
+Cxcr5	0.0771621032517595	0	4		Ccl6,Cxcl9,Adrbk1,Ccl9
+Abl1	0.0852791189956246	1	3	Crkl	Ephb6,Cd55,Crkl
+Lifr	-0.157374944402269	3	1	Pik3cb,Tyk2,Pik3cd	Il12a
+Tmem173	-0.757639443310055	3	1	Mavs,Tbk1,Ikbke	Mavs
+Elf5	-0.5255135138761	0	4		Stat5b,Stat1,Stat3,Stat5a
+Hk2	0.233050434466278	3	1	Gfpt1,Pfkfb4,Fbp1	Gfpt1
+Hk3	0.303311056966885	3	1	Pfkfb4,Fbp1,Gfpt1	Gfpt1
+Hk1	0.0998853652113652	3	1	Gfpt1,Pfkfb4,Fbp1	Gfpt1
+Klrc1	-0.145312507236081	0	4		H2-M3,H2-T10,H2-T23,H2-Q10
+Ccr1	-0.312615848038595	0	4		Adrbk1,Ccl9,Cxcl9,Ccl6
+Ccr2	0.134678483841569	0	4		Adrbk1,Ccl9,Cxcl9,Ccl6
+Ccr3	0.0706980059098896	0	4		Adrbk1,Ccl6,Ccl9,Cxcl9
+Ccr4	-0.0998077896892897	0	4		Adrbk1,Cxcl9,Ccl6,Ccl9
+Ccr5	-0.106559000225564	0	4		Cxcl9,Ccl6,Adrbk1,Ccl9
+Ccr6	-0.0610255951315229	0	4		Adrbk1,Ccl9,Cxcl9,Ccl6
+Ccr7	-0.00375357632215546	0	4		Ccl6,Adrbk1,Ccl9,Cxcl9
+Ccr8	-0.017635746526995	0	4		Adrbk1,Ccl9,Ccl6,Cxcl9
+Ccr9	0.101066589451724	0	4		Adrbk1,Ccl6,Ccl9,Cxcl9
+Polr3f	0.0846336145680907	2	2	Adcy3,Entpd1	Entpd1,Adcy3
+Polr3g	-0.114851662760295	2	2	Adcy3,Entpd1	Adcy3,Entpd1
+Polr3e	-0.168502485357958	2	2	Entpd1,Adcy3	Adcy3,Entpd1
+Polr3b	0.2271584974457	2	2	Entpd1,Adcy3	Entpd1,Adcy3
+Polr3c	-0.164384637303033	2	2	Adcy3,Entpd1	Adcy3,Entpd1
+Polr3a	-0.126310844974023	2	2	Adcy3,Entpd1	Entpd1,Adcy3
+Polr3k	0.102087795165306	2	2	Entpd1,Adcy3	Adcy3,Entpd1
+Csn2	1.85945538128579	0	4		Stat5a,Stat3,Stat5b,Stat1
+Cpeb2	0.697370643144726	0	4		Ccnb2,Cdk1,Aurka,Plk1
+Polr1a	-0.107812725389227	2	2	Adcy3,Entpd1	Entpd1,Adcy3
+Ugt1a5	-0.0433950711852004	0	4		Cbr2,Ces2c,Ces1d,Cyp26a1
+Cdkn1c	0.382379693109701	2	2	Cdk2,Ccnd3	Cdk2,Ccne2
+Ogt	0.387804510981794	3	1	Pik3cb,Pik3cd,Pdpk1	Gys1
+Braf	0.385760295157475	1	3	Mapk13	Prkcb,Prkch,Prkce
+Impa1	0.152988850895974	1	3	Inpp1	Plcb3,Plcb2,Plcg2
+Abat	-0.0602649760081463	2	2	Aldh1b1,Aldh2	Aldh1b1,Aldh2
+Pde7a	0.318459333264706	4	0	Ak4,Entpd1,Adcy3,Nt5c3b	
+Pde7b	-0.453494367798824	4	0	Adcy3,Nt5c3b,Entpd1,Ak4	
+Mmp2	-0.248572346555778	1	3	Vegfa	Cybb,Thbs1,Ncf4
+Cth	0.0651489277153851	2	2	Txnrd3,Ccbl2	Txnrd3,Ccbl2
+Spi1	0.0215947149641601	3	1	Csf1r,Csf3r,Fcgr1	Runx1
+Igf1	-0.0679983280029819	4	0	Csf1r,Pik3cd,Pik3cb,Pdgfrb	
+Polr2e	-0.087331924972032	2	2	Adcy3,Entpd1	Entpd1,Adcy3
+Polr2d	-0.156046842571879	2	2	Adcy3,Entpd1	Adcy3,Entpd1
+Polr2g	0.00583090593838019	2	2	Entpd1,Adcy3	Entpd1,Adcy3
+Polr2f	-0.0603049803586229	2	2	Adcy3,Entpd1	Adcy3,Entpd1
+Polr2a	0.0354269301708056	2	2	Adcy3,Entpd1	Entpd1,Adcy3
+Polr2c	-0.0756515858455325	2	2	Entpd1,Adcy3	Entpd1,Adcy3
+Polr2b	0.0574503150163351	2	2	Adcy3,Entpd1	Adcy3,Entpd1
+Polr2i	-0.305847612546602	2	2	Entpd1,Adcy3	Adcy3,Entpd1
+Polr2h	-0.134374981887253	2	2	Adcy3,Entpd1	Adcy3,Entpd1
+Polr2j	-0.132361427880089	2	2	Entpd1,Adcy3	Adcy3,Entpd1
+Lpcat3	-0.0255193290889776	2	2	Pld3,Pld1	Pld3,Pld1
+Clock	-0.0600014824126579	2	2	Per1,Per3	Per3,Per1
+Il2ra	-0.113935307264194	3	1	Pik3cd,Tyk2,Pik3cb	Il12a
+Il2rb	-0.192694390826628	3	1	Pik3cd,Pik3cb,Tyk2	Il12a
+Il2rg	-0.261392297455837	3	1	Pik3cb,Tyk2,Pik3cd	Il12a
+Klrc3	-0.0505920146210127	0	4		H2-T10,H2-M3,H2-T23,H2-Q10
+Tnfrsf11a	-0.458996998246364	4	0	Fcgr4,Fcgr1,Fcgr2b,Fcgr3	
+Polr3gl	0.0394769365532312	2	2	Entpd1,Adcy3	Adcy3,Entpd1
+Itpr3	0.0676943861857275	1	3	Prkcb	Plcb3,Plcb2,Plcg2
+Itpr1	0.193228158264718	1	3	Prkcb	Plcg2,Plcb3,Plcb2
+Gucy2c	0.0550422093788901	4	0	Pde2a,Entpd1,Polr3h,Pde3b	
+Gucy2e	-0.0436861624610961	4	0	Pde2a,Entpd1,Pde3b,Polr3h	
+Gucy2f	-0.0378771409164401	4	0	Polr3h,Entpd1,Pde3b,Pde2a	
+Cul1	0.0714736352847043	4	0	Per1,Per3,Cdk2,Ccne2	
+Btk	0.2153396646637	1	3	Plcg2	Syk,Pik3cd,Pik3cb
+Klra9	-6.53278254290719e-05	0	4		H2-T10,H2-T23,H2-Q10,H2-M3
+Klra7	-0.0836314151589953	0	4		H2-M3,H2-Q10,H2-T23,H2-T10
+Klra1	-0.0433330894037472	0	4		H2-M3,H2-Q10,H2-T23,H2-T10
+Gatm	0.162638603746849	0	4		Arg1,Arg2,Aldh2,Aldh1b1
+Polr1b	0.0773903114747659	2	2	Entpd1,Adcy3	Adcy3,Entpd1
+Polr1c	0.0330465397158897	2	2	Entpd1,Adcy3	Entpd1,Adcy3
+Polr1d	-0.0765407892053436	2	2	Adcy3,Entpd1	Entpd1,Adcy3
+Polr1e	-0.0280625045972935	2	2	Adcy3,Entpd1	Entpd1,Adcy3
+Pde6b	0.502022178185209	3	1	Nt5c3b,Entpd5,Entpd1	Adcy3
+Pde6a	-0.0406734237499918	3	1	Nt5c3b,Entpd5,Entpd1	Adcy3
+Pde6g	0.212358553649997	3	1	Nt5c3b,Entpd1,Entpd5	Adcy3
+Pde6d	-0.068567949061728	3	1	Entpd5,Entpd1,Nt5c3b	Adcy3
+Pde6h	0.0446529839152644	3	1	Nt5c3b,Entpd1,Entpd5	Adcy3
+Srm	-0.14705630721307	2	2	Sat1,Smox	Smox,Odc1
+Polr3d	-0.172822067587894	2	2	Entpd1,Adcy3	Adcy3,Entpd1
+Npas2	-0.0770826555709255	2	2	Per1,Per3	Per3,Per1
+Bnip3	-0.555386731071789	0	4		Foxo1,Foxo4,Foxo6,Foxo3
+Pde5a	0.0135160058190673	3	1	Entpd5,Entpd1,Nt5c3b	Adcy3
+Pabpc1	0.138755521259361	2	2	Btg2,Btg1	Msi1,Gspt2
+Pabpc4	0.105912648512644	2	2	Btg1,Btg2	Gspt2,Msi1
+Nos3	-0.452840732844782	0	4		Camk4,Arg1,Arg2,Plcg2
+Lcp2	0.275892516633212	1	3	Plcg2	Syk,Pik3cb,Pik3cd
+Il6st	-0.0732795182756438	3	1	Pik3cd,Pik3cb,Tyk2	Il12a
+Lat	-0.0738391513931053	3	1	Pik3cd,Pik3cb,Plcg2	Syk
+Fancg	0.430687157534847	2	2	Fanci,Fancd2	Atr,Atrip
+Fanca	0.361929117413457	2	2	Fancd2,Fanci	Atrip,Atr
+Med13l	0.494409269576031	4	0	Rxra,Thra,Rxrb,Thrb	
+C1galt1c1	-0.0050309827892815	1	3	Gcnt1	Gcnt1,Galnt6,Galnt3
+Twistnb	0.0639765745688793	2	2	Entpd1,Adcy3	Entpd1,Adcy3
+Hif1a	0.136535215871242	1	3	Vegfa	Egln3,Pik3cb,Pik3cd
+Ggt1	-0.0849537366083946	2	2	Mgst3,Gstm7	Gstm7,Mgst3
+Ggt6	-0.0589351585939808	2	2	Gstm7,Mgst3	Mgst3,Gstm7
+Ggt7	-0.0986515103053514	2	2	Mgst3,Gstm7	Mgst3,Gstm7
+Ggt5	-0.126216782333185	2	2	Mgst3,Gstm7	Gstm7,Mgst3
+Cyp3a13	-0.0922095325175548	2	2	Cyp26a1,Ugt1a7c	Ugt1a7c,Cyp26a1
+Ak3	-0.192129551969843	4	0	Nt5c3b,Pde2a,Entpd1,Pde3b	
+Ntpcr	-0.0689338870710911	2	2	Adcy3,Polr3h	Entpd1,Ak4
+Cldn13	0.00120332901999281	2	2	Cldn23,Cldn15	Cldn23,Cldn15
+Cldn11	-0.268998755998483	2	2	Cldn15,Cldn23	Cldn23,Cldn15
+Cldn14	0.0550422093788901	2	2	Cldn15,Cldn23	Cldn23,Cldn15
+Csf2rb2	-0.30130177140428	3	1	Tyk2,Pik3cb,Pik3cd	Il12a
+Irs2	0.0804018140657047	2	2	Pik3cd,Pik3cb	Socs4,Prkce
+Irs3	0.0278478182736397	2	2	Pik3cb,Pik3cd	Socs4,Prkce
+Pabpc4l	0.0452659753814056	2	2	Btg1,Btg2	Gspt2,Msi1
+Ugt1a1	-0.0263108630754895	0	4		Cbr2,Ces2c,Ces1d,Cyp26a1
+Ugt1a2	0.00408655658100397	0	4		Cbr2,Ces1d,Ces2c,Cyp26a1
+Ticam2	-0.645776798682576	3	1	Ticam1,Ripk1,Traf6	Tlr4
+Pde9a	-0.323705286853436	3	1	Nt5c3b,Entpd1,Entpd5	Adcy3
+Araf	-0.0554486874704512	1	3	Mapk13	Prkch,Prkcb,Prkce
+Atr	0.1980928177832	4	0	Fancg,Chek1,Fancm,Fanca	
+Tln2	-0.241158834062411	2	2	Itgb7,Itga1	Vcl,Capn2
+Tln1	0.342383920890542	2	2	Itga1,Itgb7	Capn2,Vcl
+Msi1	-0.738209444043129	4	0	Pabpc1,Pabpc1l,Pabpc4,Pabpc4l	
+Erbb3	0.00555450339460769	3	1	Plcg2,Pik3cb,Pik3cd	Eps15
+Erbb4	-0.0433330894037472	3	1	Plcg2,Pik3cd,Pik3cb	Eps15
+Myl2	-0.0680803872870358	1	3	Actb	Myh9,Ppp1r12a,Actb
+Myl9	-0.0664704578201169	1	3	Actb	Ppp1r12a,Myh9,Actb
+Ccr10	0.464966705669294	0	4		Adrbk1,Ccl9,Ccl6,Cxcl9
+Ugt2b34	-0.0440579003095387	0	4		Cyp26a1,Ces2c,Cbr2,Ces1d
+Acss2	0.351843070868189	3	1	Aldh2,Aldh1b1,Acss1	Acss1
+Fbxo32	-0.780687535865869	0	4		Foxo3,Foxo1,Foxo6,Foxo4
+Pde8a	-0.118754538877256	4	0	Ak4,Entpd1,Nt5c3b,Adcy3	
+Pde8b	-0.466946301998318	4	0	Adcy3,Entpd1,Nt5c3b,Ak4	
+Ctsg	-0.24902457908872	0	4		Serpinb9,Serpinb10,Serpinb1a,Serpinb6a
+Gns	-0.582015335086046	3	1	Hexb,Glb1,Hexa	Gusb
+Agk	-0.0767621995361548	0	4		Pnpla2,Agpat3,Lipg,Mogat2
+Cldn1	0.0410866636092696	2	2	Cldn15,Cldn23	Cldn15,Cldn23
+Cldn5	-0.385079896924243	2	2	Cldn15,Cldn23	Cldn15,Cldn23
+Cldn7	-0.163340004430017	2	2	Cldn15,Cldn23	Cldn15,Cldn23
+Gnas	-0.00916877449661642	2	2	Adcy3,Gng10	Chrm1,P2ry1
+Aox1	0.165188392952234	2	2	Cyp26a1,Ugt1a7c	Maoa,Rdh12
+Aox2	0.00277906594158417	2	2	Ugt1a7c,Cyp26a1	Rdh12,Maoa
+Aox3	-0.299983992538206	2	2	Ugt1a7c,Cyp26a1	Maoa,Rdh12
+Entpd2	-0.0348469631411727	2	2	Polr3h,Adcy3	Ak4,Entpd1
+Impa2	0.0820515839941006	1	3	Inpp1	Plcb2,Plcg2,Plcb3
+Cldn20	0.0207390824390667	2	2	Cldn23,Cldn15	Cldn23,Cldn15
+Jag1	0.433802791191899	4	0	Notch4,Notch3,Notch2,Notch1	
+Myl10	-0.0298951335372558	1	3	Actb	Actb,Ppp1r12a,Myh9
+B3gnt6	-0.0926247896793413	3	1	C1galt1,Galnt6,Galnt3	Gcnt1
+Cblc	-0.0433330894037472	4	0	Pik3cd,Thbs1,Pik3cb,Csf1r	
+Cblb	-0.447042002626346	4	0	Thbs1,Csf1r,Pik3cb,Pik3cd	
+Ppp3cc	-0.199517306889452	1	3	Nfatc2	Plcg2,Plcb2,Plcb3
+Ctnnb1	-0.0491237625427757	3	1	Magi3,Ccnd3,Vegfa	Fzd3
+Pygm	-0.00964662373073121	0	4		Phkb,Pgm2l1,Ppp1r3d,Gys1
+Alox8	-0.0523451753024796	3	1	Alox5,Cyp4f18,Ptgs1	Cyp4f18
+Rbx1	-0.166711793837319	4	0	Ccne2,Cdk2,Per3,Per1	
+Gucy1b2	-0.0419556946844795	4	0	Pde2a,Pde3b,Polr3h,Entpd1	
+Gucy1b3	-0.00468609838791078	4	0	Pde2a,Polr3h,Entpd1,Pde3b	
+Csf2rb	0.0396963142697289	3	1	Pik3cd,Tyk2,Pik3cb	Il12a
+Ddc	-0.112208223542883	2	2	Lao1,Maoa	Lao1,Maoa
+Cd74	-0.340587578676502	0	4		Creb1,Ctsb,Ctsl,Nfya
+Smad2	0.0684896803119173	2	2	Smad7,Smad1	Tgfbr2,Smad7
+Smad3	0.0902034609181666	2	2	Smad1,Smad7	Smad7,Tgfbr2
+Klrd1	-0.150148850088421	0	4		H2-M3,H2-T10,H2-T23,H2-Q10
+Arntl	0.27241183504791	2	2	Per3,Per1	Per3,Per1
+Esam	-0.097193681981868	2	2	Cldn15,Cldn23	Cldn23,Cldn15
+Ets2	0.363423792002747	2	2	Tbp,Tbpl1	Mapk3,Mapk1
+Ets1	0.934318686508762	2	2	Tbpl1,Tbp	Mapk3,Mapk1
+Npr1	-0.272790002453518	4	0	Entpd1,Polr3h,Pde3b,Pde2a	
+Npr2	0.0151560297615644	4	0	Polr3h,Pde2a,Entpd1,Pde3b	
+Ptpn11	0.166539526258577	2	2	Pik3cb,Pik3cd	Pilra,Tyk2
+Gab2	-0.425267771628748	3	1	Pik3cb,Pik3cd,Plcg2	Syk
+Polr2l	-0.0839948764809764	2	2	Adcy3,Entpd1	Adcy3,Entpd1
+Itgb2	0.396117942072058	3	1	Pik3cb,Pik3cd,Crkl	C3
+Gucy1a3	0.0387802842501064	4	0	Pde3b,Pde2a,Polr3h,Entpd1	
+Pabpc1l	0.438906837341924	2	2	Btg2,Btg1	Msi1,Gspt2
+Mpzl1	0.706048401474259	2	2	Mpzl1,Mpz	Mpz,Mpzl1
+Ppp3cb	0.0424787670830011	1	3	Nfatc2	Plcb2,Plcg2,Plcb3
+Itgam	0.425349686262336	3	1	Pik3cb,Pik3cd,Crkl	C3
+Bcar1	-0.276348861255734	1	3	Crkl	Prkcb,Itgb7,Itga1
+Gpx1	0.0586443456817629	1	2	Alox5	Gstm7,Mgst3
+Gpx3	-0.351455019889521	1	2	Alox5	Gstm7,Mgst3
+Gpx7	-0.0482742905738912	1	2	Alox5	Gstm7,Mgst3
+Gpx8	-0.0915439178804826	1	2	Alox5	Mgst3,Gstm7
+Cebpa	-0.184388712398601	2	1	Csf3r,E2f1	Runx1
+Ezr	0.0418694711823889	1	2	Actb	Prkcb,Vcam1
+Tab1	-0.249353252978771	1	2	Mapk13	Il1r2,Irak4
+Uprt	0.362173312764278	1	2	Nt5c3b	Entpd1,Entpd5
+Cyba	0.144479925001103	1	2	Mapk13	Ncf4,Vcam1
+Atrip	-0.206834954043881	3	0	Fancm,Fanca,Fancg	
+Slc27a4	0.401475876721108	0	3		Rxrb,Rxra,Pparg
+Gpsm1	0.475411471188346	3	0	Gnai3,Gnai2,Gnai1	
+Jam2	-0.0108941403842684	0	3		Prkcb,Prkch,Prkce
+Jam3	0.00363701416458432	0	3		Prkce,Prkch,Prkcb
+Ddit4	-0.759166780054267	2	1	Tsc2,Tsc1	Mir221
+Flnb	0.334962173597616	3	0	Actb,Itga1,Itgb7	
+Flnc	-0.0433330894037472	3	0	Itga1,Actb,Itgb7	
+Sugt1	0.0391246388500962	3	0	Nlrp3,Hsp90aa1,Hsp90b1	
+Hadha	-0.141142404931953	2	1	Echs1,Acadl	Echs1
+Akr1b7	0.0222153600341158	3	0	Gla,Aldh1b1,Aldh2	
+Cd44	0.0875836615050323	1	2	Tiam1	Col6a6,Lamb1
+Tbc1d4	0.411386891682991	0	3		Akt3,Akt2,Akt1
+Pdhb	-0.139267594748395	1	2	Ldhb	Me1,Ldhb
+Cacna1b	-0.179369204874635	2	1	Rasgrp2,Rasgrp4	Gng10
+Cacna1f	-0.0596997076132496	2	1	Rasgrp4,Rasgrp2	Gng10
+Cacna1s	-0.0603259479276882	2	1	Rasgrp4,Rasgrp2	Gng10
+Igsf5	0.0820443456556062	0	3		Prkch,Prkce,Prkcb
+Nudt16	-0.333927263543459	1	2	Nt5c3b	Entpd1,Atic
+F11r	0.120706315092943	0	3		Prkcb,Prkce,Prkch
+Aoc3	0.0723467561853196	3	0	Aldh2,Smox,Aldh1b1	
+Aoc2	0.383825239021567	3	0	Aldh1b1,Aldh2,Smox	
+Pgm1	0.118113729001312	1	2	Pygb	Adpgk,Pgm2l1
+Pgm2	-0.127286657721437	1	2	Pygb	Pgm2l1,Adpgk
+Nars2	-0.556181506043202	0	3		Gatc,Qrsl1,Gatb
+Npy	-0.274982455548448	2	1	Chrm1,Gabbr1	Creb1
+Trpv4	-0.325470463396517	0	3		Prkch,Prkcb,Prkce
+Cmpk1	-0.241456151791459	2	1	Nt5c3b,Entpd1	Entpd1
+Dctpp1	0.0749384711569386	1	2	Nt5c3b	Nt5c3b,Pola1
+Fgf2	0.0550422093788901	2	1	Csf1r,Pdgfrb	Gpc1
+Map3k1	-0.0602125728947039	1	2	Mapk13	Prkcb,Map4k4
+Myd88	0.0970399113524274	3	0	Irak4,Tnf,Il12a	
+B4galt6	0.410916211749298	0	3		Gba2,Ugcg,Gba
+Pgd	0.174624732094221	1	2	H6pd	H6pd,Rpe
+Ugt8a	0.0554484574941025	1	2	Gba2	Gla,Cers2
+Lpcat2	0.0138374157753016	3	0	Pld1,Lpcat4,Pld3	
+Lpcat1	-0.420430234901193	3	0	Lpcat4,Pld1,Pld3	
+Cd19	-0.017111355812624	2	1	Pik3cd,Pik3cb	Syk
+Ptges	-0.298772464569887	2	1	Ptgds,Cbr2	Ptgs1
+Selplg	0.087018613344021	2	1	Sele,Selp	Selp
+Cyp2a5	-0.480452715159101	2	1	Ugt1a7c,Cyp26a1	Cyp26a1
+Cyp2a4	0.0967263246440316	2	1	Cyp26a1,Ugt1a7c	Cyp26a1
+Umps	0.010465059511822	0	3		Nt5c3b,Entpd5,Entpd1
+Tktl1	0.260129409551505	2	1	Rpe,Fbp1	Rpe
+G6pdx	0.530862822470774	1	2	H6pd	Pgls,Gpi1
+Ncf2	0.0466425574636442	1	2	Mapk13	Prkcb,Vcam1
+Ncf1	0.211499029736266	1	2	Mapk13	Prkcb,Vcam1
+Fgd3	0.888566794618066	1	2	Cdc42	Gng12,Gm5741
+Prkd3	0.0509024648804006	1	2	Creb1	Prkce,Prkcb
+Oat	-0.302541785979442	1	2	Odc1	Arg1,Arg2
+1700080E11Rik	-0.140788358016989	1	2	Nt5c3b	Atic,Entpd1
+Grb2	0.0680826626807922	1	2	Pdgfrb	Csf1r,Pdgfrb
+B3galt2	-0.1101720293488	1	2	St3gal4	B4galt3,B3gnt5
+Il1b	0.287453330042161	1	2	Il1r2	Nlrp3,Mapk13
+Blnk	-0.19389669328421	1	2	Plcg2	Syk,Plcg2
+Lias	-0.444136644461064	2	1	Lipt2,Lipt1	Lipt2
+Hcst	-0.109925212546902	3	0	Pik3cd,Plcg2,Pik3cb	
+Cxcl11	0.525206780440097	3	0	Ackr3,Cxcr2,Cx3cr1	
+Cxcl12	-0.0346732471842988	3	0	Cx3cr1,Cxcr2,Ackr3	
+Ppp2r2d	-0.212819173842505	1	2	Irak4	Smg1,Mapk13
+Ppp2r2a	0.0328763924379206	1	2	Irak4	Mapk13,Smg1
+Ppp2r2c	-0.0491048615650465	1	2	Irak4	Smg1,Mapk13
+Fam213b	-0.294578774630361	0	3		Ptgds,Cbr2,Ptgs1
+Prex1	0.0393936226780766	0	3		Pik3cb,Gng10,Pik3cd
+Arhgap35	-0.663981707036501	1	2	Rhoa	Src,Thy1
+Nfatc1	0.11708000613019	1	2	Tnf	Mapk13,Ppp3ca
+Nfatc3	0.195502152882655	1	2	Tnf	Ppp3ca,Mapk13
+Prkci	0.174513159230704	0	3		Pdpk1,Pik3cd,Pik3cb
+Degs2	-0.0117993215301534	2	1	Cers2,Gba2	Cers2
+Prkcz	0.00794507689515471	0	3		Pik3cd,Pik3cb,Pdpk1
+Atp6v0e2	-0.673800433986025	3	0	Ppa2,Ppa1,Lhpp	
+Fanci	0.222191076239197	0	3		Fancm,Fanca,Fancg
+Prkd1	0.0452659753814056	1	2	Creb1	Prkce,Prkcb
+Zap70	-0.413361532643146	3	0	Pik3cd,Pik3cb,Mapk13	
+Homer1	0.324766293179312	3	0	Itpr2,Pik3cb,Pik3cd	
+Homer3	0.244599112147383	3	0	Pik3cd,Itpr2,Pik3cb	
+Homer2	-0.00908576475193246	3	0	Pik3cb,Itpr2,Pik3cd	
+Ptdss1	-0.0647839176914898	3	0	Pld3,Lpcat4,Pld1	
+Ptdss2	-0.0807966893084516	3	0	Pld1,Pld3,Lpcat4	
+Arap3	1.14347530791896	1	2	Rhoa	Rap1a,Rap1b
+Pdha1	-0.0826713419802993	1	2	Ldhb	Me1,Ldhb
+Shc3	-0.0433330894037472	0	3		Syk,Pdgfrb,Csf1r
+Alox15	0.462268795032026	2	1	Alox5,Ptgs1	Cyp4f18
+Alox12	-0.157948062375522	2	1	Alox5,Ptgs1	Cyp4f18
+Akr1b10	0.0562109443356961	3	0	Gla,Aldh2,Aldh1b1	
+Ppp1r3e	0.242623133031876	3	0	Phkb,Gys1,Pygb	
+Ppp1r3c	-0.018387901333982	3	0	Pygb,Phkb,Gys1	
+Ppp1r3b	0.219691044691302	3	0	Gys1,Pygb,Phkb	
+Inadl	-0.301615309172378	1	2	Mpp5	Cldn15,Cldn23
+Bax	0.199420087953474	1	2	Capn2	Mapk13,Prnp
+Shc4	0.154341817118378	0	3		Csf1r,Pdgfrb,Syk
+Shc1	0.10587013463605	0	3		Pdgfrb,Csf1r,Syk
+Shc2	-0.0332452147710941	0	3		Syk,Csf1r,Pdgfrb
+Traf2	0.265097669276933	3	0	Pik3cb,Pik3cd,Map4k2	
+Traf4	0.819792438834063	0	3		Nfkb2,Nfkb1,Rela
+Tlr4	0.323420674836494	3	0	Tnf,Pdcd4,Ticam2	
+Parvb	-0.490774671607641	3	0	Itga1,Itgb7,Actb	
+Parva	0.0921049305814429	3	0	Itga1,Itgb7,Actb	
+Parvg	0.0240540700312769	3	0	Itgb7,Itga1,Actb	
+Ilk	0.0899360047812223	0	3		Pik3cb,Ppard,Pik3cd
+Sik2	0.451835447625224	1	2	Crtc2	Prkaca,Prkacb
+Bst1	-0.462399925485179	1	2	Cd38	Nmnat3,Cd38
+Alox12e	0.147348945260024	2	1	Alox5,Ptgs1	Cyp4f18
+Akr1b8	-0.359964336027953	3	0	Aldh2,Aldh1b1,Gla	
+Ptges3	0.0129619025356866	2	1	Cbr2,Ptgds	Ptgs1
+Ptges2	-0.109294765580702	2	1	Cbr2,Ptgds	Ptgs1
+Nudt2	-0.0402062153919569	0	3		Polr3h,Adcy3,Entpd1
+Smpd2	-0.043747182519177	2	1	Cers2,Gba2	Nsmaf
+Gna14	-0.0516890605869948	2	1	Plcb3,Plcb2	Chrm1
+Gna15	0.267828826561471	2	1	Plcb3,Plcb2	Chrm1
+Gna11	0.135907819736782	2	1	Plcb3,Plcb2	Chrm1
+Cdkn1a	0.265972002515629	3	0	Ccne2,Cdk2,Ccnd3	
+Ugp2	0.0834209210715952	2	1	Pygb,Gys1	Pgm2l1
+Comt	-0.251424827551015	2	1	Maoa,Ugt1a7c	Maoa
+Ifngr2	-0.0805900710664411	2	1	Tyk2,Tnfsf10	Il12a
+Glud1	-0.195192511482676	2	1	Nit2,Glul	Glul
+Anapc11	-0.0132742159964281	0	3		Ppp3ca,Cdk2,Ccne2
+Anapc10	-0.291898866008015	0	3		Cdk2,Ccne2,Ppp3ca
+Anapc13	-0.136985442388201	0	3		Ppp3ca,Cdk2,Ccne2
+Sele	-0.572124588757436	1	2	Glg1	Selplg,Tnf
+Ifnar2	-0.323958787303054	2	1	Tyk2,Tnfsf10	Il12a
+Ifnar1	0.0403234736947835	2	1	Tyk2,Tnfsf10	Il12a
+Hck	0.428960873795834	3	0	Pik3cb,Fcgr1,Pik3cd	
+Rab11fip5	-0.38036242482955	2	1	Rab11b,Rab11a	Ehd1
+Pfn2	0.00655704354163829	1	2	Actb	Actb,Diap1
+Pfn4	-0.0340057594398581	1	2	Actb	Actb,Diap1
+Ldhd	-0.092957459015011	3	0	Haghl,Ldhb,Me1	
+Pisd	-0.177788414779405	0	3		Pld1,Pld3,Lpcat4
+Tjp2	-0.157770387153277	0	3		Actb,Cldn23,Cldn15
+Tjp3	0.196583497104084	0	3		Cldn23,Actb,Cldn15
+Cdc16	-0.156025900278397	0	3		Ppp3ca,Ccne2,Cdk2
+Nadsyn1	-0.0877744770559987	2	1	Cd38,Nmnat3	Nmnat3
+Fancd2	0.234298119404678	0	3		Fanca,Fancg,Fancm
+Smurf1	0.0855878639307209	2	1	Tgfbr2,Csf1r	Smad7
+Smurf2	0.238558066550513	2	1	Csf1r,Tgfbr2	Smad7
+Glb1	-0.342000081994097	1	2	Gba2	Gla,Gns
+Glyctk	-0.102760748100505	1	2	Pgam1	Aldh1b1,Aldh2
+Aldh6a1	-0.0891209466253692	1	2	Acss1	Aldh1b1,Aldh2
+Cad	0.171557403447655	3	0	Gfpt1,Lao1,Glul	
+Pdcd1	-0.416185972474991	0	3		Ptpn6,Pdcd1lg2,Cd274
+Tkt	0.243996765211033	2	1	Fbp1,Rpe	Rpe
+Cyp2f2	-0.0436861624610961	3	0	Gstm7,Mgst3,Ephx1	
+Kl	-0.0540951322638417	2	1	Ugt1a7c,Akr1a1	Ugt1a7c
+Cdc27	0.287205044775797	0	3		Cdk2,Ccne2,Ppp3ca
+Cdc26	-0.0746149657784589	0	3		Cdk2,Ppp3ca,Ccne2
+Cdc23	0.027438065942509	0	3		Cdk2,Ccne2,Ppp3ca
+Ugdh	-0.17583499751981	2	1	Gys1,Ugt1a7c	Ugt1a7c
+Acyp1	-0.205660502495244	0	3		Aldh1b1,Acss1,Aldh2
+Acyp2	-0.458829532464726	0	3		Aldh1b1,Acss1,Aldh2
+Cyp4f13	-0.0380451556582053	2	1	Ptgs1,Alox5	Lta4h
+Cyp4f14	0.0207978316215206	2	1	Alox5,Ptgs1	Lta4h
+Anapc1	0.198595521424893	0	3		Ccne2,Cdk2,Ppp3ca
+Anapc2	0.126203353949949	0	3		Ppp3ca,Ccne2,Cdk2
+Anapc5	-0.19890118944194	0	3		Ccne2,Cdk2,Ppp3ca
+Anapc4	-0.0809683846030975	0	3		Ppp3ca,Ccne2,Cdk2
+Anapc7	-0.135368135001661	0	3		Cdk2,Ppp3ca,Ccne2
+Slc25a4	-0.411262783993746	2	1	Cycs,Cyct	Prkce
+Lamc1	0.0752088781125829	2	1	Itgb7,Itga1	Prnp
+Acadm	-0.236714889975444	1	2	Echs1	Acss1,Echs1
+Smad4	-0.12288883639646	1	2	Smad7	Smad1,Tgfbr2
+Ctps	0.0583645969114266	2	1	Polr3h,Entpd1	Polr3h
+Ctps2	0.0995201552369342	2	1	Polr3h,Entpd1	Polr3h
+Cyp2u1	0.181298526761626	3	0	Alox5,Cyp4f18,Ptgs1	
+Gab1	-0.0327625232088909	3	0	Pik3cb,Crkl,Pik3cd	
+Mpi	0.107542790059635	1	2	Fbp1	Pfkfb4,Gfpt1
+Degs1	-0.0205970218497287	2	1	Gba2,Cers2	Cers2
+Olr1	0.758696053111425	0	3		Rxrb,Pparg,Rxra
+Rab11fip1	0.46144830450685	2	1	Rab11a,Rab11b	Ehd1
+Galc	-0.245847478528362	0	3		Gba2,Cers2,Gla
+Ikbkb	0.0874328624187655	0	3		Pdpk1,Irak4,Tnf
+Aldh1a1	0.151386995005897	2	1	Cyp26a1,Ugt1a7c	Rdh12
+Aldh1a2	-0.0524913433025419	2	1	Ugt1a7c,Cyp26a1	Rdh12
+Itpka	0.114408855269293	0	3		Plcb2,Plcg2,Plcb3
+Itpkc	0.178850198052116	0	3		Plcb3,Plcb2,Plcg2
+Itpkb	0.225776148804813	0	3		Plcg2,Plcb3,Plcb2
+Pcx	0.262085734955241	2	0	Ldhb,Me1	
+Ppcs	-0.0592391488047244	1	1	Pank3	Pank3
+Dag1	0.121393584240412	0	2		Agrn,Lamb1
+Acvr1	-0.216650816210543	2	0	Mapk13,Smad1	
+Tab3	0.0595567868643138	1	1	Mapk13	Irak4
+Tab2	0.181246488575543	1	1	Mapk13	Irak4
+Nsmaf	-0.369157673734167	1	1	Smpd2	Tnfrsf1a
+Lama1	0.00344189462575586	2	0	Itga1,Itgb7	
+Lama2	-0.0177047619741322	2	0	Itga1,Itgb7	
+Got1	-0.0489814506247457	1	1	Ldhb	Nit2
+Lama4	-0.124329591393345	2	0	Itgb7,Itga1	
+Lama5	0.150718882689158	2	0	Itga1,Itgb7	
+Ibsp	-0.127653558560194	2	0	Itgb7,Itga1	
+Cxcl2	0.0215289173137041	2	0	Cxcr2,Cx3cr1	
+Tyms	0.19390577245353	2	0	Nt5c3b,Entpd1	
+Agpat6	0.00853117819241608	1	1	Gpd1	Agpat3
+Agpat9	0.303164261033603	1	1	Gpd1	Agpat3
+Gpx4	-0.0856377558019213	0	2		Gstm7,Mgst3
+Als2	0.41018328296736	2	0	Rab5a,Rac1	
+Fgf22	0.0507926553651825	2	0	Pdgfrb,Csf1r	
+Fgf23	-0.20188153972383	2	0	Pdgfrb,Csf1r	
+Fgf20	0.0448293539563049	2	0	Csf1r,Pdgfrb	
+Uck1	0.0471158564467399	0	2		Entpd5,Entpd1
+Uck2	-0.225393886785743	0	2		Entpd5,Entpd1
+Acat1	-0.300917660074566	0	2		Aacs,Acss1
+Acat2	-0.00771071614316016	0	2		Aacs,Acss1
+Alk	0.000325833681781187	2	0	Pik3cd,Pik3cb	
+Card9	0.290370585068404	1	1	Mapk13	Syk
+Pdgfd	-0.0433330894037472	2	0	Pdgfrb,Csf1r	
+Ip6k3	-0.101722898816554	1	1	Ppip5k1	Ppip5k1
+Ip6k2	-0.104004758797735	1	1	Ppip5k1	Ppip5k1
+Ip6k1	0.114639100637542	1	1	Ppip5k1	Ppip5k1
+Arpc5l	0.0289943099112377	1	1	Actb	Actb
+Naprt	0.187918606638217	0	2		Nt5c3b,Nmnat3
+Hist3h2ba	-0.0544486158662848	0	2		Hdac7,Hdac4
+Mirlet7i	0.0651221215408715	2	0	Hmga2,Cdc25a	
+Sgpp2	0.00120332901999281	2	0	Gba2,Cers2	
+Sgpp1	0.205969249255232	2	0	Gba2,Cers2	
+Il11ra1	-0.357566012113027	1	1	Tyk2	Il12a
+Gnal	-0.0697194384460737	1	1	Adcy3	Chrm1
+Il5ra	0.07860538434567	1	1	Tyk2	Il12a
+Tbxas1	0.16238228063467	1	1	Ptgds	Ptgs1
+Egf	-0.410866759865733	2	0	Pdgfrb,Csf1r	
+Ggta1	-0.00932466468708789	0	2		B4galt3,St3gal4
+Chad	0.0564092109642299	2	0	Itgb7,Itga1	
+Chka	0.21798386023711	0	2		Pik3cd,Pik3cb
+Arpc2	-0.117513637660368	1	1	Actb	Actb
+Hddc3	-0.280775770556421	2	0	Entpd1,Entpd5	
+Ralb	0.13959691186738	1	1	Pld1	Rgl2
+Rala	0.144049085477997	1	1	Pld1	Rgl2
+Bdkrb2	0.0452659753814056	0	2		Klk1b1,Klk1b11
+Notch4	-0.190014654200196	0	2		Jag1,Psen2
+Notch2	0.19038001642408	0	2		Psen2,Jag1
+Notch3	-0.360360791695435	0	2		Jag1,Psen2
+Epas1	-0.16516772864373	1	1	Vegfa	Egln3
+Vamp2	-0.320721524989525	1	1	Stx1a	Stx1a
+Gp1ba	-0.205551302756985	2	0	Pik3cd,Pik3cb	
+Btrc	-0.0219356704626735	2	0	Per3,Per1	
+Cerk	-0.0419879863153883	1	1	Gba2	Cers2
+Nmrk1	-0.055363127015599	1	1	Nmnat3	Nmnat3
+Agmat	0.0550422093788901	0	2		Sat1,Odc1
+P2ry1	0.631339427466873	2	0	Gnas,Gnaq	
+H2afv	-0.0561196021621076	0	2		Hdac7,Hdac4
+Pltp	-0.602434274101332	0	2		Rxra,Rxrb
+H2afx	-0.0314542839502939	0	2		Hdac4,Hdac7
+H2afy	-0.230100234198075	0	2		Hdac4,Hdac7
+H2afz	0.0896847474627875	0	2		Hdac7,Hdac4
+Il22ra2	0.00554528855020475	1	1	Tyk2	Il12a
+Il22ra1	0.00312240504095794	1	1	Tyk2	Il12a
+H2afj	-0.011691040416706	0	2		Hdac7,Hdac4
+Retsat	-0.19659246149651	2	0	Rdh12,Cyp26a1	
+Hmga2	0.663214763917047	0	2		Mirlet7d,Mirlet7i
+Fgf18	-0.0436861624610961	2	0	Csf1r,Pdgfrb	
+Fgf13	-0.0289042711121641	2	0	Csf1r,Pdgfrb	
+Fgf11	0.418376434147818	2	0	Pdgfrb,Csf1r	
+Fgf14	-0.0542731384098508	2	0	Pdgfrb,Csf1r	
+Bmpr1a	0.368057015652909	2	0	Mapk13,Smad1	
+Nadk2	0.0820975673968921	0	2		Cd38,Nmnat3
+Itk	-0.0221267083684567	0	2		Pik3cb,Pik3cd
+Oprm1	0.0611644870614185	1	1	Gng10	Adrbk1
+Il13ra1	0.369783253968491	1	1	Tyk2	Il12a
+Nox1	0.0446320228003994	1	1	Mapk13	Vcam1
+F2r	0.0428134880230654	0	2		2210010C04Rik,Adrbk1
+Gp9	-0.13587684783141	2	0	Pik3cd,Pik3cb	
+Gp5	-0.0460932124420362	2	0	Pik3cd,Pik3cb	
+Itgax	-0.515231408908849	1	1	Crkl	C3
+Mat2a	-0.110489193016598	1	1	Dnmt1	Lao1
+Mat2b	-0.0560561820281295	1	1	Dnmt1	Lao1
+Sdc1	-0.272350537334957	0	2		Col6a6,Thbs1
+Sdc4	-0.511610818177492	0	2		Col6a6,Thbs1
+Ank2	-0.339493345356257	2	0	Itpr2,Tiam1	
+Upb1	-0.198758044643557	0	2		Aldh2,Aldh1b1
+Wfs1	-0.592285546564033	2	0	Atf6b,Atf6	
+Mpdz	-0.00854287899863418	0	2		Cldn23,Cldn15
+Phkg1	-0.172220800756306	1	1	Pygb	Ppp1r3d
+Cdk1	-0.123777018475109	1	1	Cpeb2	Cdc25a
+Acadsb	0.274632492796996	1	1	Echs1	Echs1
+Wasf1	-0.0758922258741425	1	1	Actb	Cyfip2
+Lama3	-0.0163083226330489	2	0	Itga1,Itgb7	
+Ctss	-0.39350083011121	2	0	Creb1,Nfya	
+Cacna1h	-0.0192884160410892	2	0	Rasgrp4,Rasgrp2	
+Cacna1i	0.00113596719226365	2	0	Rasgrp2,Rasgrp4	
+Cacna1g	-0.0541075348558651	2	0	Rasgrp4,Rasgrp2	
+Ccna2	0.000967846905663425	2	0	E2f1,Cdc6	
+Pvrl2	-0.0583249774401384	1	1	Pvrl4	Pvrl4
+Dnm2	0.0827818414836521	0	2		Pik3cd,Pik3cb
+Col11a1	0.00263706875862009	2	0	Itga1,Itgb7	
+Col11a2	0.471699400678269	2	0	Itgb7,Itga1	
+Dvl2	0.170067317936721	1	1	Notch1	Fzd3
+Dvl3	0.331069032980087	1	1	Notch1	Fzd3
+Dvl1	0.361978713121919	1	1	Notch1	Fzd3
+Abl2	0.107265111620199	0	2		Cd55,Crkl
+Col2a1	-0.0505572679241876	2	0	Itgb7,Itga1	
+Sat2	-0.041705311652579	1	1	Maoa	Odc1
+Ttf2	0.0661548867733923	1	1	Tg	Prkcb
+Ttf1	0.252627837598653	1	1	Tg	Prkcb
+Slc6a3	0.00263706875862009	1	1	Stx1a	Prkcb
+Eml4	0.106964528529235	2	0	Pik3cd,Pik3cb	
+Csnk1d	0.00424754681352825	2	0	Per1,Per3	
+Csnk1e	-0.0570162800134874	2	0	Per1,Per3	
+Cd3d	-0.0126528566688208	2	0	Pik3cb,Pik3cd	
+Cd3e	-0.304633464758375	2	0	Pik3cd,Pik3cb	
+Cd3g	-0.159218522789193	2	0	Pik3cd,Pik3cb	
+H2-Ke6	0.142909298702675	1	1	Ugt1a7c	Ugt1a7c
+Gss	-0.133812050354759	2	0	Mgst3,Gstm7	
+Gsr	-0.107834903338718	2	0	Mgst3,Gstm7	
+Fosb	0.149419549323742	0	2		Mapk13,Creb1
+Sod1	-0.167376249918681	1	1	Ppp3ca	Prnp
+Rock1	0.357437989871841	2	0	Ppp1r12a,Pikfyve	
+Rock2	0.330174317598895	2	0	Ppp1r12a,Pikfyve	
+Gpc1	-0.766397015941584	2	0	Hbegf,Fgf2	
+Pnmt	0.0198088568702113	1	1	Maoa	Maoa
+Lef1	-0.233932506915581	2	0	Ccnd3,Ppard	
+Tgfb1	0.0925429118323546	1	1	Tgfbr2	Cd209b
+Tgfb2	0.00277906594158417	1	1	Tgfbr2	Cd209b
+Tgfb3	-0.201485578268337	1	1	Tgfbr2	Cd209b
+Col4a4	-0.0159018050162405	2	0	Itgb7,Itga1	
+Col4a3	0.000943977673250572	2	0	Itga1,Itgb7	
+Col4a2	-0.345406664932365	2	0	Itgb7,Itga1	
+Col4a1	-0.139385951515859	2	0	Itgb7,Itga1	
+Man1a2	0.430883571653748	0	2		Mgat1,Ganab
+St3gal2	0.342899351265271	2	0	C1galt1,Gcnt1	
+St3gal1	0.051331851489947	2	0	Gcnt1,C1galt1	
+St3gal6	-0.00924595108156616	0	2		Fut7,B4galt3
+Pf4	-0.292276372978157	2	0	Cx3cr1,Cxcr2	
+Mir7-1	0.00645017032595628	2	0	Abcc1,Prkcb	
+Lypla1	-0.0722393361056438	1	1	Lpcat4	Lpcat4
+Id1	0.207558894725074	1	1	Thbs1	Smad1
+Galnt4	0.134976487456069	1	1	C1galt1	Gcnt1
+Galnt7	0.0276410334720739	1	1	C1galt1	Gcnt1
+Galnt2	0.186804601138621	1	1	C1galt1	Gcnt1
+Cacnb3	0.340702312304244	2	0	Rasgrp2,Rasgrp4	
+Cacnb1	-0.0327338457307029	2	0	Rasgrp4,Rasgrp2	
+Cacnb4	-0.28034675561596	2	0	Rasgrp4,Rasgrp2	
+Azin2	0.225691792092324	0	2		Arg1,Arg2
+Hist2h2aa2	-0.074593338902161	0	2		Hdac4,Hdac7
+Acy1	0.0247245233400832	2	0	Arg1,Arg2	
+Ssh1	-0.609092468628353	2	0	Cfl1,Cfl2	
+Tst	0.210179081289864	2	0	Ldhb,Suox	
+Col1a1	-0.50102553435522	2	0	Itgb7,Itga1	
+Fgf7	0.0186790255992932	2	0	Csf1r,Pdgfrb	
+Fgf3	0.0841271409672125	2	0	Csf1r,Pdgfrb	
+Cd28	0.43737264467945	2	0	Pik3cd,Pik3cb	
+Cd22	-0.571509935320525	0	2		Ptprc,Ptpn6
+Gtf2i	0.460531465162741	0	2		Prkg2,Prkg1
+Reln	0.121713622336577	2	0	Itga1,Itgb7	
+Matk	-0.707478435248991	0	2		Ntrk3,Ntrk1
+H2-Eb1	-0.14393767739913	0	2		Nfya,Creb1
+Agl	0.277848290585859	1	1	Pygb	Gys1
+Map3k3	-0.169909611934631	0	2		Prkcb,Il1r2
+Map3k7	0.0220611679566272	1	1	Mapk13	Irak4
+Stk3	0.247143987746028	0	2		Frmd6,Actb
+Pak1	0.234341764636584	2	0	Tiam1,Flna	
+Bmpr2	0.288627586881224	2	0	Smad1,Mapk13	
+Lipt2	-0.36450421357275	1	1	Lias	Lias
+Il7r	-0.236788734319704	1	1	Tyk2	Il12a
+E2f3	0.282714170579647	1	1	Ccne2	Cdk2
+E2f2	0.236959499922537	1	1	Ccne2	Cdk2
+Oxsm	0.0774765908348926	1	1	Fasn	Fasn
+Arrb2	0.263920955316637	2	0	Cxcr2,Cx3cr1	
+Arrb1	0.257187786433025	2	0	Cxcr2,Cx3cr1	
+Pgls	-0.0106205842125304	2	0	G6pdx,H6pd	
+Icam1	-0.109449908773933	1	1	Plcg2	Tnf
+Elk1	0.0730083326701709	1	1	Ccnd3	Mapk13
+Plch2	0.123054478845839	2	0	Pik3cd,Pik3cb	
+Ngf	-0.0542731384098508	2	0	Pdgfrb,Csf1r	
+Tbp	0.0384736771489561	0	2		Ets1,Ets2
+Cd247	-0.197277028267131	2	0	Syk,Fcgr4	
+Cfh	-0.0344029876457637	2	0	C3,Cfb	
+Cfd	0.168945645785247	2	0	C3,Cfb	
+Cfb	-0.687009176558995	0	2		Cfh,Cfd
+Hibch	0.247393358529866	1	1	Echs1	Echs1
+Eif2ak3	0.0616297464260069	1	1	Mapk13	Psen2
+Dbi	-0.371679402557801	0	2		Rxrb,Rxra
+Dbh	0.000325833681781187	1	1	Maoa	Maoa
+Dhx58	-1.13944968365407	2	0	Ifih1,Ddx58	
+Comp	-0.332152578685646	2	0	Itgb7,Itga1	
+Mirlet7d	0.0731915677998009	2	0	Hmga2,Cdc25a	
+Cacng8	-0.331830957814486	2	0	Rasgrp2,Rasgrp4	
+Gpat2	0.199933245202992	1	1	Gpd1	Agpat3
+Arpc3	-0.146052649774141	1	1	Actb	Actb
+Arpc1b	0.181007949048716	1	1	Actb	Actb
+Arpc1a	-0.0638475237789537	1	1	Actb	Actb
+Col4a5	-0.0436861624610961	2	0	Itgb7,Itga1	
+Arpc5	0.155880333035331	1	1	Actb	Actb
+Arpc4	0.226208694082505	1	1	Actb	Actb
+Prkar2b	-0.552294290688944	2	0	Lipe,Bad	
+Myh10	0.0542427899222698	1	1	Actb	Actb
+Myh14	-0.144838046463886	1	1	Actb	Actb
+Nup62-il4i1	0.0718704862916103	1	1	Maoa	Nit2
+Crlf2	-0.0944456307861564	1	1	Tyk2	Il12a
+Pax8	0.114841104381086	1	1	Tg	Prkcb
+Ank1	-0.0862635835453899	2	0	Tiam1,Itpr2	
+Ank3	-0.181526724208735	2	0	Tiam1,Itpr2	
+Gpam	-0.155451760196269	1	1	Gpd1	Agpat3
+Plk1	-0.0573378336960911	2	0	Cdc25a,Cpeb2	
+Col6a1	-0.127012445196528	2	0	Itga1,Itgb7	
+Col6a3	-0.401843419249114	2	0	Itgb7,Itga1	
+Col6a2	-0.0789221139038588	2	0	Itga1,Itgb7	
+Col6a5	-0.0382260141492982	2	0	Itga1,Itgb7	
+Col6a4	-0.0178611774248353	2	0	Itga1,Itgb7	
+Myh7	0.0448293539563049	0	2		Actb,Nfatc2
+Ghrl	0.0523124762720031	2	0	Chrm1,Gabbr1	
+Cdc25c	-0.293609288534447	0	2		Chek1,Cdk2
+Cdc25b	-0.203835742274006	0	2		Mapk13,Chek1
+Kcnj2	0.600352888052732	0	2		Gnaq,Ednra
+Rbpj	0.0688717754100717	0	2		Notch1,Ncor2
+Hist2h2ab	-0.155064208469377	0	2		Hdac4,Hdac7
+Irf5	-0.50166753120689	2	0	Il12a,Tnf	
+Xcl1	0.0303143194998432	2	0	Cx3cr1,Cxcr2	
+Ptk2b	0.286479100855859	1	1	Crkl	Prkcb
+Phkg2	0.0685886914168316	1	1	Pygb	Ppp1r3d
+Sgms2	0.190873360614524	1	1	Gba2	Cers2
+Sgms1	-0.0671226930281012	1	1	Gba2	Cers2
+Hibadh	-0.0751757435205079	0	2		Aldh1b1,Aldh2
+Gba	-0.0516301836276534	1	1	B4galt6	Cers2
+Ntrk3	-0.0587368151442557	2	0	Matk,Plcg2	
+Abcc1	0.311110856740416	0	2		Mir7-1,Mir345
+Il10rb	-0.148377279464483	1	1	Tyk2	Il12a
+Rnasel	0.337823423475201	0	2		Oas1a,Oas1g
+H2-Ea-ps	-0.100391178932498	0	2		Creb1,Nfya
+Galnt1	0.147547814744521	1	1	C1galt1	Gcnt1
+Acaca	0.184761688794344	0	2		Acss1,Fasn
+Acacb	0.324067015812061	0	2		Fasn,Acss1
+Il27ra	0.222429236571159	1	1	Tyk2	Il12a
+Il1a	-0.359116984086151	1	1	Il1r2	Mapk13
+Cacnb2	-0.195830464602355	2	0	Rasgrp4,Rasgrp2	
+Marcksl1	0.73778521004633	0	2		Prkcd,Prkce
+Fzd1	-0.260438603786038	2	0	Plcb3,Plcb2	
+Fzd2	0.0611644870614185	2	0	Plcb3,Plcb2	
+Fzd4	-0.161734822849273	2	0	Plcb2,Plcb3	
+Fzd5	0.423628872248508	2	0	Plcb3,Plcb2	
+Fzd6	-0.20907931323965	2	0	Plcb2,Plcb3	
+Fzd7	0.135020416755082	2	0	Plcb2,Plcb3	
+Fzd8	-0.165708207158358	2	0	Plcb2,Plcb3	
+Fzd9	-0.0654721654875056	2	0	Plcb3,Plcb2	
+Ppp1r3f	0.164572570635867	2	0	Phkb,Gys1	
+H2-Ab1	-0.379995651681222	0	2		Nfya,Creb1
+Myc	0.0796941249748625	1	1	Vegfa	Tead4
+Cxcl15	-0.0440579003095387	2	0	Cx3cr1,Cxcr2	
+Cxcl14	-0.158520061151817	2	0	Cx3cr1,Cxcr2	
+Cxcl16	-0.341147325372676	2	0	Cxcr2,Cx3cr1	
+Kcnk3	0.0554484574941025	0	2		Plcb2,Plcb3
+Hist1h2an	-0.306386968084022	0	2		Hdac7,Hdac4
+Hist1h2ai	-0.0835367190513116	0	2		Hdac4,Hdac7
+Hist1h2ah	-0.0952391038059902	0	2		Hdac7,Hdac4
+Hist1h2ak	-0.140155824955539	0	2		Hdac7,Hdac4
+Hist1h2ae	-0.135688273520961	0	2		Hdac7,Hdac4
+Hist1h2ad	0.141649500812608	0	2		Hdac7,Hdac4
+Hist1h2ag	-0.0773532792148604	0	2		Hdac7,Hdac4
+Hist1h2af	-0.533199848019294	0	2		Hdac7,Hdac4
+Hist1h2ac	0.122520969753675	0	2		Hdac7,Hdac4
+Hist1h2ab	-0.17766765044289	0	2		Hdac7,Hdac4
+Col24a1	0.123391383089568	2	0	Itga1,Itgb7	
+Vegfc	0.0452659753814056	2	0	Csf1r,Pdgfrb	
+Pycard	-0.184368961254259	0	2		Nlrp3,Aim2
+Jup	-0.354867423519828	1	1	Ppard	Runx1
+Nfatc4	-0.344110297993101	1	1	Tnf	Ppp3ca
+Tnr	-0.040736499751021	2	0	Itga1,Itgb7	
+H2-DMa	-0.332267869579505	0	2		Nfya,Creb1
+Vdac3	-0.0874207719450604	1	1	Nfatc2	Prkce
+Tnc	-0.0374715516633904	2	0	Itgb7,Itga1	
+Tnn	0.106400241619949	2	0	Itgb7,Itga1	
+1700024P04Rik	-0.0537568491860719	0	2		Hdac4,Hdac7
+Nos1	-0.081638049222956	0	2		Arg1,Arg2
+Nfkbiz	0.536493573543091	2	0	Nfkb1,Rela	
+Gbe1	0.188075860824323	1	1	Pygb	Gys1
+Ido1	-0.14757227404388	1	1	Maoa	Lao1
+Txk	-0.138515226907144	0	2		Pik3cb,Pik3cd
+Atp1b2	0.0330070654982764	0	2		Pik3cd,Pik3cb
+Atp1b3	-0.163387637124478	0	2		Pik3cb,Pik3cd
+Atp1b1	0.327217296548855	0	2		Pik3cd,Pik3cb
+Grm1	0.00555361610691785	1	1	Agap2	Ppp3ca
+Fgr	0.496546111739094	2	0	Pik3cd,Pik3cb	
+Il10ra	-0.439894752675766	1	1	Tyk2	Il12a
+Il18rap	-0.0760514182356553	0	2		Il12rb1,Il12rb2
+Ggps1	0.2339566958539	1	1	Fdps	Fdps
+Chkb	-0.0384586621021341	0	2		Pik3cd,Pik3cb
+Wbscr17	0.0554484574941025	1	1	C1galt1	Gcnt1
+Haghl	-0.576029835294766	0	2		Glo1,Ldhd
+Gp1bb	0.277727015557553	2	0	Pik3cd,Pik3cb	
+Prkab2	0.490262105196159	2	0	Gys1,Pfkfb4	
+Prkab1	0.328919770086898	2	0	Gys1,Pfkfb4	
+Osmr	0.00530286175766668	1	1	Tyk2	Il12a
+Casp3	0.129816965801168	0	2		Il1r2,Gzmb
+Mir221	0.145242216982476	2	0	Ddit4,Bmf	
+Il18r1	0.397392190550308	0	2		Il12rb1,Il12rb2
+Casp9	0.188801646604455	0	2		Pik3cd,Pik3cb
+Skp2	0.241223776204515	2	0	Cdk2,Ccne2	
+Dtymk	-0.0276209106913651	1	1	Nt5c3b	Entpd1
+Pvrl1	0.102865709942139	1	1	Pvrl4	Pvrl4
+Pvrl3	0.00120332901999281	1	1	Pvrl4	Pvrl4
+Gls	0.301506668007506	1	1	Glul	Gfpt1
+Apbb1ip	0.124849551617197	2	0	Vasp,Pfn1	
+Lcat	-0.188256009991981	0	2		Pld1,Pld3
+Col1a2	-0.0904326711782341	2	0	Itgb7,Itga1	
+Hist2h2ac	-0.152674747369729	0	2		Hdac4,Hdac7
+Atf6	-0.21520794431046	0	2		Psen2,Wfs1
+Atf1	0.0319158195515928	0	2		Prkd2,Camk4
+Bad	0.027113162680377	0	2		Ppp3ca,Prkar2b
+Hsd17b2	0.00891933467943513	1	1	Ugt1a7c	Ugt1a7c
+Hsd17b6	-0.0544486158662848	1	1	Ugt1a7c	Ugt1a7c
+Ciita	0.15148828944038	2	0	Nfya,Creb1	
+Ltbr	-0.00659326071687818	0	2		Ltb,Tnfsf14
+Fn1	-0.263367283224035	2	0	Itgb7,Itga1	
+Fxyd2	0.0534539874385672	0	2		Pik3cb,Pik3cd
+Lrp5	-0.346138340142421	1	1	Fzd3	Serpinf1
+Acox3	-0.108927473095152	0	2		Ppard,Echs1
+Acox1	-0.217104647663248	0	2		Echs1,Ppard
+Traf1	-0.168684795386008	2	0	Pik3cd,Pik3cb	
+Traf3	0.276196263760631	2	0	Pik3cb,Pik3cd	
+Lrp6	0.347975393245994	1	1	Fzd3	Serpinf1
+Traf5	-0.172171830542281	2	0	Pik3cb,Pik3cd	
+Wwtr1	-0.225423050926789	1	1	Smad7	Scrib
+Il21r	0.109143217238138	1	1	Tyk2	Il12a
+Ackr3	-0.527409249152299	0	2		Cxcl11,Cxcl12
+Mef2c	-0.379019327722609	0	2		Nfatc2,Mapk13
+Upf1	0.171805591601324	1	1	Gspt2	Smg1
+Galnt16	-0.0587368151442557	1	1	C1galt1	Gcnt1
+Galnt10	-0.117589021890921	1	1	C1galt1	Gcnt1
+Galnt11	-0.249577918911663	1	1	C1galt1	Gcnt1
+Galnt18	-0.11669331906793	1	1	C1galt1	Gcnt1
+Col27a1	-0.250183894165063	2	0	Itgb7,Itga1	
+Ptgis	0.0331941705768312	1	1	Ptgds	Ptgs1
+Pnpla7	0.0910157640580687	1	1	Lpcat4	Lpcat4
+Pnpla6	0.328251751744738	1	1	Lpcat4	Lpcat4
+Awat2	0.113409392854161	0	2		Cyp26a1,Rdh12
+Tbpl1	0.0533636997447093	0	2		Ets1,Ets2
+Magi2	-0.421819689552026	1	1	Rapgef6	Actn1
+Magi1	-0.156115875126068	2	0	Actn1,Rapgef6	
+Adrbk2	-0.25259776784355	2	0	Cx3cr1,Cxcr2	
+Lck	-0.385256432510491	2	0	Pik3cb,Pik3cd	
+Idi1	0.362690457440113	1	1	Fdps	Fdps
+Mpst	0.0667640022995101	2	0	Suox,Ldhb	
+Nmnat2	0.00610973156085401	1	1	Cd38	Nt5c3b
+Nmnat1	0.0416811109356715	1	1	Cd38	Nt5c3b
+Plg	-0.0537568491860719	1	1	C3	Plau
+Ccl2	-0.514441257922821	2	0	Cxcr2,Cx3cr1	
+Ccl3	-0.197484315053727	2	0	Cxcr2,Cx3cr1	
+Ccl1	-0.0433330894037472	2	0	Cxcr2,Cx3cr1	
+Ccl7	-0.207320279461293	2	0	Cx3cr1,Cxcr2	
+H2-Oa	-0.262284427598171	0	2		Creb1,Nfya
+Ccl5	-0.394390924131712	2	0	Cxcr2,Cx3cr1	
+Ccl8	-0.374575892427991	2	0	Cx3cr1,Cxcr2	
+Myl6	0.198538521036803	0	2		Ppp1r12a,Actb
+Hist2h2bb	-0.539565580271825	0	2		Hdac7,Hdac4
+Hist2h2be	-0.251343807900151	0	2		Hdac7,Hdac4
+Tlr2	-0.182695607478425	2	0	Tnf,Pdcd4	
+Tlr3	0.108986387965049	2	0	Pik3cd,Pik3cb	
+Hist1h2bp	-0.141247825922304	0	2		Hdac4,Hdac7
+Hist1h2be	-0.205851023683404	0	2		Hdac4,Hdac7
+Hist1h2bf	0.0318715271435316	0	2		Hdac7,Hdac4
+Hist1h2bg	0.204064640025224	0	2		Hdac7,Hdac4
+Hist1h2bb	-0.164969411862586	0	2		Hdac7,Hdac4
+Hist1h2bc	-0.181457270286195	0	2		Hdac4,Hdac7
+Hist1h2bj	-0.211872106639856	0	2		Hdac7,Hdac4
+Hist1h2bk	-0.274198446680042	0	2		Hdac4,Hdac7
+Rcan2	-0.464071511272273	0	2		Pik3cb,Pik3cd
+Mtr	0.140980833898343	1	1	Lao1	Atic
+H2afb3	-0.0433330894037472	0	2		Hdac7,Hdac4
+Flt3	-0.298197412229948	2	0	Pik3cd,Pik3cb	
+Got2	-0.320514653910013	1	1	Ldhb	Nit2
+Pard3	0.027907397037714	0	2		Pvrl4,2210010C04Rik
+Il4ra	-0.0350704929440052	1	1	Tyk2	Il12a
+Galnt15	-0.154443079873234	1	1	C1galt1	Gcnt1
+Galnt12	-0.011889903924494	1	1	C1galt1	Gcnt1
+Sec1	0.0223586900686733	0	2		St3gal4,B4galt3
+Icos	-0.249407317541988	2	0	Pik3cb,Pik3cd	
+Hist3h2bb-ps	-0.0197487231954335	0	2		Hdac7,Hdac4
+Ctsd	-0.664032680925385	1	1	Bid	Rab7
+Hgsnat	-0.39951515887544	1	1	Naglu	Sgsh
+Hist3h2a	-0.267318367747533	0	2		Hdac7,Hdac4
+Nudt12	0.0626364047169624	1	1	Cd38	Nt5c3b
+Smpd4	-0.179033637865423	2	0	Cers2,Gba2	
+Smpd1	0.0175334210591649	2	0	Gba2,Cers2	
+Smpd3	0.0767495042537416	2	0	Cers2,Gba2	
+Nnt	0.221569205287593	0	2		Cd38,Nmnat3
+Atp1a4	0.0446320228003994	0	2		Pik3cd,Pik3cb
+Atp1a3	0.0404555983478085	0	2		Pik3cb,Pik3cd
+Atp1a2	-0.0567926480820354	0	2		Pik3cb,Pik3cd
+Atp1a1	-0.16341292877719	0	2		Pik3cd,Pik3cb
+Cx3cl1	-0.238361449423719	2	0	Cxcr2,Cx3cr1	
+Rps6ka4	0.0492379563895309	1	1	Creb1	Mapk13
+Rps6ka5	0.335477955484192	1	1	Creb1	Mapk13
+Gna12	-0.0885655648776724	1	1	Rasa2	S1pr4
+Angpt2	0.376009947734902	2	0	Pdgfrb,Csf1r	
+Angpt1	0.0448931369087628	2	0	Pdgfrb,Csf1r	
+Angpt4	-0.0765045172685442	2	0	Pdgfrb,Csf1r	
+Il4i1	0.00540151596719529	1	1	Maoa	Nit2
+1700012L04Rik	0.00660454120623755	0	2		Hdac7,Hdac4
+Cyct	-0.0180316007426288	0	2		Slc25a4,Suox
+Cycs	-0.114142713592125	0	2		Slc25a4,Suox
+Phka1	0.128737222566573	1	1	Pygb	Ppp1r3d
+Phka2	0.128263707462406	1	1	Pygb	Ppp1r3d
+Ccl22	0.194446521017457	2	0	Cxcr2,Cx3cr1	
+Ccl25	0.322956884921202	2	0	Cxcr2,Cx3cr1	
+Ccl24	0.0432621603806391	2	0	Cxcr2,Cx3cr1	
+Fut7	-0.449867439113808	2	0	St3gal6,St8sia1	
+Prkaa2	0.0452659753814056	2	0	Pfkfb4,Gys1	
+Prkaa1	0.151132814924918	2	0	Pfkfb4,Gys1	
+Mavs	-0.0607209334497777	1	1	Tmem173	Tmem173
+Map2k4	0.191414553902692	2	0	Flna,Crkl	
+Tnfrsf1a	0.168528329526538	1	1	Nsmaf	Tnf
+Rapgef4	-0.0410440627159538	1	1	Mapk13	Adcy3
+Ar	-0.0386276933724961	0	2		Hsp90aa1,Hsp90b1
+Rapgef3	0.0356069723671346	1	1	Mapk13	Adcy3
+Cfl1	0.000498978881532493	0	2		Ssh1,Actb
+Serpinf1	-1.25373786666275	2	0	Lrp6,Lrp5	
+Selp	-0.962458597652059	1	1	Selplg	Selplg
+Sp1	0.149302100988104	2	0	Pld1,Slc44a4	
+Coq7	-0.430038533411747	1	1	Coq3	Coq5
+Ddx58	-0.433605876908034	0	2		Trim25,Dhx58
+Sipa1l2	0.789467948620351	2	0	Rap1a,Rap1b	
+Hexa	0.173623627811344	1	1	Gla	Gns
+Efna3	0.0274621305079899	2	0	Pdgfrb,Csf1r	
+Hexb	-0.191249038932666	1	1	Gla	Gns
+Pparg	-0.183238645004994	2	0	Olr1,Slc27a4	
+H2-DMb2	-0.278378728242068	0	2		Nfya,Creb1
+H2-DMb1	-0.37735750741857	0	2		Nfya,Creb1
+Lipa	-0.500033023276979	1	1	Dhcr24	Dhcr7
+Hc	0.0212584256240595	0	2		C4b,C3
+Bid	-0.164839235095114	0	2		Ctsd,Gzmb
+Zyx	0.274045133866706	2	0	Actb,Actn1	
+Tnfsf14	0.624222403596463	2	0	Tnfrsf14,Ltbr	
+H2-Aa	-0.328187316773882	0	2		Creb1,Nfya
+Cfl2	-0.0973895990861423	0	2		Actb,Ssh1
+Efna5	-0.0567926480820354	2	0	Csf1r,Pdgfrb	
+Efna4	0.0696740866171831	2	0	Csf1r,Pdgfrb	
+Efna2	0.0860472690044303	2	0	Pdgfrb,Csf1r	
+Efna1	-0.15179687901621	2	0	Csf1r,Pdgfrb	
+Vwf	-0.316003615685253	2	0	Itga1,Itgb7	
+Il6ra	-0.195452333193869	1	1	Tyk2	Il12a
+B3gnt3	0.184160817729274	1	1	B4galt3	B4galt3
+Rab11a	0.017873459764278	0	2		Rab11fip1,Rab11fip5
+Rab11b	-0.257158767693098	0	2		Rab11fip5,Rab11fip1
+Ugcg	0.154452173189769	1	1	B4galt6	Cers2
+Csf1	-0.415587138605643	2	0	Pdgfrb,Csf1r	
+Spp1	-0.400425641094492	2	0	Itgb7,Itga1	
+Lamb3	0.212972703010678	2	0	Itgb7,Itga1	
+Lamb2	-0.461905533201888	2	0	Itga1,Itgb7	
+Pcna	0.0530392750443595	1	1	Ccnd3	Creb1
+Thbs4	-0.162842759996771	2	0	Itga1,Itgb7	
+Thbs2	-0.122708833346554	2	0	Itgb7,Itga1	
+Thbs3	-0.272814332815525	2	0	Itga1,Itgb7	
+Fbxw11	0.0836379197737871	2	0	Per3,Per1	
+Vegfb	-0.00309950975024427	2	0	Csf1r,Pdgfrb	
+Arf6	0.132000405891837	1	1	Pld1	Syk
+Cacna2d2	0.1233856530466	2	0	Rasgrp2,Rasgrp4	
+Cacna2d1	0.0463550210504024	2	0	Rasgrp2,Rasgrp4	
+Cacna2d4	0.00246557641272079	2	0	Rasgrp2,Rasgrp4	
+Ghr	-0.157233824457147	1	1	Tyk2	Il12a
+Pdcd4	-0.636340731901365	0	2		Tlr4,Tlr2
+Pdgfa	-0.262930507203049	2	0	Pdgfrb,Csf1r	
+Pdgfb	-0.213079691642756	2	0	Pdgfrb,Csf1r	
+Pdgfc	-0.27077735117792	2	0	Pdgfrb,Csf1r	
+Vtn	-0.0589351585939808	2	0	Itgb7,Itga1	
+Myl6b	-0.0924999724140453	0	2		Actb,Ppp1r12a
+Pgf	-0.436268744189319	2	0	Pdgfrb,Csf1r	
+Ccl27a	-0.0230800240325001	2	0	Cx3cr1,Cxcr2	
+Hnmt	0.210283740449258	0	2		Hdc,Maoa
+Tcf7	-0.0678787955842917	2	0	Ccnd3,Ppard	
+Uckl1	0.083019889723699	0	2		Entpd1,Entpd5
+Ppat	0.0847004334334566	2	0	Gfpt1,Glul	
+Dusp9	-0.42456257643953	1	1	Mapk13	Smad1
+Dapk2	1.06990168348875	2	0	Mapk3,Mapk1	
+Nadk	0.098068046062334	0	2		Cd38,Nmnat3
+Msn	0.116390400423756	1	1	Actb	Vcam1
+Gls2	0.228792190934752	1	1	Glul	Gfpt1
+Il20ra	-0.0541075348558651	1	1	Tyk2	Il12a
+Prkag1	0.0628619880709615	2	0	Pfkfb4,Gys1	
+Prkag3	-0.0197487231954335	2	0	Gys1,Pfkfb4	
+Prkag2	0.306150875777804	2	0	Pfkfb4,Gys1	
+Ltc4s	-0.0422336804931072	0	2		Alox5,Lta4h
+Cpt1a	-0.231608685952712	0	2		Creb1,Ppard
+Cpt1c	-0.317509060279856	0	2		Ppard,Creb1
+Cpt1b	0.00197822375215427	0	2		Ppard,Creb1
+Fut2	0.0561751863931596	0	2		St3gal4,B4galt3
+Fut1	0.150587832581595	0	2		St3gal4,B4galt3
+Qprt	0.225829035296011	1	1	Nmnat3	Nt5c3b
+Csf2ra	0.0494065148016235	1	1	Tyk2	Il12a
+Slc2a4	-0.0298951335372558	0	2		Pik3cd,Pik3cb
+Scrib	0.408806582417177	2	0	Yap1,Wwtr1	
+Lamc2	0.0554484574941025	2	0	Itgb7,Itga1	
+Lamc3	0.0448293539563049	2	0	Itga1,Itgb7	
+Cacng7	-0.0440579003095387	2	0	Rasgrp2,Rasgrp4	
+Epor	-0.238276370406445	1	1	Tyk2	Il12a
+H2-Ob	0.0952778784299912	0	2		Nfya,Creb1
+Ccl4	-0.329469213989881	2	0	Cx3cr1,Cxcr2	
+H2afy2	-0.0223903035433011	0	2		Hdac7,Hdac4
+Tcf7l1	-0.180138998744041	2	0	Ppard,Ccnd3	
+Tcf7l2	-0.390208167312581	2	0	Ppard,Ccnd3	
+Fgf17	0.0973324759269432	2	0	Csf1r,Pdgfrb	
+Ppcdc	0.276741810034635	1	1	Pank3	Pank3
+Acads	0.00905574478256036	1	1	Echs1	Echs1
+Tnxb	-0.519104407662177	2	0	Itga1,Itgb7	
+Nnmt	0.0599421848759245	1	1	Cd38	Cd38
+Smad6	-0.0902356500627093	1	1	Smad1	Tnf
+Grk6	0.0122736532575573	2	0	Cx3cr1,Cxcr2	
+Grk4	0.139417733445313	2	0	Cx3cr1,Cxcr2	
+Grk5	0.117256231002729	2	0	Cx3cr1,Cxcr2	
+Grk1	-0.0687549970516237	2	0	Cx3cr1,Cxcr2	
+Acsf3	-0.0197301245798632	2	0	Aldh2,Aldh1b1	
+Acadvl	-0.00479596728061417	1	1	Echs1	Echs1
+Gzmb	-0.507800754967947	2	0	Casp3,Bid	
+Tgfbr1	0.25764764513607	1	1	Tgfbr2	Smad7
+Prlr	0.00180658784243714	1	1	Tyk2	Il12a
+Ccl12	0.0220827166048524	2	0	Cxcr2,Cx3cr1	
+Ccl17	0.00981963983548702	2	0	Cxcr2,Cx3cr1	
+Ccl19	-0.0436861624610961	2	0	Cxcr2,Cx3cr1	
+Mpl	0.187108598240461	1	1	Tyk2	Il12a
+Col3a1	-0.0425672324993422	2	0	Itga1,Itgb7	
+Mpz	-0.0198132342583101	1	1	Mpzl1	Mpzl1
+Ppbp	0.081781089748998	2	0	Cxcr2,Cx3cr1	
+Kitl	-0.0579123539149826	2	0	Csf1r,Pdgfrb	
+Ido2	-0.11998994692904	1	1	Maoa	Lao1
+Hist1h2bl	0.0139901883620339	0	2		Hdac4,Hdac7
+Hist1h2bm	-0.150978665751075	0	2		Hdac4,Hdac7
+Hist1h2bn	-0.13938385324448	0	2		Hdac7,Hdac4
+Hist1h2bh	-0.121876250924801	0	2		Hdac4,Hdac7
+Col5a2	-0.114913824504252	2	0	Itgb7,Itga1	
+Col5a3	-0.273406248607412	2	0	Itga1,Itgb7	
+Col5a1	0.46734635980392	2	0	Itgb7,Itga1	
+Lepr	-0.0716975467999687	1	1	Tyk2	Il12a
+Rab7	-0.169279877406119	2	0	Lamp1,Ctsd	
+Klk1b4	-0.0440579003095387	2	0	Csf1r,Pdgfrb	
+Galm	-0.0156602159262954	2	0	Adpgk,Gla	
+Itpk1	0.0502338350664881	1	1	Inpp1	Inpp1
+Mecr	-0.131328200557319	1	1	Echs1	Echs1
+Txndc12	-0.228725577138481	0	2		Gstm7,Mgst3
+Il9r	0.00901417831457339	1	1	Tyk2	Il12a
+Mir30d	0.0604666311945313	2	0	Plcg2,Prkcb	
+Cers6	0.430071101205915	1	0	Gba2	
+Cers5	0.126222051897619	1	0	Gba2	
+Cers3	-0.0772744501356706	1	0	Gba2	
+Sos2	0.149957386982339	0	1		Pdgfrb
+Sos1	0.331106105298049	0	1		Pdgfrb
+Drd2	0.055247104824415	1	0	Gng10	
+Mitf	0.15208580868862	0	1		Creb1
+Sh3gl1	0.255950321706519	1	0	Csf1r	
+Sh3gl3	0.0706547962680047	1	0	Csf1r	
+Sh3gl2	0.0452659753814056	1	0	Csf1r	
+Mef2d	0.0990308695056703	0	1		Nfatc2
+Top3a	-0.0842750523266159	1	0	Fancm	
+Rmi1	0.222113693039834	1	0	Fancm	
+Hsd11b1	0.260658832004548	1	0	Ugt1a7c	
+Cebpb	-0.0820899158410093	0	1		Mapk13
+Sap18	0.144982030490278	1	0	Pnn	
+Rbm8a	-0.221861414087328	0	1		Wibg
+Crtc1	-0.141174478562415	0	1		Creb1
+Pole4	0.12442546515328	1	0	Entpd1	
+Pole3	-0.294640450825376	1	0	Entpd1	
+Pole2	0.0674941498434958	1	0	Entpd1	
+Sorbs1	-0.198946143533996	0	1		Vcl
+Tymp	-0.435221699155693	0	1		Nt5c3b
+Runx1t1	-0.0428626024350131	1	0	Csf1r	
+Star	0.00758245601262971	0	1		Creb1
+Junb	0.128739504423946	0	1		Mapk13
+Jund	0.37622672783033	0	1		Mapk13
+Stam	0.0203767767285092	1	0	Tyk2	
+Mcl1	-0.0657733713906412	0	1		Creb1
+Fas	-0.135840496953977	0	1		Ifngr1
+Bcl2	-0.372904862002036	0	1		Creb1
+Clec4e	-0.670561154625844	1	0	Syk	
+Amdhd2	-0.184727792203924	1	0	Gfpt1	
+Dlat	-0.0509845947756459	0	1		Acss1
+Mmp14	-0.0169250596944247	0	1		Prkcb
+Tpo	0.0448293539563049	1	0	Lao1	
+Rfng	-0.0805162111566489	1	0	Notch1	
+Aldoa	0.09636654643011	1	0	Fbp1	
+Aldoc	-0.13678444058159	1	0	Fbp1	
+Glg1	-0.0206602124756045	0	1		Sele
+Txnrd2	-0.0150785747681761	0	1		Ccbl2
+Nup43	-0.256635438133862	0	1		Nup37
+Neu4	-0.0433330894037472	0	1		Gla
+Rsad2	-0.486088885851318	1	0	Fdps	
+Neu3	0.0836204789309257	0	1		Gla
+Klk1b11	-1.44487731335672	1	0	Bdkrb2	
+Il1rap	0.14139336076862	1	0	Irak4	
+Maf	-0.705935275249341	1	0	Il4	
+Top3b	0.10411185248599	1	0	Fancm	
+Cdk5r1	0.371782215034003	0	1		Capn2
+Phgdh	-0.29707456318243	1	0	Pgam1	
+Blvrb	-0.0578025332863312	1	0	Ugt1a7c	
+Blvra	-0.294741491656	1	0	Ugt1a7c	
+Ddit3	-0.00648678339580363	0	1		Mapk13
+Naglu	-0.36750386995401	0	1		Hgsnat
+Ncor2	0.519604616793497	1	0	Rbpj	
+Abhd5	0.294277705183393	0	1		Pnpla2
+Marcks	-0.153166250848393	0	1		Prkce
+Pdss1	-0.408717328420489	0	1		Fdps
+Id3	-0.22300782619966	0	1		Smad1
+Adcyap1r1	-0.0433330894037472	1	0	Gng10	
+Nppb	0.0448293539563049	0	1		Nfatc2
+Shmt1	-0.113557365645165	0	1		Atic
+Lamp1	-0.293456462123776	0	1		Rab7
+Cd274	-0.389158019712789	1	0	Pdcd1	
+Pold1	0.236743264107705	1	0	Entpd1	
+Pold2	-0.0936660338654771	1	0	Entpd1	
+Pold3	0.1732789788686	1	0	Entpd1	
+Pold4	-0.0431327999492865	1	0	Entpd1	
+Hcls1	0.0879665333192547	0	1		Actb
+Dut	0.0808515125588824	0	1		Nt5c3b
+Hdac1	0.015732596448114	0	1		Runx1
+Itch	0.0585314281992098	1	0	Csf1r	
+Vamp1	0.245022133767951	1	0	Stx1a	
+Vamp3	-0.15291107799861	1	0	Stx1a	
+Vamp4	-0.137028014106493	1	0	Stx1a	
+St6gal1	-0.325018253457849	0	1		B4galt3
+Cyp26b1	0.229378078860037	1	0	Ugt1a7c	
+Upf3b	-0.110775872591572	1	0	Gspt2	
+Upf3a	-0.283276764872917	1	0	Gspt2	
+Wnt5b	-0.0125190588377386	1	0	Fzd3	
+Dusp16	-0.144400439984211	1	0	Mapk13	
+Psme2	-0.386567877647352	0	1		Tnf
+Psme3	0.0717420181377234	0	1		Tnf
+Psme1	-0.349457742368184	0	1		Tnf
+Ganc	-0.0606334574641582	0	1		Gla
+Epb4.1l1	-0.517755643947899	0	1		Actb
+Sgsh	-0.209389698160344	1	0	Hgsnat	
+Htr5b	0.00356138549836526	1	0	Gng10	
+Arsa	-0.0311408045222093	0	1		Gla
+Frs2	-0.0760236608580827	1	0	Crkl	
+Cd47	-0.184060742289758	0	1		Thbs1
+Cd46	-0.125337312177518	1	0	C3	
+Ppp2r5d	0.0884355703626742	0	1		Smg1
+Ppp2r5e	0.324762188975458	0	1		Smg1
+Ppp2r5a	0.161301808227716	0	1		Smg1
+Ppp2r5b	0.416892832054679	0	1		Smg1
+Ppp2r5c	-0.0856960473945227	0	1		Smg1
+Nefh	-0.000334118664258057	0	1		Mapk13
+Tfdp2	-0.0771813877102518	1	0	Ccne2	
+Csnk2a1	0.171682751886383	0	1		Cdk2
+Scin	-0.0902657069367859	0	1		Pikfyve
+Ccng1	0.464836793681411	0	1		Trp53
+Gcnt2	0.295373087999727	0	1		B4galt3
+Bckdhb	-0.246538835410489	1	0	Lao1	
+Bckdha	-0.287725054700473	1	0	Lao1	
+Gp6	0.0249725921114075	0	1		Col6a6
+Tap1	-0.531376416058724	0	1		Tapbp
+Irak2	0.267872451070364	0	1		Irak4
+Irak1	0.159163118638013	0	1		Irak4
+Ryr1	-0.425621375575808	0	1		Cd38
+Ryr3	0.00295317449193294	0	1		Cd38
+Ryr2	-0.0634703017714741	0	1		Cd38
+Grin2b	0.0448293539563049	0	1		Prkcb
+Itgal	0.251235051696397	1	0	Crkl	
+Grin2d	0.137538017107889	0	1		Prkcb
+Itgad	-0.425949453463839	1	0	Crkl	
+Itgae	-0.000637869273339222	1	0	Crkl	
+Eif4e2	-0.0270306923278056	0	1		Cyfip2
+Camk1d	-0.29851202933402	1	0	Creb1	
+Camk1g	0.0550422093788901	1	0	Creb1	
+Ctsl	-0.490013092089733	1	0	Cd74	
+Cdkn2a	0.000925525251356767	1	0	Ccnd3	
+Sgk2	-0.108515763250504	0	1		Pdpk1
+Ralgds	-0.475849718718712	1	0	Pld1	
+Cdk4	-0.118976398890478	0	1		Cdc25a
+Oas1g	-0.706533975494879	1	0	Rnasel	
+Cdk7	-0.0786331560402451	1	0	Cdk2	
+Ctsb	-0.720343858686458	1	0	Cd74	
+Cr2	0.00389601919909523	0	1		C3
+Wasf2	0.00287785641631579	1	0	Actb	
+Hbegf	0.0112736316479185	0	1		Gpc1
+C2	-0.182893408790506	1	0	C3	
+Ppp1r14a	-0.164902861479316	1	0	Ppp1r12a	
+Guca1a	-0.181650727891551	0	1		Cnga4
+Wasl	0.144790598041976	1	0	Actb	
+Wwp1	0.198452846316699	1	0	Csf1r	
+Cyp26c1	0.190666653597689	1	0	Ugt1a7c	
+Apitd1	-0.0231414050075905	0	1		Fancm
+Shroom3	-0.106916992501165	1	0	Actb	
+Shroom2	-0.501886646213219	1	0	Actb	
+Shroom1	0.20976361659191	1	0	Actb	
+Shroom4	-0.0760824157681853	1	0	Actb	
+Rassf1	0.0690519669140519	1	0	Tiam1	
+Hadhb	-0.271847292593616	0	1		Acadl
+Ednra	0.390284599112636	1	0	Kcnj2	
+Daxx	-0.192694310120804	0	1		Tgfbr2
+Oscar	-0.122822461151471	1	0	Syk	
+Cd34	-0.170079136382054	1	0	Sell	
+Cd36	-0.156978320515551	0	1		Thbs1
+Sirpb1a	0.0204441355931708	1	0	Syk	
+Sirpb1b	0.230990346584132	1	0	Syk	
+Gaa	0.0813488267980453	0	1		Gla
+Atg16l2	0.67126187674678	0	1		Atg5
+Ephb3	-0.0440579003095387	1	0	Efnb3	
+1700061G19Rik	-0.0241353522349884	1	0	Fasn	
+Lfng	0.368219197819759	1	0	Notch1	
+Ppargc1a	-0.233448456359553	0	1		Creb1
+Tirap	0.219150717583068	1	0	Irak4	
+Nup160	0.313992827906998	0	1		Nup37
+Eno1b	0.117427927140727	1	0	Pgam1	
+Rpa1	0.0458577965092468	0	1		Rmi2
+Rpa3	-0.0395976693725521	0	1		Rmi2
+Rpa2	-0.0218449803454854	0	1		Rmi2
+Arc	0.0478390114561833	0	1		Creb1
+Rdx	0.267579815881529	1	0	Actb	
+Bambi	0.00651694108041616	1	0	Fzd3	
+Wnt6	-0.0235905045380618	1	0	Fzd3	
+Ptprj	-0.12940084752245	1	0	Ctnnd1	
+Fer	0.353978249495619	1	0	Ctnnd1	
+Mir103-2	0.0497104584457396	1	0	Prkcb	
+Pard6g	-0.163585483654445	1	0	Mpp5	
+Socs2	-0.00349617902239406	1	0	Tyk2	
+Cbr1	-0.00523104711925092	1	0	Ugt1a7c	
+Pard6b	-0.112551581000791	1	0	Mpp5	
+Pard6a	-0.139830312220525	1	0	Mpp5	
+Pilra	0.831944227000141	1	0	Ptpn11	
+Dhrs4	-0.251807695300362	0	1		Cyp26a1
+Ahcy	0.0156710553597514	1	0	Dnmt1	
+Afmid	-0.499369220705199	1	0	Ccbl2	
+Rictor	0.314965681043259	1	0	Prkcb	
+Dpm3	-0.192984678393188	0	1		Alg5
+Dpm2	-0.268482418006746	0	1		Alg5
+Dpm1	-0.0106450013748019	0	1		Alg5
+Id4	-0.116781874250157	0	1		Smad1
+Id2	-0.135055291536102	0	1		Smad1
+Map3k12	0.589909895134304	1	0	Map2k7	
+Cgn	-0.147349739190933	0	1		Myh9
+Shisa5	-0.439732310973973	0	1		Trp53
+Asgr2	0.0492415512007013	1	0	Tg	
+Miox	0.35121970302431	1	0	Ugt1a7c	
+Camk1	-0.155231078575145	1	0	Creb1	
+Ppp1r1b	-0.018387901333982	0	1		Ppp3ca
+Trpv5	0.0448293539563049	0	1		Prkcb
+Qrsl1	-0.287027450367609	1	0	Nars2	
+Tnfrsf10b	0.337147908214189	0	1		Tnfsf10
+Ctbp1	-0.0371261420393231	0	1		Runx1
+Axin2	0.0115989548927033	0	1		Tead4
+Fnta	-0.0977519809765261	0	1		Fdps
+Fntb	-0.339746730800366	0	1		Fdps
+Rdh9	-0.0726622985526896	0	1		Cyp26a1
+Adrb2	-0.477970119201309	0	1		Adrbk1
+Lhpp	-0.34897046503822	0	1		Atp6v0e2
+Ces2g	-0.383321214586181	1	0	Ugt1a7c	
+Hmgcl	-0.17313772556241	0	1		Aacs
+Ptprr	0.0996144831104237	1	0	Mapk13	
+Ptprc	0.488143680340726	1	0	Cd22	
+Ptprm	-0.0686825475898816	1	0	Ctnnd1	
+Rasa1	0.295101935772687	0	1		Ephb6
+Pck2	-0.0330840332821082	0	1		Creb1
+Pck1	-0.0433330894037472	0	1		Creb1
+Ret	0.238672443159666	0	1		Eps15
+Serpinb6a	-0.731587319645175	1	0	Ctsg	
+Map3k2	0.327466080480919	0	1		Prkcb
+Mgam	0.125976420021954	0	1		Gla
+Map3k4	0.285973437886709	0	1		Prkcb
+Map3k5	0.104720806115675	1	0	Mapk13	
+Ltb	0.865020682577838	1	0	Ltbr	
+Xylb	-0.128773220923102	0	1		Rpe
+Frmd6	0.394495275002277	1	0	Stk3	
+Lipt1	-0.540799101129753	0	1		Lias
+Nkd1	-0.0587787714502167	0	1		Tead4
+Sh3bp2	0.181633258002731	1	0	Plcg2	
+Eif4e	-0.112168265574524	0	1		Cyfip2
+Gsn	0.316676580135788	0	1		Pikfyve
+Brap	-0.116550217835593	1	0	Ksr1	
+F13a1	-1.11048253748522	0	1		F2
+Rhog	0.13397159088247	1	0	Mapk13	
+B4galt1	0.165473540312993	0	1		B3gnt5
+Fut8	0.0633733327861957	1	0	B4galt3	
+B4galt5	0.147478615515268	0	1		Gcnt1
+Wnt1	-0.0440579003095387	1	0	Fzd3	
+B4galt7	0.293397589174291	0	1		Xylt1
+Aph1c	-0.253237059885966	1	0	Notch1	
+Aph1b	0.228970880113591	1	0	Notch1	
+Aph1a	-0.127591453865355	1	0	Notch1	
+LOC100038947	-0.181376083081653	1	0	Syk	
+Mif	-0.207609629037911	1	0	Lao1	
+Wnt4	-0.270719276388869	1	0	Fzd3	
+Cd209c	-0.0537568491860719	1	0	Ksr1	
+Elk4	0.216799362622136	0	1		Mapk13
+Ncam1	0.120806681584139	0	1		Prnp
+Plxnc1	0.561193596353183	0	1		Sema7a
+Tpmt	0.0448706229260879	1	0	Xdh	
+Gli2	-0.0406734237499918	0	1		Tead4
+F2rl3	-0.00409145442050055	0	1		2210010C04Rik
+F2rl2	0.136713293503626	0	1		2210010C04Rik
+F2rl1	-0.0537568491860719	0	1		2210010C04Rik
+Rims1	0.94363911828286	0	1		Rab3a
+Cryl1	-0.664307771957432	0	1		Akr1a1
+Upp2	0.0554484574941025	0	1		Nt5c3b
+Upp1	0.156135748065143	0	1		Nt5c3b
+Mfng	0.00759726088916886	1	0	Notch1	
+Htr1f	0.0448293539563049	1	0	Gng10	
+Htr1b	0.00263706875862009	1	0	Gng10	
+Wnt2b	0.17720101407964	1	0	Fzd3	
+Cfi	0.0554484574941025	1	0	C3	
+Dock2	0.137747290437285	0	1		Crkl
+Dock1	0.308509880145676	0	1		Crkl
+Crb3	0.0598569074172853	0	1		Mpp5
+Slc25a5	-0.19141811972463	0	1		Prkce
+Hsd17b12	-0.157810645932923	1	0	Ugt1a7c	
+Ltbp1	-0.149588845973298	0	1		Thbs1
+Eif2ak1	-0.0516479650806776	1	0	Mapk13	
+Eif2ak2	-0.291752290992839	1	0	Mapk13	
+Eif2ak4	0.0856567842842207	1	0	Mapk13	
+Bak1	-0.033982727303509	1	0	Capn2	
+Camkk2	-0.0190047134825568	1	0	Camk4	
+Camkk1	0.14050671831395	1	0	Camk4	
+Baiap2	-0.426757187419075	1	0	Actb	
+Mlst8	-0.0392027714704268	1	0	Prkcb	
+Cngb1	0.249493230710563	0	1		Adcy3
+Per2	-0.21129063425012	0	1		Creb1
+F12	0.104213211933744	1	0	C3	
+Pfkm	0.188346462010326	0	1		Pfkfb4
+Nedd4l	0.016555614295655	1	0	Csf1r	
+Pfkl	0.124233771125502	0	1		Pfkfb4
+Wnt11	0.000672482052724676	1	0	Fzd3	
+Cbr3	-0.233625792597247	1	0	Ugt1a7c	
+Tbkbp1	0.546914924997894	1	0	Ikbkg	
+Pfkp	-0.319884546933792	0	1		Pfkfb4
+Dusp10	-0.252680848263961	1	0	Mapk13	
+Myh11	-0.159843804104366	0	1		Actb
+Pfkfb1	0.00191001863996089	1	0	Fbp1	
+Pfkfb3	0.155552204493412	1	0	Fbp1	
+Pfkfb2	0.156576765582709	1	0	Fbp1	
+Tnfsf9	-0.0120090445877096	1	0	Tnfrsf9	
+Oas1a	-0.691998572585064	1	0	Rnasel	
+Acsbg1	-0.373581064796798	1	0	Fasn	
+Calr	-0.173351027598576	1	0	Ppp3ca	
+Cdh1	0.0377024303507631	0	1		Ctnnd1
+Cdh5	-0.392501021966166	1	0	Ctnnd1	
+Guca1b	0.0780624282834089	0	1		Cnga4
+Plk3	0.192991894884845	0	1		Cd209b
+Myh3	-0.113045897955732	0	1		Actb
+Neu1	0.415563546123192	0	1		Gla
+Aanat	0.0496720305641397	1	0	Maoa	
+Gatb	0.165248397462278	1	0	Nars2	
+Gatc	-0.176607488681941	1	0	Nars2	
+Rab5a	-0.0165837608679023	0	1		Als2
+Card11	0.263386543315113	0	1		Prkcb
+Nup107	0.129514376611788	0	1		Nup37
+Rgs3	0.0482385484597821	0	1		Efnb3
+Cers4	0.0697159406331489	1	0	Gba2	
+Vnn3	-0.492559853388396	0	1		Pank3
+Adi1	-0.124086594625176	0	1		Lao1
+Wnt16	-0.0433330894037472	1	0	Fzd3	
+G6pd2	-0.0755230283276646	1	0	H6pd	
+Kcnj6	-0.222457960490896	0	1		Gng10
+Kcnj5	0.093569665464547	0	1		Gng10
+Fosl1	0.0332418446161297	0	1		Mapk13
+Crem	-0.189585799498542	1	0	Creb1	
+Acsbg2	0.0452659753814056	1	0	Fasn	
+Fosl2	0.132254772047229	0	1		Mapk13
+Grin1	0.110547199180088	0	1		Prkcb
+Arnt	-0.141602461852257	1	0	Vegfa	
+Mapkapk2	-0.0569516303472315	0	1		Mapk13
+Csnk2b	-0.0239808268574065	0	1		Cdk2
+Irf3	0.295051146267521	1	0	Cxcl9	
+Nedd4	0.255793382446803	1	0	Csf1r	
+Irf1	-0.109093936496364	1	0	Il12a	
+Nup85	-0.0920177898260789	0	1		Nup37
+Stxbp1	-0.180519598800445	1	0	Stx1a	
+Fmr1	0.202521392747195	0	1		Cyfip2
+Gfpt2	-0.0314999743679919	1	0	Glul	
+Tbk1	0.201476035643427	0	1		Tmem173
+Dhdh	0.0512201912889396	0	1		Ephx1
+Irf8	-0.3655715424609	1	0	Il12a	
+Prkdc	0.681878881288243	1	0	Trp53	
+Clca4a	-0.0440579003095387	0	1		Cnga4
+Gja1	0.18457064343068	0	1		Prkcb
+Vdac2	-0.0552673156606074	0	1		Prkce
+Vdac1	-0.173703915287062	0	1		Prkce
+Ephb2	0.00301218650118136	1	0	Efnb3	
+Dmd	-0.0505572679241876	1	0	Actb	
+Gm9733	0.138467578866789	1	0	Syk	
+Sh3glb2	0.0953192119872295	1	0	Csf1r	
+Ephb4	-0.228600424830096	1	0	Efnb3	
+Map3k14	0.135024777653637	0	1		Irak4
+Il18	-0.473862995215597	0	1		Mapk13
+Tdo2	0.0241405553770962	0	1		Lao1
+Ppif	-0.0579348247727731	0	1		Prkce
+Hpd	-0.0541075348558651	1	0	Lao1	
+Ubc	-0.144183585705233	0	1		Ppard
+Chdh	-0.497710248888096	1	0	Aldh7a1	
+Ssx2ip	0.296334612062914	0	1		Actn1
+Bcr	0.411670586632572	1	0	Crkl	
+Plekhm2	-0.253149725432729	1	0	Klc3	
+Acsl3	0.273803257532229	1	0	Fasn	
+Acsl1	-0.18225254837719	1	0	Fasn	
+Acsl4	0.136065125161765	1	0	Fasn	
+Acsl5	0.106066397821839	1	0	Fasn	
+Fh1	-0.152432251468945	1	0	Me1	
+Asgr1	0.196754703696905	1	0	Tg	
+Map2k1	0.0732984812986182	0	1		Prnp
+Hdac2	0.108717674213651	0	1		Runx1
+Camp	1.48148370963032	0	1		Vdr
+Mdh2	-0.0510834748989499	0	1		Me1
+Mdh1	-0.280226579367635	0	1		Me1
+Agrn	0.50610828928822	1	0	Dag1	
+Glo1	-0.0986300923669473	1	0	Haghl	
+Dctd	-0.0874915023773077	0	1		Nt5c3b
+Tgfa	-0.0440579003095387	1	0	Pdgfrb	
+Tyrobp	-0.0322888300152055	1	0	Syk	
+Dtx2	0.164315346472427	0	1		Notch1
+Spdya	-0.120227207783956	1	0	Cdk2	
+Kynu	-0.0305591401966175	1	0	Ccbl2	
+Cd209a	-0.0503020072724489	1	0	Ksr1	
+Cd209d	-0.0395433958865563	1	0	Ksr1	
+Cd209e	0.0448293539563049	1	0	Ksr1	
+Serpinb9	-0.751281881839271	1	0	Ctsg	
+Ada	0.201508862936536	0	1		Nt5c3b
+Yes1	0.148519587509836	1	0	Ctnnd1	
+Rasd1	0.186164764704696	1	0	Gng10	
+Trpc6	0.00329650567071395	0	1		Nfatc2
+B3galnt1	-0.412106584385592	0	1		Gla
+Cr1l	-0.233438245763291	1	0	C3	
+Ippk	0.235123990454717	0	1		Ppip5k1
+Cdkn2b	0.317132027893573	1	0	Ccnd3	
+Cdkn2d	0.0116581846369521	1	0	Ccnd3	
+Nck2	-0.066587144252298	0	1		Efnb3
+Chuk	0.146140697380781	0	1		Pdpk1
+Tbx21	-0.211371827046335	1	0	Il12rb2	
+Psenen	-0.0378726453254464	1	0	Notch1	
+Gcnt4	0.00263706875862009	0	1		C1galt1
+Sh3glb1	-0.435740324620309	1	0	Csf1r	
+Htr7	0.0252335054680054	1	0	Gng10	
+Prkcq	-0.0955863027551354	1	0	Actb	
+Chrm4	0.110113937290624	1	0	Gng10	
+Grm4	-0.0587368151442557	1	0	Gng10	
+Grm5	-0.0433330894037472	0	1		Ppp3ca
+Grm7	0.0550422093788901	1	0	Gng10	
+Mir101b	0.0452659753814056	1	0	Plcg2	
+Uox	-0.0433330894037472	0	1		Xdh
+Pdss2	0.0190174114519157	0	1		Fdps
+Ccnh	-0.0353296427257939	1	0	Cdk2	
+Aurka	-0.105208868832482	1	0	Cpeb2	
+Asah1	-0.238623549074738	0	1		Gba2
+Asah2	-0.169843840565381	0	1		Gba2
+Tph1	0.0821827387167359	0	1		Lao1
+Tph2	-0.0206060161527652	0	1		Lao1
+C3ar1	-0.343329480750215	0	1		C3
+Amy1	-0.0587368151442557	1	0	Pygb	
+C1s1	-0.13121108630748	1	0	C4b	
+Shmt2	-0.189492433764984	0	1		Atic
+Sms	-0.0536039603776635	1	0	Smox	
+Sema7a	0.224690017122565	1	0	Plxnc1	
+Ctbp2	0.140596886894144	0	1		Runx1
+Mvd	0.369626226277527	1	0	Fdps	
+Amot	0.0718409772603622	0	1		Mpp5
+Dolk	-0.056023184307391	0	1		Alg5
+Diap2	0.21467280678924	1	0	Pfn1	
+Epb4.1	0.165676311125873	0	1		Actb
+Serpinb10	0.684959627896326	1	0	Ctsg	
+Ctgf	-0.209340691604305	0	1		Tead4
+Tead3	-0.0512225122644689	1	0	Ccnd3	
+Tead2	0.101658533616099	1	0	Ccnd3	
+Tead1	-0.0562967229703523	1	0	Ccnd3	
+Mccc2	-0.317352496981729	1	0	Echs1	
+Mccc1	0.13976464255379	1	0	Echs1	
+Hmgcs2	-0.0587368151442557	0	1		Aacs
+Ppp2r3c	-0.157157168926506	0	1		Smg1
+Stam2	-0.0695289772365785	1	0	Tyk2	
+Ppp2r3a	0.255050731112818	0	1		Smg1
+Coq5	-0.244140583433983	1	0	Coq7	
+Serpinb1a	0.383600369880242	1	0	Ctsg	
+Serpine1	-0.415325221156607	1	0	Plau	
+Ahcyl1	-0.0101945945234798	1	0	Dnmt1	
+Ahcyl2	0.361036324439228	1	0	Dnmt1	
+Dhfr	0.0648995876838752	1	0	Atic	
+Kcnj9	-0.0408339922999322	0	1		Gng10
+Adprm	0.0714245999114894	0	1		Gpd1
+C1qc	-0.33473005139162	1	0	C4b	
+C1qb	-0.363112632184097	1	0	C4b	
+C1qa	-0.344650560415318	1	0	C4b	
+Kcnj8	0.467676672699695	0	1		Prkce
+Adrb1	-0.140117105327468	0	1		Adrbk1
+Ccbl1	0.00802523015359705	1	0	Txnrd3	
+Birc5	-0.105063260109468	0	1		Tead4
+Birc2	-0.103469967576923	0	1		Tead4
+Cnga3	-0.265927062163294	0	1		Adcy3
+Snai2	-0.0134459897927943	0	1		Tead4
+Snai1	0.276577097104892	0	1		Tgfbr2
+Nus1	-0.0959210130148374	0	1		Fdps
+Wnt8a	0.00128003785215511	1	0	Fzd3	
+Acaa2	-0.265408344490295	0	1		Acadl
+Nfkb2	0.276291401588857	1	0	Traf4	
+Mapkapk3	0.347159225006125	0	1		Mapk13
+Lsp1	-0.00832622907606613	0	1		Cd209b
+Gcdh	0.160566417673662	0	1		Echs1
+Ncstn	-0.206949828675059	1	0	Notch1	
+Hsd17b1	-0.187344888396388	1	0	Ugt1a7c	
+Hsd17b7	0.227352632541194	1	0	Ugt1a7c	
+Pole	0.080236354934738	1	0	Entpd1	
+Atg5	0.0211943647921976	1	0	Atg16l2	
+Aspa	-0.10544193733114	1	0	Lao1	
+Eno1	0.0252279722150937	1	0	Pgam1	
+Eno2	-0.523227064133191	1	0	Pgam1	
+Eno3	-0.159806303117782	1	0	Pgam1	
+Pla2g15	0.395242848086904	0	1		Lpcat4
+Taldo1	0.0645799949696341	0	1		Fbp1
+Tmsb4x	0.319489377228279	0	1		Actb
+Aldoart1	-0.145564064145283	1	0	Fbp1	
+Acox2	0.00897252319885164	0	1		Ppard
+Bdh2	-0.0537568491860719	1	0	Aacs	
+Bdh1	0.0525122734618105	1	0	Aacs	
+Atp2a3	0.383386644679057	0	1		Pln
+Rasgrf1	0.065295413438445	0	1		Gng10
+Rasgrf2	-0.0976698961978189	0	1		Gng10
+Blm	0.246190861866084	1	0	Fancm	
+Gnpnat1	0.0793682873255172	1	0	Gfpt1	
+Sh3kbp1	0.332695649331049	1	0	Csf1r	
+Srebf1	-0.0097269056592659	1	0	Fasn	
+Ticam1	0.133233115953528	0	1		Ticam2
+Numbl	-0.145619059754045	1	0	Notch1	
+Mef2b	0.0274621305079899	0	1		Nfatc2
+Mef2a	0.0986787583218149	0	1		Nfatc2
+Arhgap10	-0.273431789072427	1	0	Actb	
+Upf2	0.297742237626374	1	0	Gspt2	
+Ces2b	-0.0932341434536977	1	0	Ugt1a7c	
+Ces2e	-0.06789740117981	1	0	Ugt1a7c	
+Ces2h	0.022517791943324	1	0	Ugt1a7c	
+Adam17	0.241096422977567	1	0	Notch1	
+Trpa1	0.0452659753814056	0	1		Prkce
+Rbsn	-0.0735594813304134	1	0	Ehd1	
+Atm	0.487431727492619	1	0	Chek1	
+Mthfd2	0.248559517914441	1	0	Atic	
+Mthfd1	-0.151929901407772	1	0	Atic	
+Stip1	0.0732803696529029	0	1		Prnp
+Mir345	0.0446320228003994	1	0	Abcc1	
+Hal	0.17286189144773	1	0	Hdc	
+Alg6	0.305243356750163	1	0	Alg5	
+Nfasc	0.0550422093788901	1	0	Cntnap1	
+Prim2	-0.159918583683414	1	0	Entpd1	
+Chek2	0.20552229407546	1	0	Cdc25a	
+Lct	0.0630915393869595	0	1		Gla
+Sox2	-0.0917643351749286	0	1		Tead4
+Cttn	-0.110210921522553	0	1		Actb
+C1ra	-0.394323241571012	1	0	C4b	
+Pln	0.0865090338838043	1	0	Atp2a3	
+Slc44a4	-0.595581274462856	0	1		Sp1
+Hspa5	0.132821540291686	0	1		Prnp
+Rcan1	-0.0669457699193511	0	1		Nfatc2
+Ldhal6b	0.179298817750976	0	1		Me1
+Ldha	-0.135115654797796	0	1		Me1
+Il1r1	0.264940310939846	1	0	Irak4	
+Crtc3	0.0862361863335195	0	1		Creb1
+Ptpn2	-0.0485051795690979	1	0	Tyk2	
+Ptpn7	0.328336683353352	1	0	Mapk13	
+Ptpn5	0.0305198319868422	1	0	Mapk13	
+Pgk1	-0.116666284095046	0	1		Pgam1
+Orc6	-0.107203355870093	0	1		Cdc6
+Orc4	0.171556665136964	0	1		Cdc6
+Orc5	-0.448532914757801	0	1		Cdc6
+Orc2	0.0340902710086921	0	1		Cdc6
+Orc3	0.0934359482806668	0	1		Cdc6
+Orc1	0.182045271039217	0	1		Cdc6
+Rps6kb2	-0.09707284388404	0	1		Pdpk1
+Rbl1	0.417404672407106	0	1		Ccnd3
+Rbl2	0.09748856065587	0	1		Ccnd3
+Epb4.1l2	-0.0782684736588583	0	1		Actb
+Epb4.1l3	-0.11207774744057	0	1		Actb
+Mir34a	0.0448293539563049	1	0	Notch1	
+Psen1	-0.0511813164822244	1	0	Notch1	
+Psme2b	-0.268733186326325	0	1		Tnf
+Sgk3	0.125944906750593	0	1		Pdpk1
+Sgk1	-0.332845278817456	0	1		Pdpk1
+Kidins220	0.358340718211779	1	0	Crkl	
+Numb	0.196863091315906	1	0	Notch1	
+Cav1	-0.0988322304312879	0	1		Itgb7
+Ganab	0.135893598084535	1	0	Man1a2	
+Mapk7	-0.112105851414628	0	1		Prkcb
+Cnr1	0.0448293539563049	1	0	Gng10	
+Mrvi1	0.108051179076341	1	0	Itpr2	
+C1s2	-0.0587368151442557	1	0	C4b	
+Tecr	0.0525670727734805	1	0	Acot2	
+Socs7	0.324843669681582	1	0	Tyk2	
+Socs6	0.0392401902863908	1	0	Tyk2	
+Socs1	0.163205275906095	1	0	Tyk2	
+Socs3	0.0452566729969898	1	0	Tyk2	
+Pkn1	0.0856840811431941	0	1		Pdpk1
+Pkn3	0.0296406562084677	0	1		Pdpk1
+Pkn2	0.0927764852351188	0	1		Pdpk1
+Dhrs3	-0.175493919280808	0	1		Cyp26a1
+Ppp1r1a	0.209930574900996	0	1		Ppp3ca
+Rps6ka1	0.29579686450765	1	0	Ppp1r3d	
+Rps6ka2	0.235668652976561	1	0	Ppp1r3d	
+Rps6ka3	0.377332977326549	1	0	Ppp1r3d	
+Rps6ka6	0.0452659753814056	1	0	Ppp1r3d	
+Gna13	0.0368076012345837	0	1		S1pr4
+Thy1	-0.433300030775504	1	0	Arhgap35	
+Asns	-0.282655637215991	1	0	Lao1	
+Gabbr2	-0.132144451825589	1	0	Gng10	
+Sv2a	-0.132708863690075	0	1		Lamb1
+Klc3	1.13984825217811	0	1		Plekhm2
+Efnb2	-0.0293295142260689	0	1		Ephb6
+Efnb1	0.129137965079566	0	1		Ephb6
+Clca3a1	-0.184068257399095	0	1		Cnga4
+Eef2k	-0.122069185368116	0	1		Prkcb
+Vdr	-0.241687530449314	1	0	Camp	
+Slc9a1	0.136617099001413	0	1		Prkcb
+Egln2	0.115922797181304	0	1		Prkcb
+Egln1	0.0404140699799638	0	1		Prkcb
+Wnt10b	-0.375256403290322	1	0	Fzd3	
+Csnk2a2	-0.0981793951559996	0	1		Cdk2
+Fxr1	0.314060115291739	0	1		Cyfip2
+Fxr2	0.167882909767795	0	1		Cyfip2
+Masp2	0.0452659753814056	1	0	C4b	
+Tsc2	0.17666446819032	0	1		Ddit4
+Tsc1	0.14592025858473	0	1		Ddit4
+Map4k2	0.750909985119673	0	1		Traf2
+Map4k4	-0.686258382584579	1	0	Map3k1	
+Max	-0.187466808070481	0	1		Mapk13
+Map2k3	0.208340922817202	1	0	Mapk13	
+Map2k2	0.061387410182977	0	1		Prnp
+Sh2d2a	-0.327304568103039	0	1		Plcg2
+Map2k7	-0.0837757957268648	0	1		Map3k12
+Map2k6	0.334468868069141	1	0	Mapk13	
+Dtx4	0.342708494852388	0	1		Notch1
+Dtx1	-0.0151456654519435	0	1		Notch1
+Dtx3	0.0222102263766264	0	1		Notch1
+Smg7	0.29722835345652	0	1		Smg1
+Pola2	0.0995130063340111	1	0	Entpd1	
+Rapgef1	-0.231246335777089	0	1		Crkl
+Rapgef2	0.418046484642702	0	1		Magi3
+Sell	-0.597928688348147	0	1		Cd34
+Rnf41	0.0236024220699317	1	0	Csf1r	
+Clca2	0.0448293539563049	0	1		Cnga4
+Clca1	-0.0433330894037472	0	1		Cnga4
+Coq3	-0.114092942174791	0	1		Coq7
+Bpgm	-0.355821184801603	1	0	Pgam1	
+Cpt2	-0.0547146915866973	0	1		Acadl
+Spn	-0.0199605860254908	1	0	Siglec1	
+Prim1	0.154512359951975	1	0	Entpd1	
+Dhcr24	0.19109676959062	0	1		Lipa
+Ccnb2	-0.345976535271654	1	0	Cpeb2	
+Mir16-1	0.109962725609956	1	0	Ccne2	
+Iqgap1	0.0988752654159984	1	0	Actb	
+Tfdp1	0.126491543349272	1	0	Ccne2	
+Echdc1	0.226509052376301	1	0	Acss1	
+Bco1	-0.0991236621947678	1	0	Rdh12	
+Rpia	0.133260554383041	1	0	Rpe	
+Ldhc	0.377930806323754	0	1		Me1
+B4galt2	-0.108013597787579	1	0	B3gnt5	
+Lipe	-0.209172647994362	0	1		Prkar2b
+Rps6kb1	0.150303395725757	0	1		Pdpk1
+B4galt4	0.0842470531463945	1	0	B3gnt5	
+Jag2	-0.405847741707524	1	0	Notch1	
+Gyk	0.0232686051983401	1	0	Akr1a1	
+Srd5a3	-0.328764403664002	1	0	Ugt1a7c	
+Srd5a1	0.199147714534062	1	0	Ugt1a7c	
+Pnn	0.467543344703205	0	1		Sap18
+Scly	0.206525990089416	0	1		Txnrd3
+F2	-0.109607698939021	1	0	F13a1	
+Rdh10	-0.040384677659737	0	1		Cyp26a1
+Rdh11	0.0327955578228255	0	1		Cyp26a1
+B3gnt4	0.0647668994103617	0	1		B4galt3
+B3gnt2	0.143617117841068	0	1		B4galt3
+B4gat1	-0.0921586939528573	0	1		B4galt3
+Ass1	-0.040612604922217	1	0	Lao1	
+Hspg2	-0.122465238073724	1	0	Vegfa	
+Tnfrsf14	-0.12749166110221	0	1		Tnfsf14
+Aim2	-0.666732335261691	1	0	Pycard	
+Rab3a	-0.208628795709743	1	0	Rims1	
+Me2	-0.203562269361206	1	0	Ldhb	
+Pira6	-0.263858943062076	1	0	Syk	
+Stra13	-0.108338800106026	0	1		Fancm
+Mthfd2l	0.00487155073874678	1	0	Atic	
+Was	0.200198113885036	1	0	Actb	
+Wnt9b	-0.0537568491860719	1	0	Fzd3	
+Wnt9a	-0.0436861624610961	1	0	Fzd3	
+Ifih1	-0.124218620620741	0	1		Dhx58
+Enpp6	-0.0537568491860719	1	0	Lpcat4	
+Enpp2	-0.0724038872081245	1	0	Lpcat4	
+Gart	0.0535840347009567	0	1		Atic
+Uxs1	-0.162226987672246	1	0	Ugt1a7c	
+Dll1	-0.020449705712233	1	0	Notch1	
+Dll3	0.00703462478885718	1	0	Notch1	
+Dll4	0.00650162919671661	1	0	Notch1	
+Pccb	-0.36331793991842	1	0	Acss1	
+Pcca	-0.243409890860873	1	0	Acss1	
+Tk2	-0.223719286007186	0	1		Entpd1
+Tk1	-0.0389509942234362	0	1		Entpd1
+Stag2	0.640176017010137	0	1		Espl1
+Lilra6	-0.27429204643809	1	0	Syk	
+Lilra5	0.151221086365817	1	0	Syk	
+Txnrd1	0.169933800587316	0	1		Ccbl2
+Sin3a	0.223993533966436	1	0	Ncor1	
+Coasy	-0.0126846987454135	0	1		Pank3
+Bmf	-0.677532414921269	0	1		Mir221
+Arhgef12	-0.00835717390780607	0	1		Cd209b
+Dpagt1	0.0689845814760037	0	1		Alg5
+Clec7a	-0.21879085200872	1	0	Syk	
+Cdc20	-0.260009517202263	0	1		Ppp3ca
+Sirpa	0.016106290769027	1	0	Syk	
+Brk1	-0.159320207514722	0	1		Cyfip2
+Dusp8	0.0761964681431605	1	0	Mapk13	
+Hmgcll1	-0.0433330894037472	0	1		Aacs
+Dusp5	0.282678539353753	1	0	Mapk13	
+Dusp4	-0.0919972045653255	1	0	Mapk13	
+Dusp7	-0.0364818068073576	1	0	Mapk13	
+Dusp6	0.323589254160784	1	0	Mapk13	
+Dusp1	-0.260201409716804	1	0	Mapk13	
+Dusp2	-0.482043401269017	1	0	Mapk13	
+Pirb	-0.450536896791227	1	0	Syk	
+Ppa2	-0.223965258611769	0	1		Atp6v0e2
+Ppa1	-0.184480328806534	0	1		Atp6v0e2
+Siglec1	-0.517508114395043	0	1		Spn
+Ripk1	0.00430492562650094	0	1		Ticam2
+Ripk2	-0.162357562503894	1	0	Mapk13	
+Acer2	-0.312221010204164	0	1		Gba2
+Axin1	-0.0815063852796442	0	1		Tead4
+Acer1	-0.120744170902374	0	1		Gba2
+Tnfrsf9	-0.742975809530643	0	1		Tnfsf9
+Grin2c	-0.0973426454621653	0	1		Prkcb
+Rhoq	0.158481524928519	0	1		Crkl
+Cntnap1	0.739185121620174	0	1		Nfasc
+Fut4	0.31965248264324	0	1		B4galt3
+G6pc3	-0.0257874498931945	0	1		Creb1
+Cd63	0.225326084601436	0	1		Cav2
+Papss1	0.0414708154033682	1	0	Suox	
+Acot2	-0.646444792866599	0	1		Tecr
+Kmo	0.143053413981341	1	0	Ccbl2	
+Angptl4	0.0163316741978965	0	1		Ppard
+St8sia1	0.00204164748625667	0	1		Fut7
+Tnfrsf1b	-0.0387241679902617	0	1		Tnf
+Gata4	-0.0440579003095387	0	1		Nfatc2
+Ethe1	0.155810754402141	0	1		Suox
+Srf	0.362451466455304	0	1		Nfatc2
+Gnpat	0.152758061438607	1	0	Gpd1	
+Rasgrp3	0.301948319588873	0	1		Plcg2
+Ephb1	0.00290373087520957	1	0	Efnb3	
+Cdkn2c	-0.271750843065406	1	0	Ccnd3	
+Ccnd1	-0.397801295464703	0	1		Tead4
+Ccnd2	0.0236048873118728	0	1		Tead4
+Dhcr7	-0.153322059646976	1	0	Lipa	
+Mir145a	-0.0537568491860719	1	0	Prkcb	
+Smad5	0.078269104735702	0	1		Smad7
+Atp6ap1	-0.0218686416393722	1	0	Prkcb	
+Casp12	-0.0395869380291951	0	1		Capn2
+Sfrp2	0.0555919437435177	1	0	Fzd3	
+Sfrp1	-0.351161851183599	1	0	Fzd3	
+Sfrp4	-0.0412877741159722	1	0	Fzd3	
+Sfrp5	0.144843186113422	1	0	Fzd3	
+Acad8	-0.231455346992915	1	0	Echs1	
+Wibg	-0.41131226597327	1	0	Rbm8a	
+Hpgds	-0.133065652047601	0	1		Ptgs1
+Tmem86b	0.222470191100936	1	0	Lpcat4	
+Dhdds	0.263543154760672	0	1		Fdps
+Myh7b	-0.0811207969885775	0	1		Actb
+Acaa1b	-0.0943057408518611	0	1		Acadl
+Plaur	-0.0332766708729278	0	1		Plau
+Cdk6	-0.0269108908546515	0	1		Cdc25a
+Sephs2	-0.00266055771445187	0	1		Txnrd3
+Sephs1	-0.00927803029935311	0	1		Txnrd3
+Hsp90ab1	-0.00138679067903285	1	0	Nlrp3	
+Acaa1a	0.0846965619227185	0	1		Acadl
+Dtx3l	-0.171802654136443	0	1		Notch1
+Mgat1	0.188969906396186	1	0	Man1a2	
+Trem2	-0.619320469327132	1	0	Syk	
+Papss2	-0.157867630145535	1	0	Suox	
+Xylt1	0.564066228393989	1	0	B4galt7	
+Mcat	-0.249540708772198	0	1		Fasn
+Pdcd1lg2	0.0988346309445183	1	0	Pdcd1	
+Rab11fip2	0.00257338171103616	0	1		Ehd1
+Klk1b1	-0.971067941869038	1	0	Bdkrb2	
+Eps15l1	0.183319193304209	1	0	Csf1r	
+Kdsr	-0.0929619218657491	0	1		Cers2
+Hcfc2	0.21700249293098	0	1		Cdk2
+Hcfc1	0.111591906321974	0	1		Cdk2
+Epn1	0.0787661181934124	1	0	Csf1r	
+Epn3	0.0448293539563049	1	0	Csf1r	
+Epn2	-0.146516878296494	1	0	Csf1r	
+Mapkapk5	-0.0110166491452963	0	1		Mapk13
+Nup98	0.0527098194359673	0	1		Nup37
+Lmo7	0.151668417670602	0	1		Actn1
+Amt	0.13731623428258	0	1		Atic
+Ccne1	0.279828570791695	0	1		E2f1
+Ikbkg	-0.12064859372057	0	1		Tbkbp1
+Ikbke	0.146826557983506	0	1		Tmem173
+Ivd	-0.0988397974039049	0	1		Echs1
+Aldh4a1	0.407038430106662	1	0	Glul	
+Trim25	-0.362839986930963	1	0	Ddx58	
+Tec	0.178943616269745	1	0	Plcg2	
+Fabp3	-0.149198841252042	0	1		Ppard
+Nat8l	-0.0706110109784852	1	0	Lao1	
+Ern1	0.0297466927147009	0	1		Psen2
+Dolpp1	0.0662420345536361	1	0	Alg5	
+Espl1	0.0523578948311218	1	0	Stag2	
+Grm8	0.0452659753814056	1	0	Gng10	
+Mdm2	0.27493157173459	1	0	Csf1r	
+Rgs2	0.12839818424414	0	1		Nfatc2
+Nup133	-0.0660958967966797	0	1		Nup37
+Nat2	0.00910302431263718	1	0	Xdh	
+Nat1	-0.0433330894037472	1	0	Xdh	
+Hsd17b10	-0.157757562638858	0	1		Echs1
+G6pc	0.101605388746067	0	1		Creb1
+Dhrs9	0.184381976140173	0	1		Cyp26a1
+Gda	0.153739649862875	0	1		Xdh

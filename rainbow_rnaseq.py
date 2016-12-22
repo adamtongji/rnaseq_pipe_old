@@ -115,6 +115,48 @@ def get_report(Outputdir):
     sh('cp {0}/results/cytoscape/* {0}/final/phase5-SignalNet/'.format(Outputdir))
 
 
+def get_ciri_report(Outputdir):
+    if not os.path.exists('{0}/final/'.format(Outputdir)):
+        sh('mkdir {0}/final/ {0}/results/mapping_rate/'.format(Outputdir))
+    else:
+        sh('rm -rf {0}/final/ {0}/results/mapping_rate/'.format(Outputdir))
+        sh('mkdir {0}/final/ {0}/results/mapping_rate/'.format(Outputdir))
+    sh('mkdir {0}/final/phase1-AllExpGenes {0}/final/phase2-DiffExpGenes\
+       {0}/final/phase3-GO_KEGG {0}/final/phase4-GSEA {0}/final/phase5-SignalNet'.format(Outputdir))
+    sh('cp {0}/star/*.final.out {0}/results/mapping_rate/'.format(Outputdir))
+    # merge_mapping_rate(Outputdir)
+
+    sh('cp {0}/results/treat_and_control_expression.txt {0}/final/phase1-AllExpGenes/expression_level_all.xls' \
+       .format(Outputdir))
+    sh('cp {0}/results/genes_up.txt {0}/final/phase2-DiffExpGenes/genes_up.xls' \
+       .format(Outputdir))
+    sh('cp {0}/results/genes_down.txt {0}/final/phase2-DiffExpGenes/genes_down.xls' \
+       .format(Outputdir))
+    sh('cp {0}/results/Treat_vs_control_diff.txt {0}/final/phase2-DiffExpGenes/Treat_vs_control_diff.xls' \
+       .format(Outputdir))
+    sh('cp {0}/results/Treat_vs_control_diff.pdf {0}/final/phase2-DiffExpGenes/Treat_vs_control_diff.pdf' \
+       .format(Outputdir))
+    sh('cp -r {0}/results/down/ {0}/final/phase3-GO_KEGG/down/'.format(Outputdir) \
+       .format(Outputdir))
+    sh('cp -r {0}/results/up/ {0}/final/phase3-GO_KEGG/up/'.format(Outputdir) \
+       .format(Outputdir))
+    sh('rm {0}/final/phase3-GO_KEGG/*/Rplots.pdf'.format(Outputdir))
+    sh('cp -r {0}/results/gsea/bp*/ {0}/final/phase4-GSEA/BP'.format(Outputdir))
+    sh('cp -r {0}/results/gsea/kegg*/ {0}/final/phase4-GSEA/KEGG'.format(Outputdir))
+    sh('cp {0}/results/cytoscape/* {0}/final/phase5-SignalNet/'.format(Outputdir))
+    sh("mkdir {0}/final/phase6-circRNA".format(Outputdir))
+    sh("cp {0}/results/circ_up_RBP.txt {0}/final/phase6-circRNA/up_circRNA_with_RBP.txt".format(Outputdir))
+    sh("cp {0}/results/circ_down_RBP.txt {0}/final/phase6-circRNA/down_circRNA_with_RBP.txt".format(Outputdir))
+    sh("cp {0}/results/annotation_table.txt {0}/final/phase6-circRNA/circRNA_summary.xls".format(Outputdir))
+    sh("cp {0}/results/annotation_table_circbase.txt {0}/final/phase6-circRNA/circRNA_circbase.xls".format(Outputdir))
+    sh("cp {0}/results/targetscan/circ_up_high.txt {0}/final/phase6-circRNA/down_circRNA_miRNA_top.xls".format(Outputdir))
+    sh("cp {0}/results/targetscan/circ_down_high.txt {0}/final/phase6-circRNA/up_circRNA_miRNA_top.xls".format(Outputdir))
+    sh("cp {0}/results/targetscan/circ_up_pass.txt {0}/final/phase6-circRNA/down_circRNA_miRNA_okay.xls".format(
+        Outputdir))
+    sh("cp {0}/results/targetscan/circ_down_pass.txt {0}/final/phase6-circRNA/up_circRNA_miRNA_okay.xls".format(
+        Outputdir))
+
+
 def configparser(config_file = './config.txt'):
     _file = [i.strip() for i in open(config_file)]
     configs = {}
@@ -234,12 +276,13 @@ def htseq_main(outputdir, Annotationfile, group, sampletype, stranded, htseq_pat
         >{0}/expr/{3}{2}_transcript.txt".format(outputdir, Annotationfile, group, sampletype,htseq_path))
 
 
-def ciri_main(outputdir, genomefile,annotationfile,treatments, controls)
+def ciri_main(outputdir, genomefile,annotationfile,treatments, controls):
     print "outputdir:",outputdir
     if not os.path.exists(outputdir):
         sh('mkdir {0}'.format(outputdir))
     if not os.path.exists('{0}/ciri_out/'.format(outputdir)):
         sh('mkdir {0}/ciri_out/'.format(outputdir))
+    pool=Pool(processes=4)
     for index in range(0,len(treatments),2):
         treatment = treatments[index:index+2]
         outprefix = outputdir+"/ciri_out/treat{0}".format(str((index/2)+1))
@@ -317,9 +360,10 @@ if __name__=='__main__':
         pool.close()
         pool.join()
 
-    if Run_type.lower()=="circRNA":
+    if Run_type == "circRNA_full" or Run_type == "circRNA_mapping":
         print "circRNA mode is only for testing pair-end data! only fastq input is allowed!"
-        ciri_main(Genomefile, Annotationfile, Readlength,treatments, controls, Outputdir)
+        ciri_main(Outputdir,Genomefile, Annotationfile,treatments, controls)
+    if Run_type == "circRNA_full" or Run_type == "circRNA_process":
         nrep = len(treatments)/2
         ciri_process(Outputdir,nrep,Pair_rep,P_value, Genomefile)
 
@@ -330,9 +374,11 @@ if __name__=='__main__':
 
 
     # collect report only after finish mouse or human project
-    if Run_type.lower()=='full' or Run_type.lower()=='de_full' or Run_type.lower()=="circRNA":
+    if Run_type.lower()=='full' or Run_type.lower()=='de_full':
         get_report(Outputdir)
-
+    if Run_type == "circRNA_full" or Run_type == "circRNA_process":
+        # get_report(Outputdir)
+        get_ciri_report(Outputdir)
 
 
     end_time = time.clock()

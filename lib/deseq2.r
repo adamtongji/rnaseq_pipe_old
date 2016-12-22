@@ -10,7 +10,7 @@ control_len =as.numeric(control_len)
 pairtype = args[3]
 p_value = args[4]
 setwd(outexprdir)
-
+pvalue<-as.numeric(p_value)
 file_name = dir()
 files = lapply(file_name, function(i) read.table(i,sep='\t', row.names=1))
 control=files[[1]]

@@ -47,7 +47,7 @@ def ciri_process(outputdir,nrep, pairtype, pvalue, genomefile,genome="hg19"):
                 genename = line[1]+'_'+line[2]+'_'+line[3]+'_'+line[10]
                 if not genename in gene_list:
                     print "loss keys!"
-                if not annot_table.has_key(genename)
+                if not annot_table.has_key(genename):
                     annot_table[genename]='\t'.join(line[1:4]+line[8:9]+[line[9].rstrip(",")]+line[10:11])
 
             genesummary=[[line[1]+'_'+line[2]+'_'+line[3]+'_'+line[10] for line in temp]]\
@@ -67,36 +67,96 @@ def ciri_process(outputdir,nrep, pairtype, pvalue, genomefile,genome="hg19"):
     with open("{0}/results/annotation_table.txt".format(outputdir),"w") as f:
         for mykey in annot_table.iterkeys():
             print >> f, "{1}\t{0}".format(mykey,annot_table[mykey])
-    awk_arg='{printf "%s\t%s\t%s\t%s\n",$3,$2,$1,$4}'
-    sh("intersect -a {0}/results/annotation_table.txt -b\
-     /home/Public/software/rnaseq2report/lib/db/hg19_circRNA_database.txt -wa -wb -s -f 1.0 -r\
-     | cut -f 4,5,7,11| awk '{1}' | uniq > {0}/results/annotation_table_circbase.txt"\
-       .format(outputdir,awk_arg))
+    awk_arg='{printf "%s\\t%s\\t%s\\t%s\\n",$3,$2,$1,$4}'
+    if genome.lower()=="mm9" or genome.lower()=="hg19":
+        sh("intersectBed -a {0}/results/annotation_table.txt -b\
+         /home/Public/software/rnaseq2report/lib/db/{2}_circRNA_database.txt -wa -wb -s -f 1.0 -r\
+         | cut -f 4,5,7,11| awk '{1}' | uniq > {0}/results/annotation_table_circbase.txt"\
+           .format(outputdir,awk_arg,genome))
+
+
 
     sh("Rscript /home/Public/software/rnaseq2report/lib/circ_deseq.r {0}/expr/ {1} {2} {3}"\
        .format(outputdir, nrep, pairtype, pvalue))
     # make circ_down and up to bed format
     up_file=[i.rstrip() for i in open("{0}/results/circ_up.txt".format(outputdir))]
-    with open("{0}/results/circ_up.txt".format(outputdir)) as f:
+    with open("{0}/results/circ_up2.txt".format(outputdir),"w") as f:
         up_out=[i.split("_")[:3]+["."]+[i]+i.split("_")[3:] for i in up_file]
         up_out2 = ['\t'.join(i) for i in up_out]
         for line in up_out2:
             print >>f, line
     down_file=[i.rstrip() for i in open("{0}/results/circ_down.txt".format(outputdir))]
-    with open("{0}/results/circ_down.txt".format(outputdir)) as f:
+    with open("{0}/results/circ_down2.txt".format(outputdir),"w") as f:
         down_out=[i.split("_")[:3]+[i]+["."]+i.split("_")[3:] for i in down_file]
         down_out2 = ['\t'.join(i) for i in down_out]
         for line in down_out2:
             print >>f, line
+    """
     # hs is 9606
-    awk_arg = '{printf "%s\t%s\t%s\n",$1,9606,$2}'
-    sh("bedtools getfasta -fi {0} -bed {1}/results/circ_up.txt -fo stdout -name -tab|\
-      awk '{2}' > {1}/results/targetscan/circ_up_sequence.txt".format(genomefile,outputdir,awk_arg))
-    sh("bedtools getfasta -fi {0} -bed {1}/results/circ_down.txt -fo stdout -name -tab|\
-        awk '{2}' > {1}/results/targetscan/circ_down_sequence.txt".format(genomefile, outputdir, awk_arg))
+    if genome.lower() == 'hg19': #or genome.lower() == 'hg38':
+        awk_arg = '{printf "%s\\t%s\\t%s\\n",$1,9606,$2}'
+    elif genome.lower() == 'mm9':
+        # need revise
+        awk_arg = '{printf "%s\\t%s\\t%s\\n",$1,10090,$2}'
+        # pass
+    elif genome.lower()=="rn6":
+        awk_arg = '{printf "%s\\t%s\\t%s\\n",$1,10116,$2}'
+    else:
+        print ""
 
-    sh("targetscan_60.pl /home/Public/software/targetscan/miR_Family_Info_hs.txt {0}/results/targetscan/circ_up_sequence.txt\
-       {0}/results/targetscan/circ_up_sequence.txt ".format(outputdir))
+
+    if awk_arg:
+        sh("bedtools getfasta -fi {0} -bed {1}/results/circ_up2.txt -fo stdout -name -tab|\
+          awk '{2}' > {1}/results/targetscan/circ_up_sequence.txt".format(genomefile,outputdir,awk_arg))
+        sh("bedtools getfasta -fi {0} -bed {1}/results/circ_down2.txt -fo stdout -name -tab|\
+            awk '{2}' > {1}/results/targetscan/circ_down_sequence.txt".format(genomefile, outputdir, awk_arg))
+
+
+    sh("targetscan_60.pl /home/Public/software/targetscan/miR_Family_Info.txt {0}/results/targetscan/circ_up_sequence.txt\
+       {0}/results/targetscan/circ_up_miRNA.txt ".format(outputdir))
+    sh("targetscan_60.pl /home/Public/software/targetscan/miR_Family_Info.txt {0}/results/targetscan/circ_down_sequence.txt\
+        {0}/results/targetscan/circ_down_miRNA.txt ".format(outputdir))
+    sh("cp /home/Public/software/targetscan/TA_SPS_by_seed_region.txt ./")
+    sh("targetscan_60_context_scores.pl /home/Public/software/targetscan/miR_for_context_scores.txt\
+     {0}/results/targetscan/circ_down_miRNA.txt {0}/results/circ_down2.txt {0}/results/targetscan/circ_down_score.txt".format(outputdir))
+    sh("targetscan_60_context_scores.pl /home/Public/software/targetscan/miR_for_context_scores.txt\
+        {0}/results/targetscan/circ_up_miRNA.txt {0}/results/circ_up2.txt {0}/results/targetscan/circ_up_score.txt".format(outputdir))
+    sh("rm ./TA_SPS_by_seed_region.txt")
+    sh("cut -f1-13,17 {0}/results/targetscan/circ_up_score.txt >{0}/results/targetscan/circ_up_tmp.txt".format(outputdir))
+    sh("cut -f1-13,17 {0}/results/targetscan/circ_down_score.txt >{0}/results/targetscan/circ_down_tmp.txt".format(outputdir))
+    # filter high and medium targets
+    #with open("{0}/results/targetscan/circ_down_full.txt",'w') as f:
+    high_up = open("{0}/results/targetscan/circ_up_high.txt".format(outputdir),'w')
+    pass_up = open("{0}/results/targetscan/circ_up_pass.txt".format(outputdir),'w')
+    up_mi = [i.rstrip().split("\t") for i in open("{0}/results/targetscan/circ_up_tmp.txt".format(outputdir))]
+    head = '\t'.join(up_mi[0])
+    print >>high_up, head
+    print >>pass_up, head
+    for myline in range(1,len(up_mi),1):
+        if int(up_mi[myline][12]) > 90:
+            _mylines = "\t".join(up_mi[myline])
+            print >>high_up, _mylines
+        if int(up_mi[myline][12]) > 60:
+            _mylines = "\t".join(up_mi[myline])
+            print >> pass_up, _mylines
+    high_down = open("{0}/results/targetscan/circ_down_high.txt".format(outputdir), 'w')
+    pass_down = open("{0}/results/targetscan/circ_down_pass.txt".format(outputdir), 'w')
+    down_mi = [i.rstrip().split("\t") for i in open("{0}/results/targetscan/circ_down_tmp.txt".format(outputdir))]
+    head = '\t'.join(down_mi[0])
+    print >> high_down, head
+    print >> pass_down, head
+    for myline in range(1, len(down_mi), 1):
+        if int(down_mi[myline][12]) > 90:
+            _mylines = "\t".join(down_mi[myline])
+            print >> high_down, _mylines
+        if int(down_mi[myline][12]) > 60:
+            _mylines = "\t".join(down_mi[myline])
+            print >> pass_down, _mylines
+    high_up.close()
+    high_down.close()
+    pass_down.close()
+    pass_up.close()
+    """
     # start with hg19 only first
     if genome.lower()=='hg19' or genome.lower()=='hg38':
         sh("Rscript /home/Public/software/rnaseq2report/lib/pathway.r {0}/results/".format(outputdir))
@@ -104,24 +164,24 @@ def ciri_process(outputdir,nrep, pairtype, pvalue, genomefile,genome="hg19"):
         sh("Rscript /home/Public/software/rnaseq2report/lib/mouse_pathway.r {0}/results".format(outputdir))
 
     ## RBP binding with circ and gene
-    with open("{0}/results/ciri_up.bed".format(outputdir),"w") as f:
-        temp=[i.rstrip().split("_") for i in open("{0}/results/ciri_up.txt".format(outputdir))]
+    with open("{0}/results/circ_up.bed".format(outputdir),"w") as f:
+        temp=[i.rstrip().split("_") for i in open("{0}/results/circ_up2.txt".format(outputdir))]
         temp2 = [i[:3]+["."]+["."]+[i[3]] for i in temp]
         temp3 = ['\t'.join(i) for i in temp2]
         for line in temp3:
             print >>f, line
-    with open("{0}/results/ciri_down.bed".format(outputdir), "w") as f:
-        temp = [i.rstrip().split("_") for i in open("{0}/results/ciri_down.txt".format(outputdir))]
+    with open("{0}/results/circ_down.bed".format(outputdir), "w") as f:
+        temp = [i.rstrip().split("_") for i in open("{0}/results/circ_down2.txt".format(outputdir))]
         temp2 = [i[:3] + ["."] + ["."] + [i[3]] for i in temp]
         temp3 = ['\t'.join(i) for i in temp2]
         for line in temp3:
             print >> f, line
-    sh("bash /home/Public/software/rnaseq2report/bin/RBP_counts.sh\
-     {0}/results/ciri_down.bed {0}/results/ciri_down_RBP.txt".format(outputdir))
-    sh("bash /home/Public/software/rnaseq2report/bin/RBP_counts.sh\
-        {0}/results/ciri_up.bed {0}/results/ciri_up_RBP.txt".format(outputdir))
+    if genome.lower() == 'hg19' or genome.lower() == 'hg38':
+        sh("bash /home/Public/software/rnaseq2report/bin/RBP_count.sh\
+         {0}/results/circ_down.bed {0}/results/ciri_down_RBP.txt".format(outputdir))
+        sh("bash /home/Public/software/rnaseq2report/bin/RBP_count.sh\
+            {0}/results/circ_up.bed {0}/results/ciri_up_RBP.txt".format(outputdir))
     further(outputdir,genome)
-
 
 
 def further(outputdir, genome):
@@ -164,8 +224,10 @@ def further(outputdir, genome):
          /home/Public/software/rnaseq2report/lib/merged_KEGG.txt -i {0}/results/Treat_vs_control_diff.txt -d \
            {0}/results/cytoscape'.format(outputdir))
     elif genome.lower()=='mm9' or genome.lower()=='mm10':
-        sh('/home/Public/software/rnaseq2report/lib/DEG2network.py -p 0.05 -n 5 -k\
+        sh('/home/Public/software/rnaseq2report/lib/DEG2network_mouse.py -p 0.05 -n 5 -k\
          /home/Public/software/rnaseq2report/lib/mouse_merged_KEGG.txt -i {0}/results/Treat_vs_control_diff.txt -d \
            {0}/results/cytoscape'.format(outputdir))
+
+    ###! find is there other species
 
 

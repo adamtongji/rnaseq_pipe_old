@@ -46,7 +46,7 @@ def further(outputdir, genome):
          /home/Public/software/rnaseq2report/lib/merged_KEGG.txt -i {0}/results/Treat_vs_control_diff.txt -d \
            {0}/results/cytoscape'.format(outputdir))
     elif genome.lower()=='mm9' or genome.lower()=='mm10':
-        sh('/home/Public/software/rnaseq2report/lib/DEG2network.py -p 0.05 -n 5 -k\
+        sh('/home/Public/software/rnaseq2report/lib/DEG2network_mouse.py -p 0.05 -n 5 -k\
          /home/Public/software/rnaseq2report/lib/mouse_merged_KEGG.txt -i {0}/results/Treat_vs_control_diff.txt -d \
            {0}/results/cytoscape'.format(outputdir))
 
